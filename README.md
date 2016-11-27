@@ -1,2 +1,3 @@
 # text-fabric-data
-Textual data of ancient sources to be used in conjunction with Text-Fabric
+Textual data of ancient sources to be used in conjunction with
+[Text-Fabric](https://github.com/dirkroorda/text-fabric-data)
