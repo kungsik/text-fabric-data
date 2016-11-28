@@ -1,6 +1,7 @@
 @node
-@dateCreated=2016-11-20T11:05:06+07
-@createdBy=Text-Fabric
+@source=ETCBC4c via LAF-Fabric
+@writtenBy=Text-Fabric
+@dateWritten=2016-11-28T20:37:49Z
 
 0-426580	word
 426581-514580	clause

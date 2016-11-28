@@ -2,6 +2,11 @@
 Textual data of ancient sources to be used in conjunction with
 [Text-Fabric](https://github.com/dirkroorda/text-fabric)
 
+The source is etcbc4c (licensed as version 4b below).
+
+It has been compiled by means of
+[tfFromLAF](https://github.com/dirkroorda/text-fabric/blob/master/notebooks/tfFromLAF.ipynb).
+
 License: CC-BY-NC
 
 This work is licensed under a
