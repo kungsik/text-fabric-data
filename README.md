@@ -5,7 +5,7 @@ Textual data of ancient sources to be used in conjunction with
 The source is etcbc4c (licensed as version 4b below).
 
 It has been compiled by means of
-[tfFromLAF](https://github.com/dirkroorda/text-fabric/blob/master/notebooks/tfFromLAF.ipynb).
+[tfFromLAF](https://github.com/dirkroorda/text-fabric/blob/master/docs/tfFromLAF.ipynb).
 
 License: CC-BY-NC
 
