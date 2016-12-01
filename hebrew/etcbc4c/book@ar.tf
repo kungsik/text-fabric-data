@@ -4,7 +4,7 @@
 @languageEnglish=arabic
 @source=blang.py in LAF-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2016-11-30T19:22:45Z
+@dateWritten=2016-12-01T14:20:03Z
 
 1367533	تكوين
 خروج
