@@ -1,7 +1,7 @@
 @node
-@source=ETCBC4c via LAF-Fabric
+@valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2016-11-28T20:38:01Z
+@dateWritten=2016-12-06T14:27:37Z
 
 426581	xQtX
 WXQt

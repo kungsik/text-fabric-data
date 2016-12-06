@@ -3,8 +3,9 @@
 @languageCode=nl
 @languageEnglish=dutch
 @source=blang.py in LAF-Fabric
+@valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2016-12-01T14:20:03Z
+@dateWritten=2016-12-06T14:26:54Z
 
 1367533	Genesis
 Exodus

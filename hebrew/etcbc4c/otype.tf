@@ -1,7 +1,7 @@
 @node
-@source=ETCBC4c via LAF-Fabric
+@valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2016-11-28T20:37:49Z
+@dateWritten=2016-12-06T14:27:25Z
 
 0-426580	word
 426581-514580	clause
@@ -15,3 +15,4 @@
 1367572-1368500	chapter
 1368501-1413680	half_verse
 1413681-1436893	verse
+1436894-1446129	lex

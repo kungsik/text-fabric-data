@@ -1,7 +1,7 @@
 @edge
-@source=ETCBC4c via LAF-Fabric
+@valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2016-11-28T20:38:14Z
+@dateWritten=2016-12-06T14:27:51Z
 
 426589	426588
 426601	104

@@ -1,7 +1,7 @@
 @node
-@source=ETCBC4c via LAF-Fabric
+@valueType=int
 @writtenBy=Text-Fabric
-@dateWritten=2016-11-28T20:37:23Z
+@dateWritten=2016-12-06T14:26:55Z
 
 426581	0
 0
