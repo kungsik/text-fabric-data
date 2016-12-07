@@ -12,5 +12,5 @@
 @sectionFeatures=book,chapter,verse
 @sectionTypes=book,chapter,verse
 @writtenBy=Text-Fabric
-@dateWritten=2016-12-06T14:27:58Z
+@dateWritten=2016-12-07T08:52:27Z
 

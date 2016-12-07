@@ -1,7 +1,7 @@
 @node
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2016-12-06T14:27:41Z
+@dateWritten=2016-12-07T08:52:10Z
 
 1436894	בְּ
 רֵאשִׁית
