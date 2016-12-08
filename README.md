@@ -1,25 +1,32 @@
 # text-fabric-data
+
+![text-fabric](https://raw.github.com/dirkroorda/text-fabric/master/docs/tf.png)
+
 Textual data of ancient sources to be used in conjunction with
 [Text-Fabric](https://github.com/dirkroorda/text-fabric)
 
-The source is etcbc4c (licensed as version 4b below).
+# Available data sources
 
-It has been compiled by means of
-[tfFromLAF](https://github.com/dirkroorda/text-fabric/blob/master/docs/tfFromLAF.ipynb).
+## Hebrew
 
-License: CC-BY-NC
+### etcbc4c
 
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
-That means:
+Hebrew Text Database, text and linguistic annotations made by the
+[Eep Talstra Centre for Bible and Computer](http://www.godgeleerdheid.vu.nl/en/research/institutes-and-centres/eep-talstra-centre-for-bible-and-computer/index.aspx)
+and prepared for online use and use in Text-Fabric by Dirk Roorda
+[Data Archiving and Networked Services](https://dans.knaw.nl/en/front-page?set_language=en)
 
-You must give proper attribution to the data when you use it in new applications, by citing one or more of their persistent identifiers:
+This source a follow-up version of **etcbc4b**, which is documented on 
+[SHEBANQ](https://shebanq.ancient-data.org/sources).
 
-* version 4
-  [10.17026/dans-2z3-arxf](http://dx.doi.org/10.17026%2Fdans-2z3-arxf);
-* version 4b
-  [10.17026/dans-z6y-skyh](http://dx.doi.org/10.17026%2Fdans-z6y-skyh).
+The same license conditions apply.
 
-You may not use the data for commercial applications without consent;
-For any commercial use, please contact the
-[German Bible Society](mailto:zentrale@dbg.de).
+**etcbc4c** has been compiled by means of
+[tfFromLAF](https://github.com/dirkroorda/text-fabric/blob/master/tfFromLAF/tfFromLAF.ipynb).
+
+### phono
+
+Phonetic transcription of the text in the **etcbc4c** database.
+The transcription is algorithmically produced by a notebook that makes use of the corpus as whole.
+The notebook provides the result as a *module* to the **etcbc4c** core data.
+As such it can be seamlessly imported by Text-Fabric.
