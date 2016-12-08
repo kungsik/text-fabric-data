@@ -5,9 +5,9 @@
 @source=blang.py in LAF-Fabric
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2016-12-07T08:51:21Z
+@dateWritten=2016-12-08T10:38:24Z
 
-1367533	پیدائش
+1367534	پیدائش
 خروج
 احبار
 گنتی

@@ -1,9 +1,9 @@
 @node
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2016-12-07T08:51:22Z
+@dateWritten=2016-12-08T10:38:24Z
 
-605143	und
+605144	und
 NA
 und
 det

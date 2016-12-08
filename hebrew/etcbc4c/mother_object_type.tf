@@ -1,9 +1,9 @@
 @node
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2016-12-07T08:51:50Z
+@dateWritten=2016-12-08T10:38:47Z
 
-426581	clause
+426582	clause
 clause
 clause
 clause
@@ -88003,7 +88003,7 @@ phrase
 clause
 clause
 clause
-1253741	NA
+1253742	NA
 subphrase
 NA
 subphrase

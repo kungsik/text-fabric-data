@@ -5,9 +5,9 @@
 @source=blang.py in LAF-Fabric
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2016-12-07T08:51:21Z
+@dateWritten=2016-12-08T10:38:24Z
 
-1367533	창세기
+1367534	창세기
 탈출기
 레위기
 민수기

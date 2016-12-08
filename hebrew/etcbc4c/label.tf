@@ -1,9 +1,9 @@
 @node
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2016-12-07T08:51:45Z
+@dateWritten=2016-12-08T10:38:43Z
 
-1368501	A
+1368502	A
 B
 A
 B

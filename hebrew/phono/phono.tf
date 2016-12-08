@@ -1,7 +1,7 @@
 @node
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2016-12-07T11:52:54Z
+@dateWritten=2016-12-08T11:43:15Z
 
 bᵊ
 rēšˌîṯ

@@ -1,9 +1,9 @@
 @node
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2016-12-07T08:51:21Z
+@dateWritten=2016-12-08T10:38:24Z
 
-1367533	Genesis
+1367534	Genesis
 Exodus
 Leviticus
 Numeri
@@ -971,7 +971,7 @@ Chronica_II
 Chronica_II
 Chronica_II
 Chronica_II
-1413681	Genesis
+1413682	Genesis
 Genesis
 Genesis
 Genesis
