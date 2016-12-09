@@ -1,6 +1,6 @@
 <a name="top">
 
-![logo](https://raw.github.com/ETCBC/text-fabric/master/docs/tf.png)
+![logo](images/tf.png)
 
 Text-Fabric data is a collection of richly annotated data sources.
 They are stored here in a compact, plain text format
