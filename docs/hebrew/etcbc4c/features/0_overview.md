@@ -36,11 +36,11 @@ We organize the object types as follows:
 
 ---|---|---|---|---
 [g_cons](g_cons.md) | word | consonantal | transliterated | `>CR`
-[g_cons_utf8](g_cons_utf8.md) | word | consonantal | hebrew | `אשׁר`
-[g_word](g_word.md) | word | pointed      transliterated | `>:ACER&`
-[g_word_utf8](g_word_utf8.md) | word | pointed | hebrew | `אֲשֶׁר`
-[ketiv](ketiv.md) | word (ketiv) | consonantal  hebrew | `אֲשֶׁר`
-[g_qere_utf8](g_qere_utf8.md) | word (qere) | pointed | hebrew | `אֲשֶׁר`
+[g_cons_utf8](g_cons_utf8.md) | word | consonantal | hebrew | `אשׁר`
+[g_word](g_word.md) | word | pointed | transliterated | `>:ACER&`
+[g_word_utf8](g_word_utf8.md) | word | pointed | hebrew | `אֲשֶׁר`
+[ketiv](ketiv.md) | word (ketiv) | consonantal | hebrew | `אֲשֶׁר`
+[g_qere_utf8](g_qere_utf8.md) | word (qere) | pointed | hebrew | `אֲשֶׁר`
 [trailer_utf8](trailer_utf8.md) | after-word | pointed | hebrew | `׃ ׆̇`
 [qtrailer_utf8](trailer_utf8.md) | after-word (qere) | pointed | hebrew | `׃ ׆̇`
 [phono](phono.md) | word | full | phonetic | `dāvˈār`
