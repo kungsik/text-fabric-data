@@ -1,9 +1,9 @@
 # text-fabric-data
 
-![text-fabric](https://raw.github.com/etcbc/text-fabric/master/docs/tf.png)
+![text-fabric](https://raw.github.com/ETCBC/text-fabric/master/docs/tf.png)
 
 Textual data of ancient sources to be used in conjunction with
-[Text-Fabric](https://github.com/etcbc/text-fabric)
+[Text-Fabric](https://github.com/ETCBC/text-fabric)
 
 # Available data sources
 
@@ -22,7 +22,7 @@ This source a follow-up version of **etcbc4b**, which is documented on
 The same license conditions apply.
 
 **etcbc4c** has been compiled by means of
-[tfFromLAF](https://github.com/etcbc/text-fabric/blob/master/tfFromLAF/tfFromLAF.ipynb).
+[tfFromLAF](https://github.com/ETCBC/text-fabric/blob/master/tfFromLAF/tfFromLAF.ipynb).
 
 ### phono
 
