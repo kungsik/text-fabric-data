@@ -13,7 +13,7 @@ This source a follow-up version of **etcbc4b**, which is documented on
 [SHEBANQ](https://shebanq.ancient-data.org/sources).
 
 **etcbc4c** has been compiled by means of
-[tfFromLAF](https://github.com/ETCBC/text-fabric/blob/master/tfFromLAF/tfFromLAF.ipynb).
+[tfFromLAF](https://github.com/ETCBC/text-fabric/blob/master/tfFromLaF/tfFromLAF.ipynb).
 
 ## License
 
@@ -39,4 +39,4 @@ This data can be processed by
 
 What you need to know is what the features in this data set mean.
 
-[Feature Documentation](features.md)
+[Feature Documentation](features/0_overview.md)

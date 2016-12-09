@@ -11,4 +11,4 @@ In order to work with them, you need software such as
 [Text-Fabric](/ETCBC/text-fabric.wiki)
 which is a Python package that you can easily install.
 
-[Available Texts](https://github.com/ETCBC/text-fabric-data/wiki/Home)
+[Available Texts](https://etcbc.github.io/text-fabric-data/)
