@@ -13,7 +13,7 @@ This source a follow-up version of **etcbc4b**, which is documented on
 [SHEBANQ](https://shebanq.ancient-data.org/sources).
 
 **etcbc4c** has been compiled by means of
-[tfFromLAF](https://github.com/ETCBC/text-fabric/blob/master/tfFromLaF/tfFromLAF.ipynb).
+[tfFromLAF](https://github.com/ETCBC/text-fabric/blob/master/tfFromLaf/tfFromLAF.ipynb).
 
 ## License
 
