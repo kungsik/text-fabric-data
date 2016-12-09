@@ -13,9 +13,11 @@ See the [otext@phono](/ETCBC/text-fabric-data/hebrew/phono/otext@phono.tf) file.
 
 When this module is loaded into Text-Fabric, you can get text in phonetic representation
 by calling
+
 ```python
 T.text(nodes, fmt='text-phono-full')
 ```
+
 # Features
 
 ## phono
