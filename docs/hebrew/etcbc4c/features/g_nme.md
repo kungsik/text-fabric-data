@@ -1,5 +1,5 @@
-Nominal ending -pointed-transliterated `g_nme`
------------------------------------------------------------------------------------
+# Nominal ending -pointed-transliterated `g_nme`
+
 
 The pointed representation of the nominal ending of a word in
 [ETCBC transliteration](https://shebanq.ancient-data.org/shebanq/static/docs/ETCBC4-transcription.pdf).

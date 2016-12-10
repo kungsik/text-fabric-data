@@ -1,5 +1,5 @@
-Word -pointed-Hebrew `g_word_utf8`
------------------------------------------------------------------
+# Word -pointed-Hebrew `g_word_utf8`
+
 
 The pointed representation of a word occurrence in Hebrew script.
 

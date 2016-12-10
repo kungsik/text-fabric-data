@@ -1,5 +1,5 @@
-Word -pointed-Hebrew (qere) `g_qere_utf8`
------------------------------------------------------------------
+# Word -pointed-Hebrew (qere) `g_qere_utf8`
+
 
 The pointed representation of a qere word occurrence in Hebrew script when there is a divergent ketiv.
 

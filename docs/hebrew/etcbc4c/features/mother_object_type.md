@@ -1,5 +1,5 @@
-Mother object type `mother_object_type`
--------------------------------------------------------------
+# Mother object type `mother_object_type`
+
 
 Whether the phrase (atom) is determined or not, in the linguistic sense.
 

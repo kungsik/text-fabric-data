@@ -1,5 +1,5 @@
-Phrase dependent part-of-speech `pdp`
---------------------------------------------------------------------------
+# Phrase dependent part-of-speech `pdp`
+
 
 The part of speech that is assigned to a word based on its phrase context rather than on its lexical identity.
 

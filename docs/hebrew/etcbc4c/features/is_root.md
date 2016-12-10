@@ -1,5 +1,5 @@
-Is root `is_root`
---------------------------------------------------
+# Is root `is_root`
+
 
 **NB:**
 I was unable to locate a definition of this feature

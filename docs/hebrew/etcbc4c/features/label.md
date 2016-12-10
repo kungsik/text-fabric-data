@@ -1,5 +1,5 @@
-Verse label `label`
-------------------------------------------------------
+# Verse label `label`
+
 
 A small string, identifying the present book, chapter and verse.
 

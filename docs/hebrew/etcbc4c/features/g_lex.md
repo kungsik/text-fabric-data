@@ -1,5 +1,5 @@
-Lexeme -pointed-transliterated `g_lex`
--------------------------------------------------------------------------------
+# Lexeme -pointed-transliterated `g_lex`
+
 
 The pointed representation of the lexeme of a word occurrence in 
 [ETCBC transliteration](https://shebanq.ancient-data.org/shebanq/static/docs/ETCBC4-transcription.pdf).

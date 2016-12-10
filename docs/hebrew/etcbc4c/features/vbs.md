@@ -1,5 +1,5 @@
-Root formation -consonantal-transliterated `vbs`
----------------------------------------------------------------------------------------
+# Root formation -consonantal-transliterated `vbs`
+
 
 The consonantal representation of the root formation of a verb.
 [ETCBC transliteration](https://shebanq.ancient-data.org/shebanq/static/docs/ETCBC4-transcription.pdf).

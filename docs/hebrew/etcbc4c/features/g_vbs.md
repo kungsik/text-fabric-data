@@ -1,5 +1,5 @@
-Root formation -pointed-transliterated `g_vbs`
------------------------------------------------------------------------------------
+# Root formation -pointed-transliterated `g_vbs`
+
 
 The pointed representation of the root formation of a word in
 [ETCBC transliteration](https://shebanq.ancient-data.org/shebanq/static/docs/ETCBC4-transcription.pdf).

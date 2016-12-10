@@ -1,5 +1,5 @@
-Pronominal suffix -pointed-Hebrew `g_prs_utf8`
-------------------------------------------------------------------------------
+# Pronominal suffix -pointed-Hebrew `g_prs_utf8`
+
 
 The pointed representation of the pronominal suffix of a word in Hebrew.
 

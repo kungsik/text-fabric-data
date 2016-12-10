@@ -1,5 +1,5 @@
-Pronominal suffix -pointed-transliterated `g_prs`
---------------------------------------------------------------------------------------
+# Pronominal suffix -pointed-transliterated `g_prs`
+
 
 The pointed representation of the pronominal suffix of a word in
 [ETCBC transliteration](https://shebanq.ancient-data.org/shebanq/static/docs/ETCBC4-transcription.pdf).

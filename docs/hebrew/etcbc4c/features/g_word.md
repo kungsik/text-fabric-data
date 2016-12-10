@@ -1,5 +1,5 @@
-Word -pointed-transliterated `g_word`
--------------------------------------------------------------------------
+# Word -pointed-transliterated `g_word`
+
 
 The pointed representation of a word occurrence in
 [ETCBC transliteration](https://shebanq.ancient-data.org/shebanq/static/docs/ETCBC4-transcription.pdf).

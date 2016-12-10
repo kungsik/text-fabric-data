@@ -1,5 +1,5 @@
-Rank-occurrence `rank_occ`
--------------------------------------------------------------------------------
+# Rank-occurrence `rank_occ`
+
 The rank of a word occurrence, a measure related to its frequency.
 
 This feature is present on objects of type *word*.

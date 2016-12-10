@@ -1,5 +1,5 @@
-Clause kind `clause_kind`
--------------------------------------------------------------------
+# Clause kind `clause_kind`
+
 This feature is present on objects of type *clause*.
 
 **NB:**

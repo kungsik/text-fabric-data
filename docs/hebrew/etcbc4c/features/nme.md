@@ -1,5 +1,5 @@
-Nominal ending -consonantal-transliterated `nme`
----------------------------------------------------------------------------------------
+# Nominal ending -consonantal-transliterated `nme`
+
 
 The consonantal representation of the nominal ending of a word
 [ETCBC transliteration](https://shebanq.ancient-data.org/shebanq/static/docs/ETCBC4-transcription.pdf).

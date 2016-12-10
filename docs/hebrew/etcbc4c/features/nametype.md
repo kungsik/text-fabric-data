@@ -1,5 +1,5 @@
-Name type `nametype`
-----------------------------------------------------------------
+# Name type `nametype`
+
 
 The type of a named entity.
 

@@ -1,5 +1,5 @@
-Lexical set `ls`
-------------------------------------------------------
+# Lexical set `ls`
+
 
 Subclassification of part of speech.
 

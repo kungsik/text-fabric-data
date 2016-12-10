@@ -1,5 +1,5 @@
-Preformative -pointed-Hebrew `g_pfm_utf8`
--------------------------------------------------------------------------
+# Preformative -pointed-Hebrew `g_pfm_utf8`
+
 
 The pointed representation of the preformative of a word in Hebrew.
 

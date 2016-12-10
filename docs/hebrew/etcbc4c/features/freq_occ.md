@@ -1,5 +1,5 @@
-Frequency-occurrence `freq_occ`
--------------------------------------------------------------------------------
+# Frequency-occurrence `freq_occ`
+
 The frequency of a word occurrence, measured as the number of occurrences in the whole Hebrew Bible.
 
 This feature is present on objects of type *word*.

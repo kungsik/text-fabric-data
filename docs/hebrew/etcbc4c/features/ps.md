@@ -1,5 +1,5 @@
-Person `ps`
--------------------------------------------------
+# Person `ps`
+
 
 The person class a word (or rather lexeme) belongs to.
 

@@ -1,5 +1,5 @@
-Verbal tense `vt`
--------------------------------------------------------
+# Verbal tense `vt`
+
 
 Form of the verb that indicates tense or mood.
 

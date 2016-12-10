@@ -1,5 +1,5 @@
-Clause/Phrase(-atom) type `typ`
----------------------------------------------------------------------------------
+# Clause/Phrase(-atom) type `typ`
+
 
 The linguistic kind of objects.
 

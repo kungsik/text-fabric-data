@@ -1,5 +1,5 @@
-Paragraph `pargr`
----------------------------------------------------
+# Paragraph `pargr`
+
 The (sub)paragraph number of a clause atom.
 
 This feature is present on objects of type *clause_atom*.

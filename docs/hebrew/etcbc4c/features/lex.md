@@ -1,5 +1,5 @@
-Lexeme -consonantal-transliterated `lex`
--------------------------------------------------------------------------------
+# Lexeme -consonantal-transliterated `lex`
+
 
 The consonantal representation of the lexeme of a word occurrence in
 [ETCBC transliteration](https://shebanq.ancient-data.org/shebanq/static/docs/ETCBC4-transcription.pdf).

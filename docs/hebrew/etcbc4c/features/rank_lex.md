@@ -1,5 +1,5 @@
-Rank-lexeme `rank_lex`
--------------------------------------------------------------------------------
+# Rank-lexeme `rank_lex`
+
 The rank of a lexeme, a measure related to its frequency.
 
 This feature is present on objects of type *word*.

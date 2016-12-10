@@ -1,5 +1,5 @@
-Number `nu`
--------------------------------------------------
+# Number `nu`
+
 
 The number class a word (or rather lexeme) belongs to.
 

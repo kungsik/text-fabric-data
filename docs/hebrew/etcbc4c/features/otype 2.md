@@ -1,5 +1,5 @@
-Object type `otype`
-------------------------------------------------------
+# Object type `otype`
+
 
 Database type of the object.
 
@@ -23,9 +23,9 @@ The description of object types is facilitated by organizing them in groups, but
 groups do not form a formal concept.
 
 ---|---
-:ref:`Section types <sectiont>`         |division in books, chapters, etc
-:ref:`Word type <wordt>`                |all about the individual words
-:ref:`Linguistic types <linguisticst>`  |phrases, clauses, etc
+[Section types](sectiont)         |division in books, chapters, etc
+[Word type](wordt)                |all about the individual words
+[Linguistic types](linguisticst)  |phrases, clauses, etc
 
 Section types
 ^^^^^^^^^^^^^

@@ -1,5 +1,5 @@
-Verbal stem `vs`
-------------------------------------------------------
+# Verbal stem `vs`
+
 
 Stem of the verb that indicates an aspect or constellation of the act expressed by the verb.
 

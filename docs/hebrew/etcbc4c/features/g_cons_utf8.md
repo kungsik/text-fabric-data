@@ -1,5 +1,5 @@
-Word -consonantal-Hebrew `g_cons_utf8`
----------------------------------------------------------------------
+# Word -consonantal-Hebrew `g_cons_utf8`
+
 
 The consonantal representation of a word occurrence in Hebrew script.
 

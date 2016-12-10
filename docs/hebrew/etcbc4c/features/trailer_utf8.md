@@ -1,5 +1,5 @@
-Interword material -pointed-Hebrew `trailer_utf8`
--------------------------------------------------------------------------------
+# Interword material -pointed-Hebrew `trailer_utf8`
+
 
 The material that follows the word in question, up till the next word.
 

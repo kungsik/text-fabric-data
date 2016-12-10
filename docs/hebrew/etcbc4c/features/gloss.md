@@ -1,5 +1,5 @@
-Gloss `gloss`
----------------
+# Gloss `gloss`
+
 A short English translation of a single word, disregarding context.
 
 This feature is present on objects of type *word*.

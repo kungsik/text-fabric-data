@@ -1,5 +1,5 @@
-Clause atom relation `code`
----------------------------------------------------------------
+# Clause atom relation `code`
+
 
 This feature is present on objects of type *clause_atom*.
 
@@ -14,20 +14,20 @@ See the hint at the end to see how you could use this feature.
 Clause atom relation is denoted by a code of 1, 2, or 3 digits.
 
 ---|---
-`0`           | :ref:`No relation <norela>`
-`10` - `16`   | :ref:`Relative clause atoms <relative>`
-`50` – `74`   | :ref:`Infinitive construct clause atoms <infinitive>`
-`100` – `167` | :ref:`Asyndetic clause atoms <asyndetic>`
-`200` - `201` | :ref:`Parallel clause atoms <parallel>`
-`220` - `223` | :ref:`Defective clause atoms <defective>`
-`300` - `367` | :ref:`Conjunctive adverbs <cadverbs>`
-`400` - `487` | :ref:`Coordinate clause atoms <coordinate>`
-`500` - `567` | :ref:`Postulational clause atoms <postulational>`
-`600` - `667` | :ref:`Conditional clause atoms <conditional>`
-`700` - `767` | :ref:`Temporal clause atoms <temporal>`
-`800` - `867` | :ref:`Final clause atoms <final>`
-`900` - `967` | :ref:`Causal clause atoms <causal>`
-`999`         | :ref:`Direct speech <direct>`
+`0`           | [No relation](norela)
+`10` - `16`   | [Relative clause atoms](relative)
+`50` – `74`   | [Infinitive construct clause atoms](infinitive)
+`100` – `167` | [Asyndetic clause atoms](asyndetic)
+`200` - `201` | [Parallel clause atoms](parallel)
+`220` - `223` | [Defective clause atoms](defective)
+`300` - `367` | [Conjunctive adverbs](cadverbs)
+`400` - `487` | [Coordinate clause atoms](coordinate)
+`500` - `567` | [Postulational clause atoms](postulational)
+`600` - `667` | [Conditional clause atoms](conditional)
+`700` - `767` | [Temporal clause atoms](temporal)
+`800` - `867` | [Final clause atoms](final)
+`900` - `967` | [Causal clause atoms](causal)
+`999`         | [Direct speech](direct)
 
 These classes are of a distributional, not functional, nature.
 They group lexemes which are hypothesised to share one or more functional aspects into tentative sets,
@@ -131,7 +131,7 @@ I do not know why these values have been marked.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Construction without a conjunction.
 The second and third digit denote the tense of the verbal predicate of the daughter and
-mother clause, respectively. See the :ref:`tense table <tenses>`.
+mother clause, respectively. See the [tense table](tenses).
 See also [mother](mother).
 
 .. _parallel:
@@ -171,7 +171,7 @@ See also [mother](mother).
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Asyndetic construction, but with a conjunctive adverb.
 The second and third digit denote the tense of the verbal predicate of the daughter and
-mother clause, respectively. See the :ref:`tense table <tenses>`.
+mother clause, respectively. See the [tense table](tenses).
 See also [mother](mother).
 
 .. _coordinate:
@@ -180,7 +180,7 @@ See also [mother](mother).
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Construction with a conjunction from class 400, the *coordinating* conjunctions:
 The second and third digit denote the tense of the verbal predicate of the daughter and
-mother clause, respectively. See the :ref:`tense table <tenses>`.
+mother clause, respectively. See the [tense table](tenses).
 See also [mother](mother).
 
 ---|---|---
@@ -197,7 +197,7 @@ Too terse:
 Expand or give an example.
 
 code 800 also occurs in the table of
-:ref:`Preposition classes of clause atom opening <prepositionsopen>`
+[Preposition classes of clause atom opening](prepositionsopen)
 
 .. _postulational:
 
@@ -205,7 +205,7 @@ code 800 also occurs in the table of
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Construction with a conjunction from class 500, the *postulational* conjunctions:
 The second and third digit denote the tense of the verbal predicate of the daughter and
-mother clause, respectively. See the :ref:`tense table <tenses>`.
+mother clause, respectively. See the [tense table](tenses).
 See also [mother](mother).
 
 .. _conditional:
@@ -214,7 +214,7 @@ See also [mother](mother).
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Construction with a conjunction from class 600, the *conditional* conjunctions:
 The second and third digit denote the tense of the verbal predicate of the daughter and
-mother clause, respectively. See the :ref:`tense table <tenses>`.
+mother clause, respectively. See the [tense table](tenses).
 See also [mother](mother).
 
 .. _temporal:
@@ -223,7 +223,7 @@ See also [mother](mother).
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Construction with a conjunction from class 700, the *conditional* conjunctions:
 The second and third digit denote the tense of the verbal predicate of the daughter and
-mother clause, respectively. See the :ref:`tense table <tenses>`.
+mother clause, respectively. See the [tense table](tenses).
 See also [mother](mother).
 
 ---|---
@@ -239,7 +239,7 @@ Too terse:
 Expand or give an example.
 
 code 800 also occurs in the table of
-:ref:`Conjunction classes of clause atom opening <conjunctionsopen>`
+[Conjunction classes of clause atom opening](conjunctionsopen)
 
 .. _final:
 
@@ -247,7 +247,7 @@ code 800 also occurs in the table of
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Construction with a conjunction from class 800, the *final* conjunctions:
 The second and third digit denote the tense of the verbal predicate of the daughter and
-mother clause, respectively. See the :ref:`tense table <tenses>`.
+mother clause, respectively. See the [tense table](tenses).
 See also [mother](mother).
 
 .. _causal:
@@ -256,7 +256,7 @@ See also [mother](mother).
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Construction with a conjunction from class 900, the *causal* conjunctions:
 The second and third digit denote the tense of the verbal predicate of the daughter and
-mother clause, respectively. See the :ref:`tense table <tenses>`.
+mother clause, respectively. See the [tense table](tenses).
 See also [mother](mother).
 
 .. _direct:

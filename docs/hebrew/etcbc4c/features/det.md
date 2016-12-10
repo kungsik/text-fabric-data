@@ -1,5 +1,5 @@
-Determination `det`
---------------------------------------------------------
+# Determination `det`
+
 
 Whether the phrase (atom) is determined or not, in the linguistic sense.
 

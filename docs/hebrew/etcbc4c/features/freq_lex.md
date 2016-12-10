@@ -1,5 +1,5 @@
-Frequency-lexeme `freq_lex`
--------------------------------------------------------------------------------
+# Frequency-lexeme `freq_lex`
+
 The frequency of a lexeme, measured as the number of occurrences in the whole Hebrew Bible.
 
 This feature is present on objects of type *word*.

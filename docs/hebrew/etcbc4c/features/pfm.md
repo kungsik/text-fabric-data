@@ -1,5 +1,5 @@
-Preformative -consonantal-transliterated `pfm`
--------------------------------------------------------------------------------------
+# Preformative -consonantal-transliterated `pfm`
+
 
 The consonantal representation of the preformative of a word
 [ETCBC transliteration](https://shebanq.ancient-data.org/shebanq/static/docs/ETCBC4-transcription.pdf).

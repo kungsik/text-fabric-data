@@ -1,5 +1,5 @@
-Ketiv
------
+# Ketiv
+
 The unpointed representation of a ketiv word occurrence in Hebrew script when there is a divergent qere.
 
 This feature is present on objects of type *word*.

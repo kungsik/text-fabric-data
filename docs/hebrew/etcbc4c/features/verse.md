@@ -1,5 +1,5 @@
-Verse number `verse`
--------------------------------------------------------
+# Verse number `verse`
+
 
 The number of the present verse.
 

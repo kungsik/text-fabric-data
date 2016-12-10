@@ -1,5 +1,5 @@
-Monad set `monads`
-----------------------------------------------------
+# Monad set `monads`
+
 
 The set of monads associated with an object.
 

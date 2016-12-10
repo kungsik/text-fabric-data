@@ -1,5 +1,5 @@
-Sequence number `number`
--------------------------------------------------
+# Sequence number `number`
+
 
 The sequence number of an object within its context.
 

@@ -1,5 +1,5 @@
-Part-of-speech `sp`
----------------------------------------------------------
+# Part-of-speech `sp`
+
 
 The part of speech a word (or rather lexeme) belongs to.
 

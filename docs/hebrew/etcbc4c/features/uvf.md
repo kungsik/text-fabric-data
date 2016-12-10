@@ -1,5 +1,5 @@
-Univalent final consonant -consonantal-transliterated `uvf`
---------------------------------------------------------------------------------------------------
+# Univalent final consonant -consonantal-transliterated `uvf`
+
 
 The consonantal representation of the univalent final consonant of a word
 [ETCBC transliteration](https://shebanq.ancient-data.org/shebanq/static/docs/ETCBC4-transcription.pdf).

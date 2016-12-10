@@ -1,5 +1,5 @@
-Text type `txt`
-----------------------------------------------------
+# Text type `txt`
+
 
 This feature contains property at the level of text.
 

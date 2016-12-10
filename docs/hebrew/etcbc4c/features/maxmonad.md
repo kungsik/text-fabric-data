@@ -1,5 +1,5 @@
-Monad number -biggest `maxmonad`
----------------------------------------------------------------
+# Monad number -biggest `maxmonad`
+
 
 The monad number of the last monad that belongs to (the monad set of) an object.
 

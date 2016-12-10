@@ -1,5 +1,5 @@
-Univalent final consonant -pointed-transliterated `g_uvf`
-----------------------------------------------------------------------------------------------
+# Univalent final consonant -pointed-transliterated `g_uvf`
+
 
 The pointed representation of the univalent final consonant of a word in
 [ETCBC transliteration](https://shebanq.ancient-data.org/shebanq/static/docs/ETCBC4-transcription.pdf).

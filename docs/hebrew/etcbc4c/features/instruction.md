@@ -1,5 +1,5 @@
-Instruction `instruction`
----------------------------------------------------
+# Instruction `instruction`
+
 The so called instruction of a clause atom.
 
 This feature is present on objects of type *clause_atom*.

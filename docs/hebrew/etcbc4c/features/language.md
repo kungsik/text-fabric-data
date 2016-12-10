@@ -1,5 +1,5 @@
-Language `language`
----------------------------------------------------
+# Language `language`
+
 
 The language a word (or rather lexeme) belongs to.
 

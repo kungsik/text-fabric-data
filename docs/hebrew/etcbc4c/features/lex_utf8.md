@@ -1,5 +1,5 @@
-Lexeme -consonantal-Hebrew `lex_utf8`
------------------------------------------------------------------------
+# Lexeme -consonantal-Hebrew `lex_utf8`
+
 
 The consonantal representation of the lexeme of a word occurrence in Hebrew script.
 

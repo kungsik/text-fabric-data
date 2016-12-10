@@ -1,5 +1,5 @@
-Pronominal suffix -consonantal-transliterated `prs`
-------------------------------------------------------------------------------------------
+# Pronominal suffix -consonantal-transliterated `prs`
+
 
 The consonantal representation of the pronominal suffix of a word
 [ETCBC transliteration](https://shebanq.ancient-data.org/shebanq/static/docs/ETCBC4-transcription.pdf).

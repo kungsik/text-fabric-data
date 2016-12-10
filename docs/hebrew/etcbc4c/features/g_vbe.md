@@ -1,5 +1,5 @@
-Verbal ending -pointed-transliterated `g_vbe`
-----------------------------------------------------------------------------------
+# Verbal ending -pointed-transliterated `g_vbe`
+
 
 The pointed representation of the verbal ending of a word in
 [ETCBC transliteration](https://shebanq.ancient-data.org/shebanq/static/docs/ETCBC4-transcription.pdf).

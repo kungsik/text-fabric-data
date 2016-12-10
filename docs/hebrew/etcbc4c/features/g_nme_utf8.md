@@ -1,5 +1,5 @@
-Nominal ending -pointed-Hebrew `g_nme_utf8`
----------------------------------------------------------------------------
+# Nominal ending -pointed-Hebrew `g_nme_utf8`
+
 
 The pointed representation of the nominal ending of a word in Hebrew.
 

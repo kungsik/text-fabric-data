@@ -1,5 +1,5 @@
-Root formation -pointed-Hebrew `g_vbs_utf8`
----------------------------------------------------------------------------
+# Root formation -pointed-Hebrew `g_vbs_utf8`
+
 
 The pointed representation of the root formation of a word in Hebrew.
 

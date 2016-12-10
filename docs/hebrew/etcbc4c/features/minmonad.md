@@ -1,5 +1,5 @@
-Monad number -smallest `minmonad`
-----------------------------------------------------------------
+# Monad number -smallest `minmonad`
+
 
 The monad number of the first monad that belongs to (the monad set of) an object.
 

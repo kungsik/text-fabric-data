@@ -1,5 +1,5 @@
-Tabulation `tab`
------------------------------------------------------
+# Tabulation `tab`
+
 
 The level of this clause_atom in the enclosing hierarchy.
 

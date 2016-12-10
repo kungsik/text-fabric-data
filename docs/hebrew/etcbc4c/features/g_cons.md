@@ -1,5 +1,5 @@
-Word -consonantal-transliterated `g_cons`
------------------------------------------------------------------------------
+# Word -consonantal-transliterated `g_cons`
+
 
 The consonantal representation of a word occurrence in
 [ETCBC transliteration](https://shebanq.ancient-data.org/shebanq/static/docs/ETCBC4-transcription.pdf).

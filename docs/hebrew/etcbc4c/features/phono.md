@@ -1,5 +1,5 @@
-Word -full-phonetic `phono`
------------------------------------------------------------------------------
+# Word -full-phonetic `phono`
+
 The phonetic representation of a word occurrence.
 
 This feature is present on objects of type *word*.

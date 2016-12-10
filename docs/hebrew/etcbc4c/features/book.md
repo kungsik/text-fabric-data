@@ -1,5 +1,5 @@
-Book name `book`
-----------------------------------------------------
+# Book name `book`
+
 The Latin name of the present bible book.
 
 This feature is present on objects of type *book*, *chapter*, and *verse*.
