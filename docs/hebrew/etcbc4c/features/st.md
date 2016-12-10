@@ -7,11 +7,10 @@ This feature is present on objects of type *word*.
 
 There are three states in the Hebrew Bible:
 
-=====  ==========
-`a`  absolute 
-`c`  construct 
-`e`  emphatic 
-=====  ==========
+---|---
+`a` |absolute 
+`c` |construct 
+`e` |emphatic 
 
 Not all words have person (e.g. adverbs) and these are marked as `NA`.
 

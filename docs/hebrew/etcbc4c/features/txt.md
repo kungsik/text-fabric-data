@@ -7,12 +7,11 @@ This feature is present on objects of type *clause*.
 
 The values of this feature are strings consisting of
 
-===== ==============
-`?` Unknown
-`N` Narrative
-`D` Discursive
-`Q` Quotation
-===== ==============
+---|---
+`?`|Unknown
+`N`|Narrative
+`D`|Discursive
+`Q`|Quotation
 
 See also [domain](domain).
 

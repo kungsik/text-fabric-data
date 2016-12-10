@@ -16,15 +16,14 @@ This feature is present on objects of type *sentence(_atom)*, *clause(_atom)*, *
 Numbering starts with 1.
 The manner of numbering objects differs per object type:
 
-============= =====================
-phrase_atom   within the book
-clause_atom   within the book
-sentence_atom within the book
-word          within the book
-phrase        within the clause
-clause        within the sentence
-sentence      within the chapter
-============= =====================
+---|---
+phrase_atom  |within the book
+clause_atom  |within the book
+sentence_atom|within the book
+word         |within the book
+phrase       |within the clause
+clause       |within the sentence
+sentence     |within the chapter
 
 **NB:**
 An explanation of the rationale behind these numbering schemes would be helpful.

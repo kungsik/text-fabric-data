@@ -8,14 +8,13 @@ This feature is present on objects of type *clause*, *phrase(_atom)*, and *subph
 Subphrase
 ^^^^^^^^^
 
-======= ======= ===============
-`ADJ` `adj` Adjunct
-`ATR` `atr` Attribute
-`DEM` `dem` Demonstrative
-`MOD` `mod` Modifier
-`PAR` `par` Parallel
-`REG` `rec` Regens
-======= ======= ===============
+---|---|---
+`ADJ`|`adj`|Adjunct
+`ATR`|`atr`|Attribute
+`DEM`|`dem`|Demonstrative
+`MOD`|`mod`|Modifier
+`PAR`|`par`|Parallel
+`REG`|`rec`|Regens
 
 The kind of relationship between the object (daughter) and its mother.
 In case of the regens/rectum relation, the mother is not a subphrase, but a word.
@@ -34,13 +33,12 @@ Explain why is this a useful feature. Examples needed.
 Phrase_atom
 ^^^^^^^^^^^
 
-======== ======================
-`Appo` Apposition
-`Sfxs` Suffix specification
-`Link` Conjunction
-`Spec` Specification
-`Para` Parallel
-======== ======================
+---|---
+`Appo`|Apposition
+`Sfxs`|Suffix specification
+`Link`|Conjunction
+`Spec`|Specification
+`Para`|Parallel
 
 This feature expresses the way a phrase atom is used in building a complex phrase.
 
@@ -53,10 +51,9 @@ Explain why is this a useful feature? Examples needed.
 Phrase
 ^^^^^^
 
-======== ===================
-`PrAd` Predicative adjunct
-`Resu` Resumption
-======== ===================
+---|---
+`PrAd`|Predicative adjunct
+`Resu`|Resumption
 
 This feature expresses how phrases refer to each other.
 The value for *rela* has been derived from the value of phrase [function](function) of the daughter
@@ -76,20 +73,19 @@ Explain why is this a useful feature? Examples needed.
 Clause
 ^^^^^^
 
-======== ===================
-`Adju` Adjunctive clause
-`Attr` Attributive clause
-`Cmpl` Complement clause
-`Coor` Coordinated clause
-`Objc` Object clause
-`PrAd` Predicative adjunct clause
-`PreC` Predicative complement clause
-`ReVo` Referral to the vocative
-`Resu` Resumptive clause
-`RgRc` Regens/rectum connection
-`Spec` Specification clause
-`Subj` Subject clause
-======== ===================
+---|---
+`Adju`|Adjunctive clause
+`Attr`|Attributive clause
+`Cmpl`|Complement clause
+`Coor`|Coordinated clause
+`Objc`|Object clause
+`PrAd`|Predicative adjunct clause
+`PreC`|Predicative complement clause
+`ReVo`|Referral to the vocative
+`Resu`|Resumptive clause
+`RgRc`|Regens/rectum connection
+`Spec`|Specification clause
+`Subj`|Subject clause
 
 For *clause*-like objects this feature is also called *clause constituent relation*;
 it indicates the syntactic function of the clause.

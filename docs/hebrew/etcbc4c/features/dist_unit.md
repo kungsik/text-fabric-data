@@ -5,11 +5,10 @@ The unit of measuring the distance between the present object (daughter) and its
 
 This feature is present on objects of types *subphrase*, *phrase_atom*, *phrase*, *clause_atom*, *clause*.
 
-================ ==================================
-`words`        distance measured in words
-`phrase_atoms` distance measured in phrase_atoms
-`clause_atoms` distance measured in clause_atoms
-================ ==================================
+---|---
+`words`       |distance measured in words
+`phrase_atoms`|distance measured in phrase_atoms
+`clause_atoms`|distance measured in clause_atoms
 
 For explanation of what the *mother* of an object is, see [mother](mother).
 The mother is always a *word*, a *phrase* or a *clause* and we measure distances between mothers and daughters in

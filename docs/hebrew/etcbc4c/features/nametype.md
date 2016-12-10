@@ -7,13 +7,12 @@ This feature is present on objects of type *word*.
 
 It is a comma separated list of the following values:
 
-=========== =======================================
-`pers`    person
-`mens`    measurement unit
-`gens`    people
-`topo`    place
-`ppde`    demonstrative personal pronoun
-=========== =======================================
+---|---
+`pers`   |person
+`mens`   |measurement unit
+`gens`   |people
+`topo`   |place
+`ppde`   |demonstrative personal pronoun
 
 This feature has been added to the database in a later stage as package called `lexicon`.
 

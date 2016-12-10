@@ -13,22 +13,21 @@ See the hint at the end to see how you could use this feature.
 
 Clause atom relation is denoted by a code of 1, 2, or 3 digits.
 
-=================  ==========================================================
-`0`              :ref:`No relation <norela>`
-`10` - `16`    :ref:`Relative clause atoms <relative>`
-`50` – `74`    :ref:`Infinitive construct clause atoms <infinitive>`
-`100` – `167`  :ref:`Asyndetic clause atoms <asyndetic>`
-`200` - `201`  :ref:`Parallel clause atoms <parallel>`
-`220` - `223`  :ref:`Defective clause atoms <defective>`
-`300` - `367`  :ref:`Conjunctive adverbs <cadverbs>`
-`400` - `487`  :ref:`Coordinate clause atoms <coordinate>`
-`500` - `567`  :ref:`Postulational clause atoms <postulational>`
-`600` - `667`  :ref:`Conditional clause atoms <conditional>`
-`700` - `767`  :ref:`Temporal clause atoms <temporal>`
-`800` - `867`  :ref:`Final clause atoms <final>`
-`900` - `967`  :ref:`Causal clause atoms <causal>`
-`999`            :ref:`Direct speech <direct>`
-=================  ==========================================================
+---|---
+`0`           | :ref:`No relation <norela>`
+`10` - `16`   | :ref:`Relative clause atoms <relative>`
+`50` – `74`   | :ref:`Infinitive construct clause atoms <infinitive>`
+`100` – `167` | :ref:`Asyndetic clause atoms <asyndetic>`
+`200` - `201` | :ref:`Parallel clause atoms <parallel>`
+`220` - `223` | :ref:`Defective clause atoms <defective>`
+`300` - `367` | :ref:`Conjunctive adverbs <cadverbs>`
+`400` - `487` | :ref:`Coordinate clause atoms <coordinate>`
+`500` - `567` | :ref:`Postulational clause atoms <postulational>`
+`600` - `667` | :ref:`Conditional clause atoms <conditional>`
+`700` - `767` | :ref:`Temporal clause atoms <temporal>`
+`800` - `867` | :ref:`Final clause atoms <final>`
+`900` - `967` | :ref:`Causal clause atoms <causal>`
+`999`         | :ref:`Direct speech <direct>`
 
 These classes are of a distributional, not functional, nature.
 They group lexemes which are hypothesised to share one or more functional aspects into tentative sets,
@@ -73,21 +72,16 @@ has [typ](typ) `CP` (conjunctive phrase) and
 [function](function) `Rela` (relative).
 The second digit denotes the tense of the verbal predicate of the daughter clause:
 
-.. _tenses:
-
-.. table:: Tenses
-
-    ===== ===================== ====================
-    `0` none
-    `1` imperfect
-    `2` perfect
-    `3` imperative
-    `4` infinitive construct
-    `5` infinitive absolute
-    `6` participle            (active and passive)
-    `7` wayyiqtol
-    `8` weyiqtol              !
-    ===== ===================== ====================
+---|---|---
+`0`| none
+`1`| imperfect
+`2`| perfect
+`3`| imperative
+`4`| infinitive construct
+`5`| infinitive absolute
+`6`| participle            | (active and passive)
+`7`| wayyiqtol
+`8`| weyiqtol              | !
 
 **NB:**
 The ! appears where the QUEST documentation has a cross mark. 
@@ -100,37 +94,32 @@ I do not know why these values have been marked.
 Clause atoms of which the verbal predicate is an infinitive construct.
 If you subtract 50, the remaining number denotes the class of the preposition used in the construction:
 
-.. _prepositions:
-
-.. table:: Preposition classes of the infinitive clause atom
-
-    ====== ===========  =
-    `0`  none
-    `1`  >XR/
-    `2`  >L
-    `3`  >YL/         !
-    `4`  >T
-    `5`  B, BMW
-    `6`  BJN/         !
-    `7`  BL<DJ        !
-    `8`  *not used*
-    `9`  B<D/         !
-    `10` ZWLH/        !
-    `11` J<N/
-    `12` K, KMW
-    `13` *not used*
-    `14` L, LMW
-    `15` LM<N
-    `16` *not used*
-    `17` MN
-    `18` *not used*
-    `19` *not used*
-    `20` <D
-    `21` <L
-    `22` <M
-    `23` *not used*
-    `24` TXT/
-    ====== ===========  =
+---|---|---
+`0`| none
+`1`| >XR/
+`2`| >L
+`3`| >YL/         | !
+`4`| >T
+`5`| B, BMW
+`6`| BJN/         | !
+`7`| BL<DJ        | !
+`8`| *not used*
+`9`| B<D/         | !
+`10`|ZWLH/        | !
+`11`|J<N/
+`12`|K, KMW
+`13`|*not used*
+`14`|L, LMW
+`15`|LM<N
+`16`|*not used*
+`17`|MN
+`18`|*not used*
+`19`|*not used*
+`20`|<D
+`21`|<L
+`22` <M
+`23`|*not used*
+`24`|TXT/
 
 **NB:**
 The ! appears where the QUEST documentation has a cross mark. 
@@ -157,10 +146,9 @@ If either predicate is absent,
 the clause atoms must be of the same clause atom type ([typ](typ)).
 
 
-======= ================================================================================
-`200` Identical clause atom opening.
-`201` Identical clause atom opening when disregarding the coordinating conjunction(s).
-======= ================================================================================
+---|---
+`200` | Identical clause atom opening.
+`201` | Identical clause atom opening when disregarding the coordinating conjunction(s).
 
 .. _defective:
 
@@ -169,12 +157,11 @@ the clause atoms must be of the same clause atom type ([typ](typ)).
 A clause atom is defective if there is another clause atom which contains
 the predicate (or the main part) of the clause.
 
-======= ==========================================
+---|---
 `220` No verbal predicate in mother or daughter
 `221` Unclassified clause atom relation
 `222` Verbal predicate in daughter clause atom
 `223` Verbal predicate in mother clause atom.
-======= ==========================================
 
 See also [mother](mother).
 
@@ -196,16 +183,11 @@ The second and third digit denote the tense of the verbal predicate of the daugh
 mother clause, respectively. See the :ref:`tense table <tenses>`.
 See also [mother](mother).
 
-.. _conjunctionsopen:
-
-.. table:: Conjunction classes of clause atom opening
-
-    ======= ============= ========================
-    `400` coordinating  >W, W
-    `500` postulational >CR, DJ, H, ZW, KJ, C
-    `600` conditional   >LW, >M, HN, LHN=, LW, LWL>
-    `800` final         PN
-    ======= ============= ========================
+---|---|---
+`400`|coordinating |>W, W
+`500`|postulational|>CR, DJ, H, ZW, KJ, C
+`600`|conditional  |>LW, >M, HN, LHN=, LW, LWL>
+`800`|final        |PN
 
 The conjunction class is determined by the conjunction opening conjunction phrase.
 
@@ -244,15 +226,10 @@ The second and third digit denote the tense of the verbal predicate of the daugh
 mother clause, respectively. See the :ref:`tense table <tenses>`.
 See also [mother](mother).
 
-.. _prepositionsopen:
-
-.. table:: Preposition classes of clause atom opening
-
-    ======= ==========================================
-    `700` >XR/, >L, B, BMW, VRM/, K, KMW, L, LMW, <D
-    `800` BLT/, ZWLH/, LM<N, MN
-    `900` J<N/, <L, <QB/
-    ======= ==========================================
+---|---
+`700`| >XR/, >L, B, BMW, VRM/, K, KMW, L, LMW, <D
+`800`| BLT/, ZWLH/, LM<N, MN
+`900`| J<N/, <L, <QB/
 
 This preposition class is determined by the preposition that heads the clause opening conjunction phrase.
 

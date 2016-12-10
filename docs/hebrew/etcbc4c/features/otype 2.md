@@ -3,33 +3,29 @@ Object type `otype`
 
 Database type of the object.
 
-================= ============== ================================================================================
-`word`          monad          single word, also known as *monad*. Sometimes words are not separated by a space
-`subphrase`     functional     part of a phrase
-`phrase`        functional     phrase, maybe with gaps
-`phrase_atom`   distributional maximal consecutive part of a phrase
-`clause`        functional     clause, maybe with gaps
-`clause_atom`   distributional maximal consecutive part of a clause
-`sentence`      functional     clause, maybe with gaps
-`sentence_atom` distributional maximal consecutive part of a sentence
-`half_verse`    section        main division of the verse, usually into two, somtimes into three parts
-`verse`         section        numbered unit of a chapter
-`chapter`       section        numbered unit of a book
-`book`          section        named part of the Bible
-================= ============== ================================================================================
+---|---|---
+`word`         |monad         |single word, also known as *monad*. Sometimes words are not separated by a space
+`subphrase`    |functional    |part of a phrase
+`phrase`       |functional    |phrase, maybe with gaps
+`phrase_atom`  |distributional|maximal consecutive part of a phrase
+`clause`       |functional    |clause, maybe with gaps
+`clause_atom`  |distributional|maximal consecutive part of a clause
+`sentence`     |functional    |clause, maybe with gaps
+`sentence_atom`|distributional|maximal consecutive part of a sentence
+`half_verse`   |section       |main division of the verse, usually into two, somtimes into three parts
+`verse`        |section       |numbered unit of a chapter
+`chapter`      |section       |numbered unit of a book
+`book`         |section       |named part of the Bible
 
 All objects have a type.
 The type of an object determines which features are defined for that object.
 The description of object types is facilitated by organizing them in groups, but these
 groups do not form a formal concept.
 
-======================================   =================================
-:ref:`Section types <sectiont>`          division in books, chapters, etc
-:ref:`Word type <wordt>`                 all about the individual words
-:ref:`Linguistic types <linguisticst>`   phrases, clauses, etc
-======================================   =================================
-
-.. _sectiont:
+---|---
+:ref:`Section types <sectiont>`         |division in books, chapters, etc
+:ref:`Word type <wordt>`                |all about the individual words
+:ref:`Linguistic types <linguisticst>`  |phrases, clauses, etc
 
 Section types
 ^^^^^^^^^^^^^

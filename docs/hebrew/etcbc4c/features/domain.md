@@ -5,12 +5,11 @@ This feature contains property at the level of text.
 
 This feature is present on objects of type *clause*.
 
-===== ==============
-`?` Unknown
-`N` Narrative
-`D` Discursive
-`Q` Quotation
-===== ==============
+---|---
+`?`|Unknown
+`N`|Narrative
+`D`|Discursive
+`Q`|Quotation
 
 See also [txt](txt).
 

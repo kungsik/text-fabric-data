@@ -5,13 +5,12 @@ Whether the phrase (atom) is determined or not, in the linguistic sense.
 
 This feature is present on objects of type *clause*, *subphrase*.
 
-============= ============================
-`clause`    mother is a clause object
-`phrase`    mother is a phrase object
-`subphrase` mother is a subphrase object
-`word`      mother is a word object
-`NA`        not applicable
-============= ============================
+---|---
+`clause`   |mother is a clause object
+`phrase`   |mother is a phrase object
+`subphrase`|mother is a subphrase object
+`word`     |mother is a word object
+`NA`       |not applicable
 
 See also [mother](mother).
 

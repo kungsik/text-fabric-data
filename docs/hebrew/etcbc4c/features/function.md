@@ -5,38 +5,37 @@ The phrase function denotes the syntactic function of the phrase.
 
 This feature is present on objects of type *phrase*.
 
-======== ========================================== =
-`Adju` Adjunct
-`Cmpl` Complement
-`Conj` Conjunction
-`EPPr` Enclitic personal pronoun                  !
-`ExsS` Existence with subject suffix
-`Exst` Existence
-`Frnt` Fronted element
-`Intj` Interjection
-`IntS` Interjection with subject suffix
-`Loca` Locative
-`Modi` Modifier
-`ModS` Modifier with subject suffix
-`NCop` Negative copula
-`NCoS` Negative copula with subject suffix
-`Nega` Negation
-`Objc` Object
-`PrAd` Predicative adjunct
-`PrcS` Predicate complement with subject suffix
-`PreC` Predicate complement
-`Pred` Predicate
-`PreO` Predicate with object suffix
-`PreS` Predicate with subject suffix
-`PtcO` Participle with object suffix
-`Ques` Question
-`Rela` Relative
-`Subj` Subject
-`Supp` Supplementary constituent
-`Time` Time reference
-`Unkn` Unknown
-`Voct` Vocative
-======== ========================================== =
+---|---|---
+`Adju`|Adjunct
+`Cmpl`|Complement
+`Conj`|Conjunction
+`EPPr`|Enclitic personal pronoun                 |!
+`ExsS`|Existence with subject suffix
+`Exst`|Existence
+`Frnt`|Fronted element
+`Intj`|Interjection
+`IntS`|Interjection with subject suffix
+`Loca`|Locative
+`Modi`|Modifier
+`ModS`|Modifier with subject suffix
+`NCop`|Negative copula
+`NCoS`|Negative copula with subject suffix
+`Nega`|Negation
+`Objc`|Object
+`PrAd`|Predicative adjunct
+`PrcS`|Predicate complement with subject suffix
+`PreC`|Predicate complement
+`Pred`|Predicate
+`PreO`|Predicate with object suffix
+`PreS`|Predicate with subject suffix
+`PtcO`|Participle with object suffix
+`Ques`|Question
+`Rela`|Relative
+`Subj`|Subject
+`Supp`|Supplementary constituent
+`Time`|Time reference
+`Unkn`|Unknown
+`Voct`|Vocative
 
 **NB:**
 I was unable to locate a definition of this feature.

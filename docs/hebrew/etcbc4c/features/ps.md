@@ -5,13 +5,12 @@ The person class a word (or rather lexeme) belongs to.
 
 This feature is present on objects of type *word*.
 
-=========== =================
-`p1`      first person
-`p2`      second person
-`p3`      third person
-`NA`      not applicable
-`unknown` unknown
-=========== =================
+---|---
+`p1`     |first person
+`p2`     |second person
+`p3`     |third person
+`NA`     |not applicable
+`unknown`|unknown
 
 There are three person classes in the Hebrew Bible, first (`p1`) and second (`p2`) and third person (`p3`).
 Not all words have person (e.g. adverbs) and these are marked as `NA`.
