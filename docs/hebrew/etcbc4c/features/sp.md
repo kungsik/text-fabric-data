@@ -1,6 +1,5 @@
-Part-of-speech ``sp``
+Part-of-speech `sp`
 ---------------------------------------------------------
-:doc:`frequency table of values <../index/sp>`
 
 The part of speech a word (or rather lexeme) belongs to.
 

@@ -1,9 +1,8 @@
-Lexeme -consonantal-transliterated ``lex``
+Lexeme -consonantal-transliterated `lex`
 -------------------------------------------------------------------------------
-:doc:`frequency table of values <../index/lex>`
 
 The consonantal representation of the lexeme of a word occurrence in
-`ETCBC transliteration <http://shebanq.ancient-data.org/shebanq/static/docs/ETCBC4-transcription.pdf>`_.
+[ETCBC transliteration](https://shebanq.ancient-data.org/shebanq/static/docs/ETCBC4-transcription.pdf).
 
 This feature is present on objects of type *word*.
 
@@ -11,22 +10,22 @@ Only the consonants of the word lexeme are present: no vowel pointing and no oth
 
 .. note:: 
     There is disambiguation material at the end of the value.
-    If the lexeme is a verb, a ``[`` is added, if it is a noun, a ``/`` is added.
+    If the lexeme is a verb, a `[` is added, if it is a noun, a `/` is added.
     If there are more than one lexemes with the same consonants, they are disambiguated by adding
-    zero or more ``=`` s to the values.
+    zero or more `=` s to the values.
 
-.. hint::
-    Generally, this is a handy feature to search for specific words.
-    If you are unsure how exactly the lexeme of a particular word is spelled, it is handy to search in the
-    :doc:`frequency table of values <../index/lex>`
-    first. 
+**Hint:**
+Generally, this is a handy feature to search for specific words.
+If you are unsure how exactly the lexeme of a particular word is spelled, it is handy to search in the
+[frequency table of values](../index/lex)
+first. 
 
-.. hint::
-    Try also regular expression matching of features, which is supported by MQL. Example::
+**Hint:**
+Try also regular expression matching of features, which is supported by MQL. Example::
 
-        [word lex ~ '.*RMW?N.*']
+    [word lex ~ '.*RMW?N.*']
 
-    finds the following lexemes::
+finds the following lexemes::
 
         >RMWN/     (x 32)
         RMWN/      (x 32)

@@ -1,6 +1,5 @@
-Verse number ``verse``
+Verse number `verse`
 -------------------------------------------------------
-:doc:`frequency table of values <../index/verse>`
 
 The number of the present verse.
 

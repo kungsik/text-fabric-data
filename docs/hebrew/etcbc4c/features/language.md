@@ -1,6 +1,5 @@
-Language ``language``
+Language `language`
 ---------------------------------------------------
-:doc:`frequency table of values <../index/language>`
 
 The language a word (or rather lexeme) belongs to.
 
@@ -13,7 +12,7 @@ The ISO-639 codes and descriptions of these languages are:
 =========== ============ ==========================
 MQL         ISO-639-code ISO-639 description
 =========== ============ ==========================
-``Hebrew``  ``hbo``      Ancient Hebrew
-``Aramaic`` ``arc``      Official Aramaic; Imperial Aramaic
+`Hebrew`  `hbo`      Ancient Hebrew
+`Aramaic` `arc`      Official Aramaic; Imperial Aramaic
 =========== ============ ==========================
 

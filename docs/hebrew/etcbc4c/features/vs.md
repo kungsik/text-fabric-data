@@ -1,14 +1,13 @@
-Verbal stem ``vs``
+Verbal stem `vs`
 ------------------------------------------------------
-:doc:`frequency table of values <../index/vs>`
 
 Stem of the verb that indicates an aspect or constellation of the act expressed by the verb.
 
 This feature is present on objects of type *word*.
 
 The Hebrew verb has multiple stems, and each of these stems can be marked with tense/mood.
-For the tenses/moods, see :doc:`vt <vt>`.
-Not all words have verbal stem (e.g. nouns) and these are marked as ``NA``.
+For the tenses/moods, see [vt](vt).
+Not all words have verbal stem (e.g. nouns) and these are marked as `NA`.
 
 Here is the list of possible values. Some values are specific for Aramaic.
 
@@ -44,9 +43,9 @@ tif   tif‘al
 pasq  passiveqal
 ====  =============
 
-.. caution::
-    The division in Hebrew and Aramaic stems should be checked.
+**NB:**
+The division in Hebrew and Aramaic stems should be checked.
 
-    The meanings/functions of these stems should be clarified.
+The meanings/functions of these stems should be clarified.
 
-    Check my definition of stem above.
+Check my definition of stem above.

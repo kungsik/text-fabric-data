@@ -1,6 +1,5 @@
-Lexical set ``ls``
+Lexical set `ls`
 ------------------------------------------------------
-:doc:`frequency table of values <../index/ls>`
 
 Subclassification of part of speech.
 
@@ -26,5 +25,5 @@ card  cardinal
 none  none
 ====  ===========================
 
-.. caution::
-    Longer descriptions of these labels are necessary.
+**NB:**
+Longer descriptions of these labels are necessary.

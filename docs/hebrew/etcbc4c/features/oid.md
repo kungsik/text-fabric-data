@@ -1,6 +1,5 @@
-Object identifier ``oid``
+Object identifier `oid`
 ------------------------------------------------------------
-:doc:`frequency table of values <../index/oid>`
 
 Database identifier of the object.
 

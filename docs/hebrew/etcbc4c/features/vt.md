@@ -1,14 +1,13 @@
-Verbal tense ``vt``
+Verbal tense `vt`
 -------------------------------------------------------
-:doc:`frequency table of values <../index/vt>`
 
 Form of the verb that indicates tense or mood.
 
 This feature is present on objects of type *word*.
 
 The Hebrew verb has multiple stems, and each of these stems can be marked with tense/mood.
-For the possible stems, see :doc:`vs <vs>`.
-Not all words have verbal tense (e.g. nouns) and these are marked as ``NA``.
+For the possible stems, see [vs](vs).
+Not all words have verbal tense (e.g. nouns) and these are marked as `NA`.
 
 Here is the list of possible values:
 
@@ -23,7 +22,7 @@ ptca  participle
 ptcp  participle (passive)
 ====  ================================
 
-.. caution::
-    The meanings/functions of these tenses should be clarified.
+**NB:**
+The meanings/functions of these tenses should be clarified.
 
-    Check my definition of stem above.
+Check my definition of stem above.
