@@ -1,4 +1,6 @@
-# Univalent final consonant -pointed-transliterated `g_uvf`
+# g_uvf
+
+**univalent final consonant -pointed-transliterated**
 
 
 The pointed representation of the univalent final consonant of a word in

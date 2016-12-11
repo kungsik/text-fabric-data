@@ -1,4 +1,6 @@
-# Gender `gn`
+# gn
+
+**gender**
 
 
 The gender a word (or rather lexeme) belongs to.

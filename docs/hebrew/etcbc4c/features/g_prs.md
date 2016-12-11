@@ -1,4 +1,6 @@
-# Pronominal suffix -pointed-transliterated `g_prs`
+# g_prs
+
+**pronominal suffix -pointed-transliterated**
 
 
 The pointed representation of the pronominal suffix of a word in

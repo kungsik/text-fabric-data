@@ -1,4 +1,6 @@
-# Person `ps`
+# ps
+
+**person**
 
 
 The person class a word (or rather lexeme) belongs to.

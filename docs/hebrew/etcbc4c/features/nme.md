@@ -1,4 +1,6 @@
-# Nominal ending -consonantal-transliterated `nme`
+# nme
+
+**nominal ending -consonantal-transliterated**
 
 
 The consonantal representation of the nominal ending of a word

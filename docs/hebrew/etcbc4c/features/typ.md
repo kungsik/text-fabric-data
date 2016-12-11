@@ -1,4 +1,6 @@
-# Clause/Phrase(-atom) type `typ`
+# typ
+
+**clause/Phrase(-atom) type**
 
 
 The linguistic kind of objects.

@@ -1,4 +1,6 @@
-# Tabulation `tab`
+# tab
+
+**tabulation**
 
 
 The level of this clause_atom in the enclosing hierarchy.

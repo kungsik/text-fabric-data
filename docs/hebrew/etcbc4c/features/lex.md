@@ -1,4 +1,6 @@
-# Lexeme -consonantal-transliterated `lex`
+# lex
+
+**lexeme -consonantal-transliterated**
 
 
 The consonantal representation of the lexeme of a word occurrence in

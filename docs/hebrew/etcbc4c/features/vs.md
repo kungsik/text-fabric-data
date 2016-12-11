@@ -1,4 +1,6 @@
-# Verbal stem `vs`
+# vs
+
+**verbal stem**
 
 
 Stem of the verb that indicates an aspect or constellation of the act expressed by the verb.

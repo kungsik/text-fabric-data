@@ -1,4 +1,6 @@
-# Verbal ending -pointed-transliterated `g_vbe`
+# g_vbe
+
+**verbal ending -pointed-transliterated**
 
 
 The pointed representation of the verbal ending of a word in

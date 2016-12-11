@@ -1,4 +1,6 @@
-# Verbal ending -consonantal-transliterated `vbe`
+# vbe
+
+**verbal ending -consonantal-transliterated**
 
 
 The consonantal representation of the verbal ending of a word

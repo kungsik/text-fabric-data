@@ -1,4 +1,6 @@
-# Vocalized lexeme -pointed-hebrew `g_entry_heb`
+# g_entry_heb
+
+**vocalized lexeme -pointed-hebrew**
 
 The pointed representation of the lexeme of a word occurrence in Hebrew script.
 

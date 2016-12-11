@@ -1,4 +1,6 @@
-# Half-verse key `half_verse`
+# half_verse
+
+**half-verse key**
 
 
 The key of the present half_verse.

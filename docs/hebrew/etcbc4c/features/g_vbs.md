@@ -1,4 +1,6 @@
-# Root formation -pointed-transliterated `g_vbs`
+# g_vbs
+
+**root formation -pointed-transliterated**
 
 
 The pointed representation of the root formation of a word in

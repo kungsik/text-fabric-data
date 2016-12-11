@@ -1,4 +1,6 @@
-# Lexeme -pointed-transliterated `g_lex`
+# g_lex
+
+**lexeme -pointed-transliterated**
 
 
 The pointed representation of the lexeme of a word occurrence in 

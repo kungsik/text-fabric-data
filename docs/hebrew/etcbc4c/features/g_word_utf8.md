@@ -1,4 +1,6 @@
-# Word -pointed-Hebrew `g_word_utf8`
+# g_word_utf8
+
+**word -pointed-Hebrew**
 
 
 The pointed representation of a word occurrence in Hebrew script.

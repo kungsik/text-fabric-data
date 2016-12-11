@@ -1,4 +1,6 @@
-# Verse number `verse`
+# verse
+
+**verse number**
 
 
 The number of the present verse.

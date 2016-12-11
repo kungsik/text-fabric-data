@@ -1,4 +1,6 @@
-# Rank-occurrence `rank_occ`
+# rank_occ
+
+**rank-occurrence**
 
 The rank of a word occurrence, a measure related to its frequency.
 

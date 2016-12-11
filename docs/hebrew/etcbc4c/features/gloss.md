@@ -1,4 +1,6 @@
-# Gloss `gloss`
+# gloss
+
+**gloss**
 
 A short English translation of a single word, disregarding context.
 

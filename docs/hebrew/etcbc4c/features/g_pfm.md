@@ -1,4 +1,6 @@
-# Preformative -pointed-transliterated `g_pfm`
+# g_pfm
+
+**preformative -pointed-transliterated**
 
 
 The pointed representation of the preformative of a word in

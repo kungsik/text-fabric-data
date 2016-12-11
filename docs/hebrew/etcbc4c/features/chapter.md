@@ -1,4 +1,6 @@
-# Chapter number `chapter`
+# chapter
+
+**chapter number**
 
 The number of the present chapter.
 

@@ -1,4 +1,6 @@
-# Mother object type `mother_object_type`
+# mother_object_type
+
+**mother object type**
 
 
 Whether the phrase (atom) is determined or not, in the linguistic sense.

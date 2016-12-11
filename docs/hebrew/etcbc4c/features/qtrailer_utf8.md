@@ -1,4 +1,6 @@
-# Interword material -pointed-Hebrew (qere) `qtrailer_utf8`
+# qtrailer_utf8
+
+**interword material -pointed-Hebrew (qere)**
 
 
 The material that follows the word in question, up till the next word, but only when occurring in a qere different from the ketiv.

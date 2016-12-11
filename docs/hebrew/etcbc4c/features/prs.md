@@ -1,4 +1,6 @@
-# Pronominal suffix -consonantal-transliterated `prs`
+# prs
+
+**pronominal suffix -consonantal-transliterated**
 
 
 The consonantal representation of the pronominal suffix of a word

@@ -1,4 +1,6 @@
-# Name type `nametype`
+# nametype
+
+**name type**
 
 
 The type of a named entity.

@@ -1,4 +1,6 @@
-# Clause kind `clause_kind`
+# clause_kind
+
+**clause kind**
 
 This feature is present on objects of type *clause*.
 

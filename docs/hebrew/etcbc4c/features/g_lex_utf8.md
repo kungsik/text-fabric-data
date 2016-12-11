@@ -1,4 +1,6 @@
-# Lexeme -pointed-Hebrew `g_lex_utf8`
+# g_lex_utf8
+
+**lexeme -pointed-Hebrew**
 
 
 The pointed representation of the lexeme of a word occurrence in Hebrew script.

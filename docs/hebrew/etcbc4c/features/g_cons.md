@@ -1,4 +1,6 @@
-# Word -consonantal-transliterated `g_cons`
+# g_cons
+
+**word -consonantal-transliterated**
 
 
 The consonantal representation of a word occurrence in

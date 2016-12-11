@@ -1,4 +1,6 @@
-# Preformative -consonantal-transliterated `pfm`
+# pfm
+
+**preformative -consonantal-transliterated**
 
 
 The consonantal representation of the preformative of a word

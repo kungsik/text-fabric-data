@@ -1,4 +1,6 @@
-# Verbal ending -pointed-Hebrew `g_vbe_utf8`
+# g_vbe_utf8
+
+**verbal ending -pointed-Hebrew**
 
 
 The pointed representation of the verbal ending of a word in Hebrew.

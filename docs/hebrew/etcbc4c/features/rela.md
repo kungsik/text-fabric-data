@@ -1,4 +1,6 @@
-# Relation `rela`
+# rela
+
+**relation**
 
 
 The linguistic relation between the object and its context.

@@ -1,4 +1,6 @@
-# Word -pointed-transliterated `g_word`
+# g_word
+
+**word -pointed-transliterated**
 
 
 The pointed representation of a word occurrence in

@@ -1,4 +1,6 @@
-# Lexical set `ls`
+# ls
+
+**lexical set**
 
 
 Subclassification of part of speech.

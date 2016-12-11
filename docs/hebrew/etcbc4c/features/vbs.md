@@ -1,4 +1,6 @@
-# Root formation -consonantal-transliterated `vbs`
+# vbs
+
+**root formation -consonantal-transliterated**
 
 
 The consonantal representation of the root formation of a verb.

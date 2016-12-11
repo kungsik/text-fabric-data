@@ -1,4 +1,6 @@
-# Monad set `monads`
+# oslots
+
+**monad set**
 
 
 The set of monads associated with an object.

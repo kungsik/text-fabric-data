@@ -1,4 +1,6 @@
-# Verse label `label`
+# label
+
+**verse label**
 
 
 A small string, identifying the present book, chapter and verse.

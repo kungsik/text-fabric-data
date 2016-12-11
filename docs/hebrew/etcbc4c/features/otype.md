@@ -1,4 +1,6 @@
-# Object type `otype`
+# otype
+
+**node type**
 
 
 Database type of the object.

@@ -1,4 +1,6 @@
-# Object identifier `oid`
+# oid
+
+**object identifier**
 
 
 Database identifier of the object.

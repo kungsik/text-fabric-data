@@ -1,4 +1,6 @@
-# Clause atom relation `code`
+# code
+
+**clause atom relation**
 
 
 This feature is present on objects of type *clause_atom*.

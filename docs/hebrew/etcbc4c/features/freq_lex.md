@@ -1,4 +1,6 @@
-# Frequency-lexeme `freq_lex`
+# freq_lex
+
+**frequency-lexeme**
 
 The frequency of a lexeme, measured as the number of occurrences in the whole Hebrew Bible.
 

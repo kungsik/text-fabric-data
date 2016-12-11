@@ -1,4 +1,6 @@
-# Sequence number `number`
+# number
+
+**sequence number**
 
 
 The sequence number of an object within its context.

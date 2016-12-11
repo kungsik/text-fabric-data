@@ -1,4 +1,6 @@
-# Nominal ending -pointed-Hebrew `g_nme_utf8`
+# g_nme_utf8
+
+**nominal ending -pointed-Hebrew**
 
 
 The pointed representation of the nominal ending of a word in Hebrew.

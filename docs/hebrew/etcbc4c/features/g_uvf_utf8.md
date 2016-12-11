@@ -1,4 +1,6 @@
-# Univalent final consonant -pointed-Hebrew `g_uvf_utf8`
+# g_uvf_utf8
+
+**univalent final consonant -pointed-Hebrew**
 
 
 The pointed representation of the univalent final consonant of a word in Hebrew.

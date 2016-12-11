@@ -1,4 +1,6 @@
-# Distance to mother `dist`
+# dist
+
+**distance to mother**
 
 
 The distance between the present object (daughter) and its mother object.

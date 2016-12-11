@@ -1,4 +1,6 @@
-# Verbal tense `vt`
+# vt
+
+**verbal tense**
 
 
 Form of the verb that indicates tense or mood.

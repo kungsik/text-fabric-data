@@ -1,4 +1,6 @@
-# Number `nu`
+# nu
+
+**number**
 
 
 The number class a word (or rather lexeme) belongs to.

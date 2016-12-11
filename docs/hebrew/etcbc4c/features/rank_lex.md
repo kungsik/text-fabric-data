@@ -1,4 +1,6 @@
-# Rank-lexeme `rank_lex`
+# rank_lex
+
+**rank-lexeme**
 
 The rank of a lexeme, a measure related to its frequency.
 

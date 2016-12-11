@@ -1,4 +1,6 @@
-# Is root `is_root`
+# is_root
+
+**is root**
 
 
 **NB:**

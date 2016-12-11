@@ -1,4 +1,6 @@
-# Phrase function `function`
+# function
+
+**phrase function**
 
 
 The phrase function denotes the syntactic function of the phrase.

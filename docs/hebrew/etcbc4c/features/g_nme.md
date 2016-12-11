@@ -1,4 +1,6 @@
-# Nominal ending -pointed-transliterated `g_nme`
+# g_nme
+
+**nominal ending -pointed-transliterated**
 
 
 The pointed representation of the nominal ending of a word in
