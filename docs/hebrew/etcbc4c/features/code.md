@@ -118,7 +118,7 @@ If you subtract 50, the remaining number denotes the class of the preposition us
 `19`|*not used*
 `20`|`<D`
 `21`|`<L`
-`22` `<M`
+`22`|`<M`
 `23`|*not used*
 `24`|`TXT/`
 
@@ -159,10 +159,10 @@ A clause atom is defective if there is another clause atom which contains
 the predicate (or the main part) of the clause.
 
 ---|---
-`220` No verbal predicate in mother or daughter
-`221` Unclassified clause atom relation
-`222` Verbal predicate in daughter clause atom
-`223` Verbal predicate in mother clause atom.
+`220`|No verbal predicate in mother or daughter
+`221`|Unclassified clause atom relation
+`222`|Verbal predicate in daughter clause atom
+`223`|Verbal predicate in mother clause atom.
 
 See also [mother](mother).
 
