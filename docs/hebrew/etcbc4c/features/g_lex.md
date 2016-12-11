@@ -10,8 +10,8 @@ This feature is present on objects of type *word*.
 
 The vowels and consonants of the word lexeme are present; a lexeme does not have other diacritical marks.
 
-.. note:: 
-    There is no disambiguation material at the end of the value such as in [lex](lex).
+**NB:**
+There is no disambiguation material at the end of the value such as in [lex](lex).
 
 **Hint:**
 Generally, this is a handy feature to search for specific words.

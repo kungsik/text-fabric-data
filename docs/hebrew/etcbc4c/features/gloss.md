@@ -21,9 +21,9 @@ You can use it in SHEBANQ queries.
 If you want to use it in LAF-Fabric, you have to load `lexicon` as *annox*.
 Consult the [LAF-Fabric API reference on annoxes](http://laf-fabric.readthedocs.io/en/latest/texts/API-reference.html#extra-annotation-packages).
 
-.. note:: 
-    This is not a feature of the ETCBC4 Hebrew Text Database.
-    Every word occurrence in the database is linked to a lexicon entry.
+**NB:**
+This is not a feature of the ETCBC4 Hebrew Text Database.
+Every word occurrence in the database is linked to a lexicon entry.
 
 **Hint:**
 In LAF-Fabric, the lexicon material is added, rather uneconomically, as extra features 

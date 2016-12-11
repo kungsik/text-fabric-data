@@ -14,10 +14,10 @@ The *vocalized lexeme* is an idealized (aka *paradigmatic*), pointed representat
 which may or may not occur in the text.
 The [g_lex_utf8](g_lex_utf8) is the realized lexeme in a concrete occurrence, of which it may be a part.
 
-.. note:: 
-    This is not a feature of the ETCBC4 Hebrew Text Database.
-    Every word occurrence in the database is linked to a lexicon entry.
-    The values of *vocalized lexeme* are given in the lexicon only.
+**NB:**
+This is not a feature of the ETCBC4 Hebrew Text Database.
+Every word occurrence in the database is linked to a lexicon entry.
+The values of *vocalized lexeme* are given in the lexicon only.
 
 **Hint:**
 In LAF-Fabric, the lexicon material is added, rather uneconomically, as extra features 

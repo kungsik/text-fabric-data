@@ -104,7 +104,7 @@ If you subtract 50, the remaining number denotes the class of the preposition us
 `5` |`B`, `BMW`
 `6` |`BJN/`         | !
 `7` |`BL<DJ`        | !
-`8` |`*not used*
+`8` |*not used*
 `9` |`B<D/`         | !
 `10`|`ZWLH/`        | !
 `11`|`J<N/`

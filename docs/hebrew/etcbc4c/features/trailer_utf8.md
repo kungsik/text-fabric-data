@@ -15,12 +15,12 @@ Not all words in Hebrew are separated by a space.
 This feature is the only one that gives the information whether there is a
 space between words.
 
-.. note::
-    After the last word of a verse, a newline has been inserted in the ETCBC4 working text.
-    This newline has become part of the
-    [trailer_utf8](trailer_utf8) value of the last word of the verse.
+**NB:**
+After the last word of a verse, a newline has been inserted in the ETCBC4 working text.
+This newline has become part of the
+[trailer_utf8](trailer_utf8) value of the last word of the verse.
 
-    This feature is only present with values in UNICODE Hebrew.
+This feature is only present with values in UNICODE Hebrew.
 
 See also:
 

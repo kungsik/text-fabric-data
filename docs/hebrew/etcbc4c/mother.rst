@@ -35,11 +35,11 @@ More precisely, this is from where to where the mother relationships go::
     daughter = subphrase            and mother = subphrase           : 20556x
     daughter = subphrase            and mother = word                : 34688x
 
-.. caution::
-    This description needs more body: what objects can be mothers, what daughters?
-    What is the linguistic meaning of mother in all those cases?
-    Are there formal characteristics indicating a mother relationship?
-    Examples needed!
+**Caution:**
+This description needs more body: what objects can be mothers, what daughters?
+What is the linguistic meaning of mother in all those cases?
+Are there formal characteristics indicating a mother relationship?
+Examples needed!
 
 Examples
 --------

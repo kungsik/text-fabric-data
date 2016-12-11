@@ -16,6 +16,6 @@ The meanings of the univalent final forms need to be listed.
 The univalent final consonant act as markers for functions which do not have contrasting
 values, e.g. a locative.
 
-.. note::
-    The value `absent` indicates absence (there is no empty value).
+**NB:**
+The value `absent` indicates absence (there is no empty value).
 

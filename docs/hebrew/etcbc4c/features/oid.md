@@ -11,11 +11,11 @@ The objects are numbered. No two objects have the same number, so a sentence can
 The object identifiers carry no meaning, but various extractions of the data may contain these numbers.
 This can help to locate objects found in one extraction of the data in an other extraction.
 
-.. note::
-    If you are writing an MQL query, use the feature *self*.
+**NB:**
+If you are writing an MQL query, use the feature *self*.
 
-    If you are doing LAF processing, use the feature *oid*.
+If you are doing LAF processing, use the feature *oid*.
 
-    The LAF *oid* feature has per object exactly the same value as the MQL *self* value.
+The LAF *oid* feature has per object exactly the same value as the MQL *self* value.
 
 We omit the complete list of values for this feature. They are all numbers, and all identifiers occur exactly once.

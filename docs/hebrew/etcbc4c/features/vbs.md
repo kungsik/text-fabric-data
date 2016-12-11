@@ -14,8 +14,8 @@ The root formation indicates verbal stem.
 
 See also [vs](vs).
 
-.. note::
-    There is no empty value, but there is an `absent` value.
+**NB:**
+There is no empty value, but there is an `absent` value.
 
-    To mark *not applicable*, the value `n/a` is used, instead of the usual `NA`.
+To mark *not applicable*, the value `n/a` is used, instead of the usual `NA`.
 

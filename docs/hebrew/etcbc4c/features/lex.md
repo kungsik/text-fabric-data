@@ -10,11 +10,11 @@ This feature is present on objects of type *word*.
 
 Only the consonants of the word lexeme are present: no vowel pointing and no other diacritical marks.
 
-.. note:: 
-    There is disambiguation material at the end of the value.
-    If the lexeme is a verb, a `[` is added, if it is a noun, a `/` is added.
-    If there are more than one lexemes with the same consonants, they are disambiguated by adding
-    zero or more `=` s to the values.
+**NB:**
+There is disambiguation material at the end of the value.
+If the lexeme is a verb, a `[` is added, if it is a noun, a `/` is added.
+If there are more than one lexemes with the same consonants, they are disambiguated by adding
+zero or more `=` s to the values.
 
 **Hint:**
 Generally, this is a handy feature to search for specific words.

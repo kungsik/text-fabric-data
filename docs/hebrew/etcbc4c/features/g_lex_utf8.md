@@ -9,8 +9,8 @@ This feature is present on objects of type *word*.
 
 The vowels and consonants of the word lexeme are present; a lexeme does not have other diacritical marks.
 
-.. note:: 
-    There is no disambiguation material at the end of the value such as in [lex](lex).
+**NB:**
+There is no disambiguation material at the end of the value such as in [lex](lex).
 
 **Hint:**
 It is difficult to enter Hebrew text. One of the handiest ways to get Hebrew text into a query is to copy and paste it

@@ -8,9 +8,9 @@ This feature is present on objects of type *word*.
 
 What is counted is the consonantal representation of the words, without accents.
 
-.. note::
-    This feature does not distinguish between homonyms, i.e. it counts representations and lexeme distinctions
-    are not taken into account.
+**NB:**
+This feature does not distinguish between homonyms, i.e. it counts representations and lexeme distinctions
+are not taken into account.
 
 **Hint:**
 The measures *frequency* and *rank* have been computed for *lexemes* and *occurrences*.

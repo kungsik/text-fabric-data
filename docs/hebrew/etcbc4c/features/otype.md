@@ -26,8 +26,8 @@ groups do not form a formal concept.
 
 ---|---
 [Section types](sectiont)         |division in books, chapters, etc
-[Word type](wordt)                |all about the individual words
-[Linguistic types](linguisticst)  |phrases, clauses, etc
+[Word type](#word-type)                |all about the individual words
+[Linguistic types](#linguistic types)  |phrases, clauses, etc
 
 ## Section types
 
@@ -44,8 +44,6 @@ Analogously, the `verse` object carries the [verse](verse) feature, which contai
 and the [book](book) and [chapter](chapter) features.
 Additionally, the `verse` object also carries [label](label), which contains a label string indicating the passage.
 However, the `half_verse` object only carries the [half_verse](half_verse) feature, which contains a key for the half-verse.
-
-.. _wordt:
 
 ## Word type
 
@@ -78,8 +76,6 @@ or their vocalized values:
 [g_lex](g_lex) (transcription),
 [g_lex_utf8](g_lex_utf8) (Hebrew).
 
-.. _linguisticst:
-
 ## Linguistic types
 
 Linguistic types correspond to syntactical entities such as sentences, clauses and phrases.
@@ -96,14 +92,14 @@ More explanation needed about the distributional and functional objects hierarch
 Is `subphrase` functional or distributional?
 Are atoms always *maximal* continous stretches, or can you have two adjacent atoms of the same type?
 
-.. note::
-    If you are writing an MQL query, there is not a feature as such in which the type is stored.
-    Rather you refer to the type when you write the building blocks such as `[word ...]` or
-    `[clause_atom [phrase ]]`. 
-    
-    But If you are doing LAF processing, there is the feature *otype*.
+**NB:**
+If you are writing an MQL query, there is not a feature as such in which the type is stored.
+Rather you refer to the type when you write the building blocks such as `[word ...]` or
+`[clause_atom [phrase ]]`. 
 
-    The LAF *otype* feature has the same values as the possible names of the MQL blocks.
+But If you are doing LAF processing, there is the feature *otype*.
+
+The LAF *otype* feature has the same values as the possible names of the MQL blocks.
 
 **Hint:**
 If you need the object hierarchy in order to provide context around patterns of interest, you can start with a query in SHEBANQ

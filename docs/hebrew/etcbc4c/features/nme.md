@@ -12,5 +12,5 @@ For more about features on morphemes, see [word grammar](wordgrammar).
 
 The nominal ending belongs to noun/adjective declination, it marks gender, number and state in a combined fashion.
 
-.. note::
-    One of the values is the empty value.
+**NB:**
+One of the values is the empty value.

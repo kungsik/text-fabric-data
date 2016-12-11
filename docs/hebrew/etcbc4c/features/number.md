@@ -8,12 +8,12 @@ The sequence number of an object within its context.
 This feature is present on objects of type *sentence(_atom)*, *clause(_atom)*, *phrase(_atom)*, *word*.
 
 
-.. note::
-    This feature does not occur on *subphrases*.
-    However, SHEBANQ shows subphrase numbering in *data view*. 
-    Subphrases my be nested in intricate ways. 
-    Shebanq shows for every word the sequence numbers of the subphrases it belongs to.
-    Subphrases are numbered per containing phrase.
+**NB:**
+This feature does not occur on *subphrases*.
+However, SHEBANQ shows subphrase numbering in *data view*. 
+Subphrases my be nested in intricate ways. 
+Shebanq shows for every word the sequence numbers of the subphrases it belongs to.
+Subphrases are numbered per containing phrase.
 
 Numbering starts with 1.
 The manner of numbering objects differs per object type:

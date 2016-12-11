@@ -23,8 +23,8 @@ In case of the regens/rectum relation, the mother is not a subphrase, but a word
 The upper case values apply to the mother subphrase and the lower case values apply to the daughter subphrase.
 See [mother](mother).
 
-.. note::
-    In MQL the feature applies to the *daughter* only; the mother has the value `NA`.
+**NB:**
+In MQL the feature applies to the *daughter* only; the mother has the value `NA`.
 
 **NB:**
 Consider leaving out the uppercase values, since they do not occur in MQL.

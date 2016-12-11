@@ -14,9 +14,9 @@ Different objects may or may not overlap.
 The monad set is given as a comma separated list of monad *ranges*, where a range has the form *n* `-` *m*,
 where *n* is a number smaller than or equal to *m*. The range *n* `-` *n* may be abbreviated to *n*.
 
-.. note::
-    The value of these feature for word objects is always just one number.
-    All word occurrences are numbered from 1 to more than 400,000, in the order as they occur in the Hebrew Bible.
+**NB:**
+The value of these feature for word objects is always just one number.
+All word occurrences are numbered from 1 to more than 400,000, in the order as they occur in the Hebrew Bible.
 
 **NB:**
 There might be gaps in the word numbering between books of the Bible.

@@ -6,9 +6,9 @@ The frequency of a lexeme, measured as the number of occurrences in the whole He
 
 This feature is present on objects of type *word*.
 
-.. note::
-    The ETCBC lexicon makes distinctions between homonyms, i.e. distinct lexemes that are spelled identically.
-    This feature respects that distinction.
+**NB:**
+The ETCBC lexicon makes distinctions between homonyms, i.e. distinct lexemes that are spelled identically.
+This feature respects that distinction.
 
 **Hint:**
 The measures *frequency* and *rank* have been computed for *lexemes* and *occurrences*.
