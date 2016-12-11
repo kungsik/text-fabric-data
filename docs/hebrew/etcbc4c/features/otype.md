@@ -29,8 +29,8 @@ groups do not form a formal concept.
 [Word type](wordt)                |all about the individual words
 [Linguistic types](linguisticst)  |phrases, clauses, etc
 
-Section types
-^^^^^^^^^^^^^
+## Section types
+
 The section types correspond to the various divisional units in the Bible.
 The Hebrew Bible is divided in books, books are divided in chapters, chapters are divided in verses, and verses in half-verses.
 The sectional types
@@ -47,8 +47,8 @@ However, the `half_verse` object only carries the [half_verse](half_verse) featu
 
 .. _wordt:
 
-Word type
-^^^^^^^^^
+## Word type
+
 There is only one type for words, the `word` type.
 Word objects correspond to the smallest divisional units in the ETCBC4 database.
 They are also called *monads*. Words are not identified with strings, because there are various
@@ -80,8 +80,8 @@ or their vocalized values:
 
 .. _linguisticst:
 
-Linguistic types
-^^^^^^^^^^^^^^^^
+## Linguistic types
+
 Linguistic types correspond to syntactical entities such as sentences, clauses and phrases.
 The ETCBC4 distinguishes between *functional* and *distributional* variants of them.
 The functional object types are `sentence`, `clause`, and `phrase`.

@@ -1,6 +1,6 @@
-# book book name
+# book
 
-***
+**book name**
 
 The Latin name of the present bible book.
 

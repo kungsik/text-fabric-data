@@ -16,20 +16,20 @@ See the hint at the end to see how you could use this feature.
 Clause atom relation is denoted by a code of 1, 2, or 3 digits.
 
 ---|---
-`0`           | [No relation](norela)
-`10` - `16`   | [Relative clause atoms](relative)
-`50` – `74`   | [Infinitive construct clause atoms](infinitive)
-`100` – `167` | [Asyndetic clause atoms](asyndetic)
-`200` - `201` | [Parallel clause atoms](parallel)
-`220` - `223` | [Defective clause atoms](defective)
-`300` - `367` | [Conjunctive adverbs](cadverbs)
-`400` - `487` | [Coordinate clause atoms](coordinate)
-`500` - `567` | [Postulational clause atoms](postulational)
-`600` - `667` | [Conditional clause atoms](conditional)
-`700` - `767` | [Temporal clause atoms](temporal)
-`800` - `867` | [Final clause atoms](final)
-`900` - `967` | [Causal clause atoms](causal)
-`999`         | [Direct speech](direct)
+`0`           | [No relation](#no-relation)
+`10` - `16`   | [Relative clause atoms](#relative-clause-atoms)
+`50` – `74`   | [Infinitive construct clause atoms](#infinitive-construct-clause-atoms)
+`100` – `167` | [Asyndetic clause atoms](#asyndetic-clause-atoms)
+`200` - `201` | [Parallel clause atoms](#parallel-clause-atoms)
+`220` - `223` | [Defective clause atoms](#defective-clause-atoms)
+`300` - `367` | [Conjunctive adverbs](#conjunctive-adverbs)
+`400` - `487` | [Coordinate clause atoms](#coordinate-clause-atoms)
+`500` - `567` | [Postulational clause atoms](#postulational-clause-atoms)
+`600` - `667` | [Conditional clause atoms](#conditional-clause-atoms)
+`700` - `767` | [Temporal clause atoms](#temporal-clause-atoms)
+`800` - `867` | [Final clause atoms](#final-clause-atoms)
+`900` - `967` | [Causal clause atoms](#causal-clause-atoms)
+`999`         | [Direct speech](#direct-speech)
 
 These classes are of a distributional, not functional, nature.
 They group lexemes which are hypothesised to share one or more functional aspects into tentative sets,
@@ -48,10 +48,10 @@ What is the useful collection of data?
 An example of research should be given or referred to.
 The reference to Gino's work could be more pin-pointed.
 
-.. _norela:
+## No relation
 
-`0` No relation
-^^^^^^^^^^^^^^^^^
+**`0`**
+
 The value `0` and a [dist](dist) of 0 clause atoms to its mother mark a clause atom as the root of the tree of clause atom relations.
 
 **NB:**
@@ -65,10 +65,10 @@ See also [tab](tab).
 
 Examples please.
 
-.. _relative:
+## Relative clause atoms
 
-`10` .. `16` Relative clause atoms
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**`10` .. `16`**
+
 Clause atoms whose opening phrase (first phrase?)
 has [typ](typ) `CP` (conjunctive phrase) and
 [function](function) `Rela` (relative).
@@ -89,57 +89,56 @@ The second digit denotes the tense of the verbal predicate of the daughter claus
 The ! appears where the QUEST documentation has a cross mark. 
 I do not know why these values have been marked.
 
-.. _infinitive:
+##  Infinitive construct clause atoms
 
-`50`– `74`  Infinitive construct clause atoms
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**`50`– `74`**
 Clause atoms of which the verbal predicate is an infinitive construct.
 If you subtract 50, the remaining number denotes the class of the preposition used in the construction:
 
 ---|---|---
-`0`| none
-`1`| >XR/
-`2`| >L
-`3`| >YL/         | !
-`4`| >T
-`5`| B, BMW
-`6`| BJN/         | !
-`7`| BL<DJ        | !
-`8`| *not used*
-`9`| B<D/         | !
-`10`|ZWLH/        | !
-`11`|J<N/
-`12`|K, KMW
+`0` | none
+`1` |`>XR/`
+`2` |`>L`
+`3` |`>YL/`         | !
+`4` |`>T`
+`5` |`B`, `BMW`
+`6` |`BJN/`         | !
+`7` |`BL<DJ`        | !
+`8` |`*not used*
+`9` |`B<D/`         | !
+`10`|`ZWLH/`        | !
+`11`|`J<N/`
+`12`|`K, KMW`
 `13`|*not used*
-`14`|L, LMW
-`15`|LM<N
+`14`|`L, LMW`
+`15`|`LM<N`
 `16`|*not used*
-`17`|MN
+`17`|`MN`
 `18`|*not used*
 `19`|*not used*
-`20`|<D
-`21`|<L
-`22` <M
+`20`|`<D`
+`21`|`<L`
+`22` `<M`
 `23`|*not used*
-`24`|TXT/
+`24`|`TXT/`
 
 **NB:**
 The ! appears where the QUEST documentation has a cross mark. 
 I do not know why these values have been marked.
 
-.. _asyndetic:
+## Asyndetic clause atoms
 
-`100` – `167`  Asyndetic clause atoms
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**`100` – `167`**
+
 Construction without a conjunction.
 The second and third digit denote the tense of the verbal predicate of the daughter and
 mother clause, respectively. See the [tense table](tenses).
 See also [mother](mother).
 
-.. _parallel:
+## Parallel clause atoms
 
-`200` - `201`  Parallel clause atoms
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**`200` - `201`**
+
 Two clause atoms are parallel if they concur in subject presence
 and have equivalent phrases up to the predicate,
 provided that the daughter is not subordinated.
@@ -152,10 +151,10 @@ the clause atoms must be of the same clause atom type ([typ](typ)).
 `200` | Identical clause atom opening.
 `201` | Identical clause atom opening when disregarding the coordinating conjunction(s).
 
-.. _defective:
+## Defective clause atoms
 
-`220` - `223`  Defective clause atoms
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**`220` - `223`**
+
 A clause atom is defective if there is another clause atom which contains
 the predicate (or the main part) of the clause.
 
@@ -167,29 +166,29 @@ the predicate (or the main part) of the clause.
 
 See also [mother](mother).
 
-.. _cadverbs:
+## Conjunctive adverbs
 
-`300` - `367`  Conjunctive adverbs
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**`300` - `367`**
+
 Asyndetic construction, but with a conjunctive adverb.
 The second and third digit denote the tense of the verbal predicate of the daughter and
 mother clause, respectively. See the [tense table](tenses).
 See also [mother](mother).
 
-.. _coordinate:
+## Coordinate clause atoms
 
-`400` - `487`  Coordinate clause atoms
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**`400` - `487`**
+
 Construction with a conjunction from class 400, the *coordinating* conjunctions:
 The second and third digit denote the tense of the verbal predicate of the daughter and
 mother clause, respectively. See the [tense table](tenses).
 See also [mother](mother).
 
 ---|---|---
-`400`|coordinating |>W, W
-`500`|postulational|>CR, DJ, H, ZW, KJ, C
-`600`|conditional  |>LW, >M, HN, LHN=, LW, LWL>
-`800`|final        |PN
+`400`|coordinating | `>W`, `W`
+`500`|postulational| `>CR`, `DJ`, `H`, `ZW`, `KJ`, `C`
+`600`|conditional  | `>LW`, `>M`, `HN`, `LHN=`, `LW`, `LWL>`
+`800`|final        | `PN`
 
 The conjunction class is determined by the conjunction opening conjunction phrase.
 
@@ -199,39 +198,39 @@ Too terse:
 Expand or give an example.
 
 code 800 also occurs in the table of
-[Preposition classes of clause atom opening](prepositionsopen)
+[Temporal clause atoms](#temporal-clause-atoms)
 
-.. _postulational:
+## Postulational clause atoms
 
-`500` - `567`  Postulational clause atoms
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**`500` - `567`**
+
 Construction with a conjunction from class 500, the *postulational* conjunctions:
 The second and third digit denote the tense of the verbal predicate of the daughter and
 mother clause, respectively. See the [tense table](tenses).
 See also [mother](mother).
 
-.. _conditional:
+## Conditional clause atoms
 
-`600` - `667`  Conditional clause atoms
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**`600` - `667`**
+
 Construction with a conjunction from class 600, the *conditional* conjunctions:
 The second and third digit denote the tense of the verbal predicate of the daughter and
 mother clause, respectively. See the [tense table](tenses).
 See also [mother](mother).
 
-.. _temporal:
+## Temporal clause atoms
 
-`700` - `767`  Temporal clause atoms
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**`700` - `767`**
+
 Construction with a conjunction from class 700, the *conditional* conjunctions:
 The second and third digit denote the tense of the verbal predicate of the daughter and
 mother clause, respectively. See the [tense table](tenses).
 See also [mother](mother).
 
 ---|---
-`700`| >XR/, >L, B, BMW, VRM/, K, KMW, L, LMW, <D
-`800`| BLT/, ZWLH/, LM<N, MN
-`900`| J<N/, <L, <QB/
+`700`| `>XR/`, `>L`, `B`, `BMW`, `VRM/`, `K`, `KMW`, `L`, `LMW`, `<D`
+`800`| `BLT/`, `ZWLH/`, `LM<N`, `MN`
+`900`| `J<N/`, `<L`, `<QB/`
 
 This preposition class is determined by the preposition that heads the clause opening conjunction phrase.
 
@@ -240,31 +239,31 @@ Too terse:
 "that heads the clause opening conjunction phrase".
 Expand or give an example.
 
-code 800 also occurs in the table of
-[Conjunction classes of clause atom opening](conjunctionsopen)
+code `800` also occurs in the table of
+[Conjunction classes of clause atom opening](#coordinate-clause-atoms)
 
-.. _final:
+## Final clause atoms
 
-`800` - `867`  Final clause atoms
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**`800` - `867`**
+
 Construction with a conjunction from class 800, the *final* conjunctions:
 The second and third digit denote the tense of the verbal predicate of the daughter and
 mother clause, respectively. See the [tense table](tenses).
 See also [mother](mother).
 
-.. _causal:
+## Causal clause atoms
 
-`900` - `967`  Causal clause atoms
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**`900` - `967`**
+
 Construction with a conjunction from class 900, the *causal* conjunctions:
 The second and third digit denote the tense of the verbal predicate of the daughter and
 mother clause, respectively. See the [tense table](tenses).
 See also [mother](mother).
 
-.. _direct:
+## Direct speech
 
-`999` Direct speech
-^^^^^^^^^^^^^^^^^^^^^
+**`999`**
+
 The clause atom in question starts a direct speech section.
 
 A section of direct speech is usually introduced by a clause atom

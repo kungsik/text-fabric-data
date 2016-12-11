@@ -7,8 +7,8 @@ The linguistic relation between the object and its context.
 
 This feature is present on objects of type *clause*, *phrase(_atom)*, and *subphrase*.
 
-Subphrase
-^^^^^^^^^
+## Subphrase
+
 
 ---|---|---
 `ADJ`|`adj`|Adjunct
@@ -32,8 +32,8 @@ Examples needed.
 
 Explain why is this a useful feature. Examples needed.
 
-Phrase_atom
-^^^^^^^^^^^
+## Phrase_atom
+
 
 ---|---
 `Appo`|Apposition
@@ -50,8 +50,8 @@ I prefer a more informative definition.
 Explain why is this a useful feature? Examples needed.
 
 
-Phrase
-^^^^^^
+## Phrase
+
 
 ---|---
 `PrAd`|Predicative adjunct
@@ -72,8 +72,8 @@ I prefer a more informative definition.
 
 Explain why is this a useful feature? Examples needed.
 
-Clause
-^^^^^^
+## Clause
+
 
 ---|---
 `Adju`|Adjunctive clause

@@ -7,8 +7,8 @@ The linguistic kind of objects.
 
 This feature is present on objects of type *clause(_atom)*, *phrase(_atom)*.
 
-Clause (atom)
-^^^^^^^^^^^^^
+## Clause (atom)
+
 For *clause*-like objects the values provide a classification on the basis of the constituents of the clause.
 This feature is also known as *clause (atom) type*.
 
@@ -64,8 +64,8 @@ Explain why is this a useful feature? Examples needed.
 `ZYq0`|Zero-yiqtol-null clause
 `ZYqX`|Zero-yiqtol-X clause
 
-Phrase (atom)
-^^^^^^^^^^^^^
+## Phrase (atom)
+
 For *phrase*-like objects the values provide a classification on the basis of the syntactic function of the phrase.
 This feature is also known as *phrase (atom) type*.
 
