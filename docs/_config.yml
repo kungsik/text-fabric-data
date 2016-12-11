@@ -1,1 +1,8 @@
+defaults:
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: docs
+    sectionid: docs
 theme: minima
