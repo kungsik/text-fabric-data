@@ -39,4 +39,4 @@ This data can be processed by
 
 What you need to know is what the features in this data set mean.
 
-[Feature Documentation](/features/hebrew/etcbc4c/0_overview)
+[Feature Documentation](/text-fabric-data/features/hebrew/etcbc4c/0_overview)

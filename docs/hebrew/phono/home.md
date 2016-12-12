@@ -17,5 +17,5 @@ As such it can be seamlessly imported by
 
 This work is free to use.
 
-[Feature Documentation](features/0_overview.md)
+[Feature Documentation](/text-fabric-data/features/hebrew/phono/0_overview.md)
 
