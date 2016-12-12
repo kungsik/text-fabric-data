@@ -1,5 +1,14 @@
-defaults:
-- scope:
-    path: ''
-    type: pages
 theme: minima
+
+collections:
+    features:
+        output: true
+        permalink: /features/:path/
+
+
+defaults:
+    - scope:
+        path: ""
+        type: features
+      values:
+        layout: feature

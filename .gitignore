@@ -43,6 +43,7 @@ Thumbs.db
 
 # Build directories #
 #####################
+_site/
 _themes/
 _build/
 __pycache__
@@ -50,4 +51,4 @@ __pycache__
 
 # Config files which get locally modified
 #########################################
-laf-fabric.cfg
+.jekyll-metadata
