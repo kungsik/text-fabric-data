@@ -1,10 +1,10 @@
 theme: minima
 
+baseurl: /text-fabric-data
+
 collections:
     features:
         output: true
-        permalink: /features/:path/
-
 
 defaults:
     - scope:
