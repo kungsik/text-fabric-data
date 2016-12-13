@@ -5,7 +5,7 @@ feat: false
 
 # Introduction
 This is the key to the meaning of the features of the
-[etcbc4c dataset](/ETCBC/hebrew/etcbc4c/home).
+[etcbc4c dataset](/text-fabric-data/features/hebrew/etcbc4c/0_home).
 
 There are several
 [types of objects](otype),

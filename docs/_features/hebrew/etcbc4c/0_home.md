@@ -8,7 +8,7 @@ feat: false
 Hebrew Text Dataset, text and linguistic annotations compiled by the
 [Eep Talstra Centre for Bible and Computer](http://www.godgeleerdheid.vu.nl/en/research/institutes-and-centres/eep-talstra-centre-for-bible-and-computer/index.aspx)
 and prepared for use in 
-[Text-Fabric](/ETCBC/text-fabric.wiki/Home)
+[Text-Fabric](https://github.com/ETCBC/text-fabric.wiki/Home)
 by Dirk Roorda
 [Data Archiving and Networked Services](https://dans.knaw.nl/en/front-page?set_language=en).
 
@@ -38,4 +38,4 @@ That means:
 # How to use
 
 This data can be processed by 
-[Text-Fabric](/ETCBC/text-fabric.wiki/Home).
+[Text-Fabric](https://github.com/ETCBC/text-fabric.wiki/Home).
