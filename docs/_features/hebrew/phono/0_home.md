@@ -7,7 +7,7 @@ feat: false
 
 Phonetic transcription of the text in the
 [etcbc4c](/hebrew/etcbc4c/home)
-database.
+dataset.
 
 The transcription is algorithmically produced by the
 [phono notebook](https://rawgit.com/ETCBC/text-fabric/master/phono/phonoTf.html)

@@ -4,8 +4,10 @@ title: otype
 
 **node type**
 
-
-Database type of the object.
+Types for text objects.
+As text objects are represented by nodes in
+[Text-Fabric](https://github.com/ETCBC/text-fabric.wiki/Home),
+we shall use both *object* and *node* without much consistency.  
 
 ---|---|---
 `word`         |slot          |single word, fills a *slot*; sometimes words are not separated by a space
@@ -50,7 +52,7 @@ However, the `half_verse` object only carries the [half_verse](half_verse) featu
 ## Word type
 
 There is only one type for words, the `word` type.
-Word objects correspond to the smallest divisional units in the ETCBC4 database.
+Word objects correspond to the smallest divisional units in the ETCBC4 dataset.
 They are also identified with *slots*, because each slot is filled by a word and each word fills a slot.
 Words are not identified with strings, because there are various
 string representations of the words, none of which is canonical. All word occurrences are numbered

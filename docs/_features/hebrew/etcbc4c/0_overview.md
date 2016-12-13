@@ -15,6 +15,7 @@ We organize the object types as follows:
 
 * [sectional](#sectional-features)
 * [word](#word-features)
+* [lexeme](#lexeme-features)
 * [linguistic](#linguistic-features)
 
 ## Grid features

@@ -14,10 +14,6 @@ In all other cases this feature is empty.
 
 See for an example [Genesis 12:8](https://shebanq.ancient-data.org/hebrew/text?book=Genesis&chapter=12&verse=8&tp=txt_p)
 
-# Note
-> In cases where the ketiv is different from the qere, the qere has been added to the ETCBC database in a later stage.
-Nevertheless, you can use this feature in queries in SHEBANQ.
-
 # See also
 
 * [qere](qere) 

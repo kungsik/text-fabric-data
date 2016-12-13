@@ -5,7 +5,7 @@ feat: false
 
 # Text-Fabric versus SHEBANQ
 
-The [ETCBC](http://www.godgeleerdheid.vu.nl/en/index.asp) provides two tools to work with its database of linguistic annotations
+The [ETCBC](http://www.godgeleerdheid.vu.nl/en/index.asp) provides two tools to work with its dataset of linguistic annotations
 to the Hebrew Bible.
 
 One is [SHEBANQ](https://shebanq.ancient-data.org) which provides a human readable view on the data on the basis of which researchers
@@ -17,7 +17,8 @@ It even provides visualizations of result sets, which can also be downloaded as 
 Nevertheless, SHEBANQ falls short for those researchers that want to perform statistical analysis on the data.
 These researchers need to preprocess the data in ways that an application author cannot anticipate.
 
-The good news is that existence of the other tool, [Text-Fabric](https://github.com/ETCBC/text-fabric.wiki/Home).
+The good news is that existence of the other tool,
+[Text-Fabric](https://github.com/ETCBC/text-fabric.wiki/Home).
 This is an **offline** tool based on exactly the same data that powers SHEBANQ.
 The programming researcher can use Text-Fabric as a preprocessing tool for transforming the complex ETCBC data into the formats that are suitable to
 R, spreadsheets, or any format of choice.

@@ -9,13 +9,13 @@ Words may consist of parts that carry parts of the meaning. These parts are call
 They can be verbal and nominal endings, which signal grammatical functions such as person, number, gender, state, tense, mood.
 They can also be pronominal suffixes, which are almost separate lexemes.
 
-The ETCBC database distinguishes the following morphological elements in a word:
+The ETCBC dataset distinguishes the following morphological elements in a word:
 
 * prefix lexeme suffix enclitic
 
 * vowel-pattern
 
-The information in each of these elements is carried by one or more features in the ETCBC database.
+The information in each of these elements is carried by one or more features in the ETCBC dataset.
 These features are also represented by a single shortcut character, which shows up in some feature values, which is why we mention them here.
 
 ## prefix
@@ -42,7 +42,7 @@ These features are also represented by a single shortcut character, which shows 
 ---|---|---
 [prs](prs) | `+` | pronominal suffix
 
-The vowel pattern is not present as a separate feature in the database.
+The vowel pattern is not present as a separate feature in the dataset.
 
 All these features encode the information that is encountered in the text.
 So, although the values carry grammatical information, these features do not label the grammatical information. 

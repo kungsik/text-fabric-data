@@ -16,7 +16,7 @@ do not contain heuristics which meanings should be selected in which contexts.
 The *gloss* is useful for users with limited knowledge of Hebrew to get an impression
 of what the text they are reading is about.
 
-This feature has been added to the database in a later stage as package called `lexicon`.
+This feature has been added to the dataset in a later stage as package called `lexicon`.
 
 You can use it in SHEBANQ queries.
 

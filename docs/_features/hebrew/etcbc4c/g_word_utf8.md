@@ -19,7 +19,7 @@ In those cases, SHEBANQ does not use this feature, but takes the *vocalized* **q
 # Hint
 > It is hazardous to use this feature for queries. From how a Hebrew word looks in printing, it cannot be determined what the
 order of the various diacritics of one and the same consonant is.
-The order, chosen in the ETCBC4 database is such that the rendering gives optimal results for most applications.
+The order, chosen in the ETCBC4 dataset is such that the rendering gives optimal results for most applications.
 The ETCBC4 is not committed to maintain a definite ordering here.
 
 In order not to miss search results, it might be helpful to compare the results with those obtained by using

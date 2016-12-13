@@ -39,7 +39,7 @@ select all objects where
 ```
 
 ## Text-Fabric implementation
-In the Text-Fabric representation of the ETCBC4 database, *mother* is an *edge* feature.
+In the Text-Fabric representation of the ETCBC4 dataset, *mother* is an *edge* feature.
 The nodes correspond to the objects, and the edges to relationships between nodes.
 The edges that belong to the *mother* feature, correpond to the *mother* relationship.
 
