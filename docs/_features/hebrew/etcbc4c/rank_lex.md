@@ -13,14 +13,14 @@ So items with rank 0 have the highest frequency.
 If two or more items have identical frequency, they have the same rank, but the rank immediately below is not one lower, but *n* lower,
 where *n* is the amount of items with that same frequency.
 
-# Note
+##### Note
 > The ETCBC lexicon makes distinctions between homonyms, i.e. distinct lexemes that are spelled identically.
 This feature respects that distinction.
 
-# Hint
+##### Hint
 > The measures *frequency* and *rank* have been computed for *lexemes* and *occurrences*.
     
-# See also
+##### See also
  
 * [freq_lex](freq_lex)
 * [rank_lex](rank_lex)

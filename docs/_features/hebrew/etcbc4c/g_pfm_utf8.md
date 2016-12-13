@@ -11,7 +11,7 @@ This feature is present on objects of type *word*.
 
 For the meaning, see [pfm](pfm).
 
-# Note
+##### Note
 > The defined values of this feature are preceeded and succeeded by a `!`.
 
 

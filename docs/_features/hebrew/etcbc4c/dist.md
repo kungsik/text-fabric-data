@@ -21,7 +21,7 @@ If we measure in words, we take the difference between the max [oslot](oslot) va
 If we measure in *clause/phrase-atoms*, we take the difference of the [number](number) values
 of the mother and the daughter.
 
-# Note
+##### Note
 > Or must we take the [number](number) of the clause/phrase-atom that the daughter occurs in?
 
 Why is distance useful?

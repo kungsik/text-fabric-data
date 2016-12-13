@@ -20,7 +20,7 @@ This feature has been added to the dataset in a later stage as package called `l
 
 You can use it in SHEBANQ queries.
 
-# Note
+##### Note
 > This feature is not available on *words*, only on nodes of type *lex*.
 That makes it difficult to use in MQL queries, because something like this will generally not work
 
@@ -36,7 +36,7 @@ select all objects where
 > because lexemes may have many occurrences all over the place,
 so lexemes tend to be not contained in any other object type.
 
-# Hint
+##### Hint
 > In Text-Fabric we are developing a new way of querying which will not have this problem.
 Read more in [tfQuery](https://github.com/ETCBC/text-fabric/blob/master/tfql/tfQuery.ipynb).
 

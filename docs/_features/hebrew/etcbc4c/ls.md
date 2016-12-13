@@ -28,5 +28,5 @@ quot |quotation verb
 card |cardinal
 none |none
 
-# Note
+##### Note
 > Longer descriptions of these labels are necessary.

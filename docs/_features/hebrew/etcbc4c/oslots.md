@@ -17,9 +17,9 @@ Different objects may or may not overlap.
 The slot set is given as a comma separated list of slot *ranges*, where a range has the form *n* `-` *m*,
 where *n* is a number smaller than or equal to *m*. The range *n* `-` *n* may be abbreviated to *n*.
 
-# Note
+##### Note
 > The value of this feature for word objects is always just one number: the number of the slot the word occupies.
 All word occurrences are numbered from 1 to more than 400,000, in the order as they occur in the Hebrew Bible.
 
-# Note
+##### Note
 > There are no gaps in the slot numbering! The slot go straight from 1 to 400,00+.

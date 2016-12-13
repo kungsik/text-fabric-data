@@ -3,7 +3,7 @@ title: ETCBC4c features
 feat: false
 ---
 
-## Introduction
+# Introduction
 This is the key to the meaning of the features of the
 [etcbc4c dataset](/ETCBC/hebrew/etcbc4c/home).
 
@@ -18,14 +18,18 @@ We organize the object types as follows:
 * [lexeme](#lexeme-features)
 * [linguistic](#linguistic-features)
 
-## Grid features
+A few features are present on a bunch of object types:
+
+* [generic](#generic-features)
+
+# Grid features
 
 ---|---|---
 [otype](otype) | node type | `book` `verse` `clause` `phrase` `word`
 [oslots](oslots) | slot containment | `1` `1-11` `2010-2015,2020-2030`
 [otext](otext) | textapi | *no data, only specifications*  
 
-## Sectional features
+# Sectional features
 
 ---|---|---
 [book](book) | name of Bible book | `Genesis` `Psalmi` `Amos`
@@ -34,7 +38,7 @@ We organize the object types as follows:
 [label](label) | passage indicator | `AMOS 03,04`
 [half_verse](half_verse) | key for part within verse | `A` `B` `C`
 
-## Lexeme features
+# Lexeme features
 [lex](lex) | lexeme consonantal transliterated | `>MR[`
 [voc](voc) | lexeme pointed transliterated | `R;>CIJT`
 [voc_utf8](voc_utf8) | lexeme pointed hebrew | `רֵאשִׁית`
@@ -44,7 +48,7 @@ We organize the object types as follows:
 [gloss](gloss) | gloss | `beginning`
 [language](language) | language | `Hebrew` `Aramaic`
 
-## Word features
+# Word features
 
 ## Orthography
 
@@ -61,7 +65,7 @@ We organize the object types as follows:
 [phono](phono) | word | full | phonetic | `dāvˈār`
 [phono_sep](phono) | after-word | full | phonetic | `.`
 
-### Lexical
+## Lexical
 
 ---|---|---|---|---
 [lex](lex) | word | consonantal | transliterated | `>MR[`
@@ -76,7 +80,7 @@ We organize the object types as follows:
 [ls](ls) | lexical set | `quot` `ques`
 [nametype](nametype) | type of named entity | `pers` `topo`
 
-### Morphology
+## Morphology
 
 ---|---|---
 [gn](gn) | gender | `m` `f`
@@ -86,7 +90,7 @@ We organize the object types as follows:
 [vs](vs) | verbal stem | `qal` `piel` `nif` `hif`
 [vt](vt) | verbal tense | `perf` `impf` `wayq`
 
-### Morphemes
+## Morphemes
 
 ---|---|---|---|---
 [nme](nme) | [g_nme](g_nme) | [g_nme_utf8](g_nme_utf8) | nominal ending | `/` `/IJM` `/@H`
@@ -96,7 +100,7 @@ We organize the object types as follows:
 [vbe](vbe) | [g_vbe](g_vbe) | [g_vbe_utf8](g_vbe_utf8) | verbal ending | `[` `[W.` `[T.IJ`
 [vbs](vbs) | [g_vbs](g_vbs) | [g_vbs_utf8](g_vbs_utf8) | root formation | `]]` `]NI]` `]HA]`
 
-### Statistics
+## Statistics
 
 ---|---
 [freq_lex](freq_lex) | frequency of lexeme
@@ -104,13 +108,13 @@ We organize the object types as follows:
 [rank_lex](rank_lex) | rank of lexeme
 [rank_occ](rank_occ) | rank of word occurrence
 
-## Linguistic features
+# Linguistic features
 
-### Sentence(-atom) features
+## Sentence(-atom) features
 
 Nothing specific, just a generic `number` feature.
 
-### Clause(-atom) features
+## Clause(-atom) features
 
 ---|---|---
 [typ](typ) | clause type | `AjCl` `WayX` `WXQt` `ZImX`
@@ -124,7 +128,7 @@ Nothing specific, just a generic `number` feature.
 [pargr](pargr) | paragraph number | `1` `1.2` `2.3.4`
 [instruction](instruction) | instruction | `.q` `.d` `..` `ve`
 
-### Phrase(-atom) features
+## Phrase(-atom) features
 
 ---|---|---
 [typ](typ) | phrase type | `VP` `NP` `PP` `AdjP` `AdvP`
@@ -132,7 +136,7 @@ Nothing specific, just a generic `number` feature.
 [function](function) | phrase function | `Pred` `Subj`
 [det](det) | determination | `det` `und`
 
-## Generic features
+# Generic features
 
 ---|---|---
 [number](number) | sequence number in context | `123`

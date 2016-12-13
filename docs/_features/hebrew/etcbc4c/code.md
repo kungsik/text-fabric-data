@@ -7,7 +7,7 @@ title: code
 
 This feature is present on objects of type *clause_atom*.
 
-# Note
+##### Note
 > This is a complex definition.
 The present text is derived from Constantijn's description of the
 QUEST II Database format.
@@ -41,7 +41,7 @@ See for example
 Gino Kalkman's
 [analysis of syntax in the poetry of the Psalms](https://shebanq.ancient-data.org/tools?goto=verbsystem)
 
-# Note
+##### Note
 > The notions distributional and functional should be explained somewhere, 
 on a separate page.
 The meaning of this sentence is difficult to follow.
@@ -50,13 +50,13 @@ What is the useful collection of data?
 An example of research should be given or referred to.
 The reference to Gino's work could be more pin-pointed.
 
-## No relation
+# No relation
 
 **`0`**
 
 The value `0` and a [dist](dist) of 0 clause atoms to its mother mark a clause atom as the root of the tree of clause atom relations.
 
-# Note
+##### Note
 > Is the value of `0` sufficient?
 Can it occur that the value is `0` and the distance not?
 If not, the distance of 0 is not an extra condition, but an additional phenomenon.
@@ -64,12 +64,12 @@ The definition should then say something like: (and in that case the [dist](dist
 In order to understand this all, there should be an explanation of the intended model
 of clause atom relations. Is it a tree? How is it built up? Maybe a separate page.
 
-# See also
+##### See also
 * [tab](tab).
 
 Examples please.
 
-## Relative clause atoms
+# Relative clause atoms
 
 **`10` .. `16`**
 
@@ -89,11 +89,11 @@ The second digit denotes the tense of the verbal predicate of the daughter claus
 `7`| wayyiqtol
 `8`| weyiqtol              | !
 
-# Note
+##### Note
 > The ! appears where the QUEST documentation has a cross mark. 
 I do not know why these values have been marked.
 
-##  Infinitive construct clause atoms
+#  Infinitive construct clause atoms
 
 **`50`– `74`**
 Clause atoms of which the verbal predicate is an infinitive construct.
@@ -126,11 +126,11 @@ If you subtract 50, the remaining number denotes the class of the preposition us
 `23`|*not used*
 `24`|`TXT/`
 
-# Note
+##### Note
 > The ! appears where the QUEST documentation has a cross mark. 
 I do not know why these values have been marked.
 
-## Asyndetic clause atoms
+# Asyndetic clause atoms
 
 **`100` – `167`**
 
@@ -138,11 +138,11 @@ Construction without a conjunction.
 The second and third digit denote the tense of the verbal predicate of the daughter and
 mother clause, respectively. See the [tense table](tenses).
 
-# See also
+##### See also
 
 * [mother](mother).
 
-## Parallel clause atoms
+# Parallel clause atoms
 
 **`200` - `201`**
 
@@ -150,7 +150,7 @@ Two clause atoms are parallel if they concur in subject presence
 and have equivalent phrases up to the predicate,
 provided that the daughter is not subordinated.
 
-# See also
+##### See also
 * [mother](mother).
 
 If either predicate is absent,
@@ -161,7 +161,7 @@ the clause atoms must be of the same clause atom type ([typ](typ)).
 `200` | Identical clause atom opening.
 `201` | Identical clause atom opening when disregarding the coordinating conjunction(s).
 
-## Defective clause atoms
+# Defective clause atoms
 
 **`220` - `223`**
 
@@ -174,11 +174,11 @@ the predicate (or the main part) of the clause.
 `222`|Verbal predicate in daughter clause atom
 `223`|Verbal predicate in mother clause atom.
 
-# See also
+##### See also
 
 * [mother](mother).
 
-## Conjunctive adverbs
+# Conjunctive adverbs
 
 **`300` - `367`**
 
@@ -186,11 +186,11 @@ Asyndetic construction, but with a conjunctive adverb.
 The second and third digit denote the tense of the verbal predicate of the daughter and
 mother clause, respectively. See the [tense table](tenses).
 
-# See also
+##### See also
 
 * [mother](mother).
 
-## Coordinate clause atoms
+# Coordinate clause atoms
 
 **`400` - `487`**
 
@@ -198,7 +198,7 @@ Construction with a conjunction from class 400, the *coordinating* conjunctions:
 The second and third digit denote the tense of the verbal predicate of the daughter and
 mother clause, respectively. See the [tense table](tenses).
 
-# See also
+##### See also
 
 * [mother](mother).
 
@@ -210,7 +210,7 @@ mother clause, respectively. See the [tense table](tenses).
 
 The conjunction class is determined by the conjunction opening conjunction phrase.
 
-# Note
+##### Note
 > Too terse:
 "the conjunction opening conjunction phrase".
 Expand or give an example.
@@ -218,7 +218,7 @@ Expand or give an example.
 code 800 also occurs in the table of
 [Temporal clause atoms](#temporal-clause-atoms)
 
-## Postulational clause atoms
+# Postulational clause atoms
 
 **`500` - `567`**
 
@@ -226,11 +226,11 @@ Construction with a conjunction from class 500, the *postulational* conjunctions
 The second and third digit denote the tense of the verbal predicate of the daughter and
 mother clause, respectively. See the [tense table](tenses).
 
-# See also
+##### See also
 
 * [mother](mother).
 
-## Conditional clause atoms
+# Conditional clause atoms
 
 **`600` - `667`**
 
@@ -238,11 +238,11 @@ Construction with a conjunction from class 600, the *conditional* conjunctions:
 The second and third digit denote the tense of the verbal predicate of the daughter and
 mother clause, respectively. See the [tense table](tenses).
 
-# See also
+##### See also
 
 * [mother](mother).
 
-## Temporal clause atoms
+# Temporal clause atoms
 
 **`700` - `767`**
 
@@ -250,7 +250,7 @@ Construction with a conjunction from class 700, the *conditional* conjunctions:
 The second and third digit denote the tense of the verbal predicate of the daughter and
 mother clause, respectively. See the [tense table](tenses).
 
-# See also
+##### See also
 
 * [mother](mother).
 
@@ -261,7 +261,7 @@ mother clause, respectively. See the [tense table](tenses).
 
 This preposition class is determined by the preposition that heads the clause opening conjunction phrase.
 
-# Note
+##### Note
 > Too terse:
 "that heads the clause opening conjunction phrase".
 Expand or give an example.
@@ -269,7 +269,7 @@ Expand or give an example.
 code `800` also occurs in the table of
 [Conjunction classes of clause atom opening](#coordinate-clause-atoms)
 
-## Final clause atoms
+# Final clause atoms
 
 **`800` - `867`**
 
@@ -277,11 +277,11 @@ Construction with a conjunction from class 800, the *final* conjunctions:
 The second and third digit denote the tense of the verbal predicate of the daughter and
 mother clause, respectively. See the [tense table](tenses).
 
-# See also
+##### See also
 
 * [mother](mother).
 
-## Causal clause atoms
+# Causal clause atoms
 
 **`900` - `967`**
 
@@ -289,11 +289,11 @@ Construction with a conjunction from class 900, the *causal* conjunctions:
 The second and third digit denote the tense of the verbal predicate of the daughter and
 mother clause, respectively. See the [tense table](tenses).
 
-# See also
+##### See also
 
 * [mother](mother).
 
-## Direct speech
+# Direct speech
 
 **`999`**
 
@@ -326,16 +326,16 @@ speech, or after the facts, if the daughter has the verbum dicendi.
 In case of the latter, the daughter carries the [instruction](instruction) '#' for
 a new embedded paragraph, but pops the Q from the Text Type.
 
-# See also
+##### See also
 
 * [mother](mother).
 
-# Note
+##### Note
 > Is the "daughter" clause the object in question?
 
 What if a direct speech clause also fits the pattern of one of the other cases?
 
-# Hint
+##### Hint
 > Here is a public MQL query by Martijn Naaijer that detects chunks of direct speech.
 It uses the combined information carried by the `code` feature and the 
 [txt](txt) feature. View the query on

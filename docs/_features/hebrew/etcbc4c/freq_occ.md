@@ -10,14 +10,14 @@ This feature is present on objects of type *word*.
 
 What is counted is the consonantal representation of the words, without accents.
 
-# Note
+##### Note
 > This feature does not distinguish between homonyms, i.e. it counts representations and lexeme distinctions
 are not taken into account.
 
-# Hint
+##### Hint
 > The measures *frequency* and *rank* have been computed for *lexemes* and *occurrences*.
     
-# See also
+##### See also
  
 * [freq_lex](freq_lex)
 * [rank_lex](rank_lex)

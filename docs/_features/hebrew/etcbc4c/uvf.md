@@ -12,12 +12,12 @@ This feature is present on objects of type *word*.
 
 For more about features on morphemes, see [word grammar](0_wordgrammar).
 
-# Note
+##### Note
 > The meanings of the univalent final forms need to be listed.
 
 The univalent final consonant act as markers for functions which do not have contrasting
 values, e.g. a locative.
 
-# Note
+##### Note
 > The value `absent` indicates absence (there is no empty value).
 

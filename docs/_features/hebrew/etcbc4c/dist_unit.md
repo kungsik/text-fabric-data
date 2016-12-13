@@ -18,7 +18,7 @@ For explanation of what the *mother* of an object is, see [mother](mother).
 The mother is always a *word*, a *phrase* or a *clause* and we measure distances between mothers and daughters in
 *words*, *phrase_atoms* and *clause_atoms* respectively.
 
-# See also
+##### See also
 
 * [dist](dist)
 

@@ -7,7 +7,7 @@ title: kind
 
 This feature is present on objects of type *clause*.
 
-# Note
+##### Note
 > In version 4 this feature was called [clause_kind](clause_kind).
 
 This feature divides the clauses into three types: *verbal*, *nominal* and *without predication*.

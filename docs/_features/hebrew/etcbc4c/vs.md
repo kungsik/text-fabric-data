@@ -45,7 +45,7 @@ shaf |shaf‘el
 tif  |tif‘al
 pasq |passiveqal
 
-# Note
+##### Note
 > The division in Hebrew and Aramaic stems should be checked.
 
 The meanings/functions of these stems should be clarified.

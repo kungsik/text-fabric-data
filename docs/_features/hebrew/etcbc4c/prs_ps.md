@@ -19,10 +19,10 @@ It may carry person information, and that information is stored in this feature.
 The pronominal suffix itself is stored in [prs](prs).
 For more about features on morphemes, see [word grammar](0_wordgrammar).
 
-# Note
+##### Note
 > The value `unknown` indicates that there is not enough information to derive a value.
 The value `NA` indicates: *non-applicable*.
 
-# See also
+##### See also
 
 [ps](ps)

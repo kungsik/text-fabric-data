@@ -16,6 +16,6 @@ The *vocalized lexeme* is an idealized (aka *paradigmatic*), pointed representat
 which may or may not occur in the text.
 The [g_lex_utf8](g_lex_utf8) is the realized lexeme in a concrete occurrence, of which it may be a part.
 
-# See also
+##### See also
 
 # [voc](voc)

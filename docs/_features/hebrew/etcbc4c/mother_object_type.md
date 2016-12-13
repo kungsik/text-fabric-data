@@ -16,11 +16,11 @@ This feature is present on objects of type *clause*, *subphrase*.
 `word`     |mother is a word object
 `NA`       |not applicable
 
-# See also
+##### See also
 
 * [mother](mother).
 
-# Note
+##### Note
 > I was unable to locate a definition.
 
 Is there overlap with [dist_unit](dist_unit)?

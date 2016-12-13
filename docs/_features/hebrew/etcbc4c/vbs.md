@@ -14,11 +14,11 @@ For more about features on morphemes, see [word grammar](0_wordgrammar)
 
 The root formation indicates verbal stem.
 
-# See also
+##### See also
 
 * [vs](vs)
 
-# Note
+##### Note
 > There is no empty value, but there is an `absent` value.
 
 To mark *not applicable*, the value `n/a` is used, instead of the usual `NA`.

@@ -17,7 +17,7 @@ The values of this feature are strings consisting of
 `D`|Discursive
 `Q`|Quotation
 
-# See also
+##### See also
 
 * [domain](domain)
 
@@ -26,6 +26,6 @@ That means that within one and the same clause, every *clause_atom* must have th
 The sequence of characters corresponds with embedding, so a clause having NQQ means that it is a quotation
 in a quotation in a narrative.
 
-# Note
+##### Note
 > What exactly is the connection with [domain](domain)?
 

@@ -15,9 +15,9 @@ the functional object fall neatly between their distributional atoms.
 
 The distributional parent of a node is the embedding node in the distributional hierarchy.
 
-# Note
+##### Note
 > More explanation needed about the distributional and functional objects hierarchies and how they hang together.
 
-# See also
+##### See also
 
 * [functional_parent](functional_parent)

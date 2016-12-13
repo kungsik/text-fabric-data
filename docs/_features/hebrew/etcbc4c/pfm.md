@@ -15,7 +15,7 @@ For more about features on morphemes, see [word grammar](0_wordgrammar).
 The preformative is a prefix morpheme. It plays a role in verbal conjugation, and helps
 to mark person, number and gender for certain verbal tenses.
 
-# Note
+##### Note
 > One of the values is the empty value. There is also an `absent` value.
 
 To mark *not applicable*, the value `n/a` is used, instead of the usual `NA`.

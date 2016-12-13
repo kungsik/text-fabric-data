@@ -8,7 +8,7 @@ necessarily have an embbedding relationship.**
 The mother relation exists between objects of many different kinds.
 The feature [code](code) refers to it a lot.
 
-# Caution
+##### Caution
 > This description needs more body: what objects can be mothers, what daughters?
 What is the linguistic meaning of mother in all those cases?
 Are there formal characteristics indicating a mother relationship?
@@ -55,6 +55,6 @@ for c in N():
     if nms: mother_len[c] = nms
 ```
 
-# See also
+##### See also
 
 * [code](code)

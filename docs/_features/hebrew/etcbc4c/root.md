@@ -4,7 +4,7 @@ title: root
 
 **root**
 
-# Note
+##### Note
 > 
 This feature is present on objects of type *lex*.
 

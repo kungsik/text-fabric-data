@@ -33,7 +33,7 @@ The information which object occupies which slot is stored in the edge feature [
 [Word type](#word-type)                |all about the individual words
 [Linguistic types](#linguistic-types)  |phrases, clauses, etc
 
-## Section types
+# Section types
 
 The section types correspond to the various divisional units in the Bible.
 The Hebrew Bible is divided in books, books are divided in chapters, chapters are divided in verses, and verses in half-verses.
@@ -49,7 +49,7 @@ and the [book](book) and [chapter](chapter) features.
 Additionally, the `verse` object also carries [label](label), which contains a label string indicating the passage.
 However, the `half_verse` object only carries the [half_verse](half_verse) feature, which contains a key for the half-verse.
 
-## Word type
+# Word type
 
 There is only one type for words, the `word` type.
 Word objects correspond to the smallest divisional units in the ETCBC4 dataset.
@@ -86,23 +86,23 @@ or their vocalized values:
 [g_lex](g_lex) | transcription
 [g_lex_utf8](g_lex_utf8) | Hebrew
 
-## Lexeme type
+# Lexeme type
 
 The type `lex` corresponds to lexemes. A lexeme object occupies the slots of all its occurrences.
 It does not fit into the hierarchy, because these objects will very rarely lie embedded in another object.
 Except if a lexeme is rare.
 
-# Hint
+##### Hint
 > Have a look at the [tutorial](https://github.com/ETCBC/text-fabric/blob/master/docs/tutorial.ipynb)
 so see how you could exploit this object type to find
 lexemes that are unique to books or chapters very easily.
 
-# Caution
+##### Caution
 > Precisely because of the non-embedding of lexemes in other object types, its use
 in MQL queries is limited. In Text-Fabric there are no problems.
 See the note in [gloss](gloss).
 
-## Linguistic types
+# Linguistic types
 
 Linguistic types correspond to syntactical entities such as sentences, clauses and phrases.
 The ETCBC4 distinguishes between *functional* and *distributional* variants of them.
@@ -113,19 +113,19 @@ They are continuous stretches of text within their functional counterparts.
 So the functional objects consist of sequences of the corresponding distributional objects, and any gaps in
 the functional object fall neatly between their distributional atoms.
 
-# Note
+##### Note
 > More explanation needed about the distributional and functional objects hierarchies and how they hang together.
 Is `subphrase` functional or distributional?
 Are atoms always *maximal* continous stretches, or can you have two adjacent atoms of the same type?
 
-# Note
+##### Note
 > If you are writing an MQL query, there is not a feature as such in which the type is stored.
 Rather you refer to the type when you write the building blocks such as `[word ...]` or
 `[clause_atom [phrase ]]`. 
 
 The *otype* feature has the same values as the possible names of the MQL blocks.
 
-# Hint
+##### Hint
 > In Text-Fabric we are developing a new way of querying.
 Read more in [tfQuery](https://github.com/ETCBC/text-fabric/blob/master/tfql/tfQuery.ipynb).
 

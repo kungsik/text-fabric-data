@@ -15,10 +15,10 @@ the functional object fall neatly between their distributional atoms.
 
 The functional parent of a node is the embedding node in the functional hierarchy.
 
-# Note
+##### Note
 > More explanation needed about the distributional and functional objects hierarchies and how they hang together.
 
-# See also:
+##### See also:
 
 * [distributional_parent](distributional_parent)
 

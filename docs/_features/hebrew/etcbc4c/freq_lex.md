@@ -8,14 +8,14 @@ The frequency of a lexeme, measured as the number of occurrences in the whole He
 
 This feature is present on objects of type *lex*.
 
-# Note
+##### Note
 > The ETCBC lexicon makes distinctions between homonyms, i.e. distinct lexemes that are spelled identically.
 This feature respects that distinction.
 
-# Hint
+##### Hint
 > The measures *frequency* and *rank* have been computed for *lexemes* and *occurrences*.
     
-# See also
+##### See also
  
 * [freq_lex](freq_lex)
 * [rank_lex](rank_lex)

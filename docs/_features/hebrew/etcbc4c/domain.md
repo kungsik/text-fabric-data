@@ -15,14 +15,14 @@ This feature is present on objects of type *clause*.
 `D`|Discursive
 `Q`|Quotation
 
-# See also
+##### See also
 
 * [txt](txt)
 
-# Note
+##### Note
 > What exactly is the connection with [txt](txt)?
 
-# Hint
+##### Hint
 > Here is a sophisticated query by Oliver Glanz that makes use of this
 feature. It detects deviations in a discourse pattern. See the query
 on [SHEBANQ](https://shebanq.ancient-data.org/hebrew/query?id=491).

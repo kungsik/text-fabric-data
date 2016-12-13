@@ -19,12 +19,12 @@ It does not always determine all these properties completely.
 See the frequency table above for which forms signal to which grammatical properties, as far as it possible
 to tell.
 
-# Note
+##### Note
 > One of the values is the empty value.
 
 To mark *not applicable*, the value `n/a` is used, instead of the usual `NA`.
 
-# Hint
+##### Hint
 > Here are some example queries using the `vbe` feature: 
 [adhortative forms](https://shebanq.ancient-data.org/hebrew/text?mr=r&qw=q&iid=500)
 and
