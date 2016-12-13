@@ -32,7 +32,7 @@ The recommended mode of working with the data is: programming in Python within a
 Text-Fabric is ideal if you interested in a certain phenomenon and you want to gather data about that phenomenon.
 Take for example the following notebook:
 
-* [tutorial]()
+* [tutorial](https://github.com/ETCBC/text-fabric/blob/master/docs/tutorial.ipynb)
 
 They illustrate an explorative way of researching syntactical patterns, without knowing in advance how exactly
 the data is organized.

@@ -84,6 +84,22 @@ or their vocalized values:
 [g_lex](g_lex) | transcription
 [g_lex_utf8](g_lex_utf8) | Hebrew
 
+## Lexeme type
+
+The type `lex` corresponds to lexemes. A lexeme object occupies the slots of all its occurrences.
+It does not fit into the hierarchy, because these objects will very rarely lie embedded in another object.
+Except if a lexeme is rare.
+
+# Hint
+> Have a look at the [tutorial](https://github.com/ETCBC/text-fabric/blob/master/docs/tutorial.ipynb)
+so see how you could exploit this object type to find
+lexemes that are unique to books or chapters very easily.
+
+# Caution
+> Precisely because of the non-embedding of lexemes in other object types, its use
+in MQL queries is limited. In Text-Fabric there are no problems.
+See the note in [gloss](gloss).
+
 ## Linguistic types
 
 Linguistic types correspond to syntactical entities such as sentences, clauses and phrases.

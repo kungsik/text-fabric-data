@@ -4,7 +4,6 @@ title: ps
 
 **person**
 
-
 The person class a word (or rather lexeme) belongs to.
 
 This feature is present on objects of type *word*.
