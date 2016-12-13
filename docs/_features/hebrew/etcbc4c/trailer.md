@@ -1,8 +1,8 @@
----
-title: trailer_utf8
+-
+title: trailer
 ---
 
-**interword material -pointed-Hebrew**
+**interword material -pointed-transliterated**
 
 
 The material that follows the word in question, up till the next word.
@@ -17,16 +17,7 @@ The value consists of spaces, newlines, punctuations and special marks that some
 This feature is the only one that gives the information whether there is a
 space between words.
 
-# Note
-> After the last word of a verse, a newline has been inserted in the ETCBC4 working text.
-This newline has become part of the
-[trailer_utf8](trailer_utf8) value of the last word of the verse.
-
-This feature is only present with values in UNICODE Hebrew.
-
 # See also
 
-* [qere](qere) 
-* [qere_utf8](qere_utf8) 
-* [g_word_utf8](g_word_utf8) 
-* [qere_trailer_utf8](qere_trailer_utf8) 
+* [g_word](g_word) 
+* [trailer_utf8](trailer_utf8) 

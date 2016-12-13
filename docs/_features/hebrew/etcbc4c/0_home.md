@@ -1,4 +1,7 @@
-# etcbc4c
+---
+title: Dataset etcbc4c
+feat: false
+---
 
 ## About
 
@@ -36,7 +39,3 @@ That means:
 
 This data can be processed by 
 [Text-Fabric](/ETCBC/text-fabric.wiki/Home).
-
-What you need to know is what the features in this data set mean.
-
-[Feature Documentation]({{'/features/hebrew/etcbc4c/0_overview' | prepend:site.baseurl}})

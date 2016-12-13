@@ -1,0 +1,16 @@
+- title: About
+  docs:
+  - index
+  - news
+  
+- title: Hebrew
+  lang: hebrew
+  modules:
+  - etcbc4c
+  - phono
+
+- title: Greek
+  lang: greek
+  modules:
+  - sblgnt
+

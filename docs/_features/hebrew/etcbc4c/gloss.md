@@ -6,7 +6,7 @@ title: gloss
 
 A short English translation of a single word, disregarding context.
 
-This feature is present on objects of type *word*.
+This feature is present on objects of type *lex*.
 
 The *gloss* cannot be used to generate a proper translation.
 Many words have multiple meanings and a good translation chooses between them.
@@ -20,13 +20,23 @@ This feature has been added to the database in a later stage as package called `
 
 You can use it in SHEBANQ queries.
 
-If you want to use it in LAF-Fabric, you have to load `lexicon` as *annox*.
-Consult the [LAF-Fabric API reference on annoxes](http://laf-fabric.readthedocs.io/en/latest/texts/API-reference.html#extra-annotation-packages).
+# Note
+> This feature is not available on *words*, only on nodes of type *lex*.
+That makes it difficult to use in MQL queries, because something like this will generally not work
 
-**NB:**
-This is not a feature of the ETCBC4 Hebrew Text Database.
-Every word occurrence in the database is linked to a lexicon entry.
+```
+select all objects where
+[phrase
+    [lex gloss ~ 'make'
+        [word]
+    ]
+]
+```
 
-**Hint:**
-In LAF-Fabric, the lexicon material is added, rather uneconomically, as extra features 
-of the word occurrences. 
+> because lexemes may have many occurrences all over the place,
+so lexemes tend to be not contained in any other object type.
+
+# Hint
+> In Text-Fabric we are developing a new way of querying which will not have this problem.
+Read more in [tfQuery](https://github.com/ETCBC/text-fabric/blob/master/tfql/tfQuery.ipynb).
+

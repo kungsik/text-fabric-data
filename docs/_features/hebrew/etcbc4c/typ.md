@@ -14,8 +14,8 @@ This feature is present on objects of type *clause(_atom)*, *phrase(_atom)*.
 For *clause*-like objects the values provide a classification on the basis of the constituents of the clause.
 This feature is also known as *clause (atom) type*.
 
-**NB:**
-I prefer a more informative definition.
+# Note
+> I prefer a more informative definition.
 
 Explain why is this a useful feature? Examples needed.
 
@@ -71,8 +71,8 @@ Explain why is this a useful feature? Examples needed.
 For *phrase*-like objects the values provide a classification on the basis of the syntactic function of the phrase.
 This feature is also known as *phrase (atom) type*.
 
-**NB:**
-I prefer a more informative definition.
+# Note
+> I prefer a more informative definition.
 
 Explain why is this a useful feature? Examples needed.
 

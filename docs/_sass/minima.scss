@@ -16,6 +16,9 @@ $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 
+$active-color:       #ffff88 !default;
+$feat-color:       #008822 !default;
+
 // Width of the content area
 $sidebar-width:    200px !default;
 $content-width:    800px !default;

@@ -1,5 +1,6 @@
 ---
 title: Phono features
+feat: false
 ---
 
 The **phono** module provides two features, `phono` and `phono_trailer`.

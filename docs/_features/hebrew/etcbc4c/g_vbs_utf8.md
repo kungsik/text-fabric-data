@@ -11,8 +11,8 @@ This feature is present on objects of type *word*.
 
 For the meaning, see [vbs](vbs).
 
-**NB:**
-The defined values of this feature are preceeded and succeeded by a `]`.
+# Note
+> The defined values of this feature are preceeded and succeeded by a `]`.
 
 
 

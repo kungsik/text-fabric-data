@@ -10,14 +10,14 @@ The consonantal representation of the univalent final consonant of a word
 
 This feature is present on objects of type *word*.
 
-For more about features on morphemes, see [word grammar](wordgrammar).
+For more about features on morphemes, see [word grammar](0_wordgrammar).
 
-**NB:**
-The meanings of the univalent final forms need to be listed.
+# Note
+> The meanings of the univalent final forms need to be listed.
 
 The univalent final consonant act as markers for functions which do not have contrasting
 values, e.g. a locative.
 
-**NB:**
-The value `absent` indicates absence (there is no empty value).
+# Note
+> The value `absent` indicates absence (there is no empty value).
 

@@ -1,4 +1,6 @@
-theme: minima
+incremental: bool
+
+# theme: minima
 
 baseurl: /text-fabric-data
 
@@ -11,4 +13,19 @@ defaults:
         path: ""
         type: features
       values:
-        layout: feature
+        layout: page
+    - scope:
+        path: ""
+        type: pages
+      values:
+        layout: page
+    - scope:
+        path: "_features/hebrew"
+      values:
+        lang: hebrew
+        feat: true
+    - scope:
+        path: "_features/greek"
+      values:
+        lang: greek
+        feat: true

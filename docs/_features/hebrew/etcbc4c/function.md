@@ -41,8 +41,8 @@ This feature is present on objects of type *phrase*.
 `Unkn`|Unknown
 `Voct`|Vocative
 
-**NB:**
-I was unable to locate a definition of this feature.
+# Note
+> I was unable to locate a definition of this feature.
 
 Examples needed, or longer descriptions.
 

@@ -5,8 +5,8 @@ title: is_root
 **is root**
 
 
-**NB:**
-I was unable to locate a definition of this feature
+# Note
+> I was unable to locate a definition of this feature
 
 This feature is ??
 

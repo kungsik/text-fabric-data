@@ -18,5 +18,5 @@ There are three states in the Hebrew Bible:
 
 Not all words have person (e.g. adverbs) and these are marked as `NA`.
 
-**NB:**
-A better definition of the concept of state and its particular values is needed.
+# Note
+> A better definition of the concept of state and its particular values is needed.

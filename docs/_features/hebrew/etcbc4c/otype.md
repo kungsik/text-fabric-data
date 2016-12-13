@@ -8,7 +8,8 @@ title: otype
 Database type of the object.
 
 ---|---|---
-`word`         |monad         |single word, also known as *monad*. Sometimes words are not separated by a space
+`word`         |slot          |single word, fills a *slot*; sometimes words are not separated by a space
+`lex`          |--            |lexeme, contains all slots of occupied by its occurrences
 `subphrase`    |functional    |part of a phrase
 `phrase`       |functional    |phrase, maybe with gaps
 `phrase_atom`  |distributional|maximal consecutive part of a phrase
@@ -21,15 +22,14 @@ Database type of the object.
 `chapter`      |section       |numbered unit of a book
 `book`         |section       |named part of the Bible
 
-All objects have a type.
-The type of an object determines which features are defined for that object.
-The description of object types is facilitated by organizing them in groups, but these
-groups do not form a formal concept.
+All objects have a type, which is just a label.
+Objects and their slots are represented in Text-Fabric as *nodes*.
+The information which object occupies which slot is stored in the edge feature [oslots](oslots).
 
 ---|---
-[Section types](sectiont)         |division in books, chapters, etc
+[Section types](#section-types)        |division in books, chapters, etc
 [Word type](#word-type)                |all about the individual words
-[Linguistic types](#linguistic types)  |phrases, clauses, etc
+[Linguistic types](#linguistic-types)  |phrases, clauses, etc
 
 ## Section types
 
@@ -51,9 +51,10 @@ However, the `half_verse` object only carries the [half_verse](half_verse) featu
 
 There is only one type for words, the `word` type.
 Word objects correspond to the smallest divisional units in the ETCBC4 database.
-They are also called *monads*. Words are not identified with strings, because there are various
+They are also identified with *slots*, because each slot is filled by a word and each word fills a slot.
+Words are not identified with strings, because there are various
 string representations of the words, none of which is canonical. All word occurrences are numbered
-with a monad number ([monads](monads)).
+with a slot number.
 
 There are many features that have related forms, e.g. `vbe`, `g_vbe` and `g_vbe_utf8`.
 The `g_` versions have *graphical* values, meaning that it contains the *pointing*, i.e. all diacritics that occur in the full text.
@@ -69,14 +70,19 @@ None of these features contains material from in between words.
 In order to get inter-word material, use 
 [trailer_utf8](trailer_utf8).
 
-Word occurrences corresponds to lexemes, i.e. dictionary entries.
+Word occurrences corresponds to lexemes, i.e. dictionary entries, for which we have a separate object type.
 For the textual representation of lexemes we have a variety of features, in order to get their 
 consonantal values:
-[lex](lex) (transcription), 
-[lex_utf8](lex_utf8) (Hebrew)
+---|---
+[lex](lex) | transcription
+[lex0](lex0) | transcription without disambiguation characters at the end
+[lex_utf8](lex_utf8) | Hebrew
+
 or their vocalized values:
-[g_lex](g_lex) (transcription),
-[g_lex_utf8](g_lex_utf8) (Hebrew).
+
+---|---
+[g_lex](g_lex) | transcription
+[g_lex_utf8](g_lex_utf8) | Hebrew
 
 ## Linguistic types
 
@@ -89,21 +95,19 @@ They are continuous stretches of text within their functional counterparts.
 So the functional objects consist of sequences of the corresponding distributional objects, and any gaps in
 the functional object fall neatly between their distributional atoms.
 
-**NB:**
-More explanation needed about the distributional and functional objects hierarchies and how they hang together.
+# Note
+> More explanation needed about the distributional and functional objects hierarchies and how they hang together.
 Is `subphrase` functional or distributional?
 Are atoms always *maximal* continous stretches, or can you have two adjacent atoms of the same type?
 
-**NB:**
-If you are writing an MQL query, there is not a feature as such in which the type is stored.
+# Note
+> If you are writing an MQL query, there is not a feature as such in which the type is stored.
 Rather you refer to the type when you write the building blocks such as `[word ...]` or
 `[clause_atom [phrase ]]`. 
 
-But If you are doing LAF processing, there is the feature *otype*.
+The *otype* feature has the same values as the possible names of the MQL blocks.
 
-The LAF *otype* feature has the same values as the possible names of the MQL blocks.
-
-**Hint:**
-If you need the object hierarchy in order to provide context around patterns of interest, you can start with a query in SHEBANQ
-and then turn to LAF-Fabric. Read more in [context](context).
+# Hint
+> In Text-Fabric we are developing a new way of querying.
+Read more in [tfQuery](https://github.com/ETCBC/text-fabric/blob/master/tfql/tfQuery.ipynb).
 

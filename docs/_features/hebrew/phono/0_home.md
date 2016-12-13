@@ -1,6 +1,9 @@
-# phono
+---
+title: Module phono
+feat: false
+---
 
-## About
+# About
 
 Phonetic transcription of the text in the
 [etcbc4c](/hebrew/etcbc4c/home)
@@ -13,9 +16,6 @@ The notebook provides the result as a *module* to the **etcbc4c** core data.
 As such it can be seamlessly imported by
 [Text-Fabric](/ETCBC/text-fabric).
 
-## License
+# License
 
 This work is free to use.
-
-[Feature Documentation]({{'/features/hebrew/phono/0_overview' | prepend:site.baseurl}})
-

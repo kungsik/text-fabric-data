@@ -11,4 +11,6 @@ where *ll* is the
 [ISO 639](https://nl.wikipedia.org/wiki/ISO_639)
 two-letter code for that language.
 
-See also [book](book).
+# See also
+
+* [book](book)

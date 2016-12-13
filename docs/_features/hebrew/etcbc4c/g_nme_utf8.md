@@ -11,7 +11,7 @@ This feature is present on objects of type *word*.
 
 For the meaning, see [nme](nme).
 
-**NB:**
-The defined values of this feature are preceeded by a `/`.
+# Note
+> The defined values of this feature are preceeded by a `/`.
 
 

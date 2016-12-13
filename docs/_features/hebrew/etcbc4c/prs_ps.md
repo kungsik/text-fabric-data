@@ -1,19 +1,20 @@
 ---
-title: prs_gn
+title: prs_ps
 ---
 
-**pronominal suffix gender**
+**pronominal suffix person**
 
 This feature is present on objects of type *word*.
 
+The pronominal suffix attaches to verbs as a verb-complement.
+It may carry person information, and that information is stored in this feature.
+
 ---|---
-`m`      |masculine
-`f`      |feminine
+`p1`     |first person
+`p2`     |second person
+`p3`     |third person
 `NA`     |not applicable
 `unknown`|unknown
-
-The pronominal suffix attaches to verbs as a verb-complement.
-It may carry gender information, and that information is stored in this feature.
 
 The pronominal suffix itself is stored in [prs](prs).
 For more about features on morphemes, see [word grammar](0_wordgrammar).
@@ -24,4 +25,4 @@ The value `NA` indicates: *non-applicable*.
 
 # See also
 
-[gn](gn)
+[ps](ps)

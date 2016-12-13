@@ -7,7 +7,7 @@ title: ls
 
 Subclassification of part of speech.
 
-This feature is present on objects of type *word*.
+This feature is present on objects of type *lexeme* and on type *word*.
 
 The values consist of an abbreviation, here is the explanation:
 
@@ -28,5 +28,5 @@ quot |quotation verb
 card |cardinal
 none |none
 
-**NB:**
-Longer descriptions of these labels are necessary.
+# Note
+> Longer descriptions of these labels are necessary.

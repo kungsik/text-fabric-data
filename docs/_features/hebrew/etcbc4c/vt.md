@@ -25,7 +25,7 @@ infc |infinitive (construct)
 ptca |participle
 ptcp |participle (passive)
 
-**NB:**
-The meanings/functions of these tenses should be clarified.
+# Note
+> The meanings/functions of these tenses should be clarified.
 
 Check my definition of stem above.

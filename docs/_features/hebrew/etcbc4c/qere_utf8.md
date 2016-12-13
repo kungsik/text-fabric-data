@@ -1,5 +1,5 @@
 ---
-title: g_qere_utf8
+title: qere_utf8
 ---
 
 **word -pointed-Hebrew (qere)**
@@ -14,20 +14,13 @@ In all other cases this feature is empty.
 
 See for an example [Genesis 12:8](https://shebanq.ancient-data.org/hebrew/text?book=Genesis&chapter=12&verse=8&tp=txt_p)
 
-**NB:**
-In cases where the ketiv is different from the qere, the qere has been added to the ETCBC database in a later stage.
+# Note
+> In cases where the ketiv is different from the qere, the qere has been added to the ETCBC database in a later stage.
 Nevertheless, you can use this feature in queries in SHEBANQ.
 
-This feature has been added to the database in a later stage as package called `lexicon`.
+# See also
 
-You can use it in SHEBANQ queries.
-
-If you want to use it in LAF-Fabric, you have to load `lexicon` as *annox*.
-Consult the [LAF-Fabric API reference on annoxes](http://laf-fabric.readthedocs.io/en/latest/texts/API-reference.html#extra-annotation-packages).
-
-See also:
-
-* [ketiv](ketiv). 
-* [g_word_utf8](g_word_utf8). 
-* [trailer_utf8](trailer_utf8). 
-* [qtrailer_utf8](qtrailer_utf8). 
+* [qere](qere) 
+* [qere_trailer](qere_trailer) 
+* [g_word_utf8](g_word_utf8) 
+* [qere_trailer_utf8](qere_trailer_utf8) 

@@ -12,7 +12,7 @@ Where there is no such discrepancy, this feature is undefined (in Text-Fabric it
 
 See for an example [Genesis 12:8](https://shebanq.ancient-data.org/hebrew/text?book=Genesis&chapter=12&verse=8&tp=txt_p)
 
-See also:
+# See also
 
 * [qere_trailer](qere_trailer). 
 * [qere_utf8](qere_utf8). 

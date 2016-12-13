@@ -1,5 +1,6 @@
 ---
 title: ETCBC4c features
+feat: false
 ---
 
 ## Introduction
@@ -32,6 +33,16 @@ We organize the object types as follows:
 [label](label) | passage indicator | `AMOS 03,04`
 [half_verse](half_verse) | key for part within verse | `A` `B` `C`
 
+## Lexeme features
+[lex](lex) | lexeme consonantal transliterated | `>MR[`
+[voc](voc) | lexeme pointed transliterated | `R;>CIJT`
+[voc_utf8](voc_utf8) | lexeme pointed hebrew | `רֵאשִׁית`
+[sp](sp) | part of speech | `verb` `subs`
+[ls](ls) | lexical set | `quot` `ques`
+[nametype](nametype) | type of named entity | `topo`
+[gloss](gloss) | gloss | `beginning`
+[language](language) | language | `Hebrew` `Aramaic`
+
 ## Word features
 
 ## Orthography
@@ -41,10 +52,11 @@ We organize the object types as follows:
 [g_cons_utf8](g_cons_utf8) | word | consonantal | hebrew | `אשׁר`
 [g_word](g_word) | word | pointed | transliterated | `>:ACER&`
 [g_word_utf8](g_word_utf8) | word | pointed | hebrew | `אֲשֶׁר`
-[ketiv](ketiv) | word (ketiv) | consonantal | hebrew | `אֲשֶׁר`
-[g_qere_utf8](g_qere_utf8) | word (qere) | pointed | hebrew | `אֲשֶׁר`
+[qere](qere) | word (qere) | consonantal | hebrew | `HAJ:Y;74>`
+[qere_utf8](qere_utf8) | word (qere) | pointed | hebrew | `הַיְצֵ֣א`
 [trailer_utf8](trailer_utf8) | after-word | pointed | hebrew | `׃ ׆̇`
-[qtrailer_utf8](trailer_utf8) | after-word (qere) | pointed | hebrew | `׃ ׆̇`
+[qere_trailer](qere_trailer) | after-word (qere) | pointed | hebrew | `׃ ׆̇`
+[qere_trailer_utf8](trailer_utf8) | after-word (qere) | pointed | hebrew | `׃ ׆̇`
 [phono](phono) | word | full | phonetic | `dāvˈār`
 [phono_sep](phono) | after-word | full | phonetic | `.`
 

@@ -1,19 +1,20 @@
 ---
-title: prs_gn
+title: prs_nu
 ---
 
-**pronominal suffix gender**
+**pronominal suffix number**
 
 This feature is present on objects of type *word*.
 
+The pronominal suffix attaches to verbs as a verb-complement.
+It may carry number information, and that information is stored in this feature.
+
 ---|---
-`m`      |masculine
-`f`      |feminine
+`sg`     |singular
+`du`     |dual
+`pl`     |plural
 `NA`     |not applicable
 `unknown`|unknown
-
-The pronominal suffix attaches to verbs as a verb-complement.
-It may carry gender information, and that information is stored in this feature.
 
 The pronominal suffix itself is stored in [prs](prs).
 For more about features on morphemes, see [word grammar](0_wordgrammar).
@@ -24,4 +25,4 @@ The value `NA` indicates: *non-applicable*.
 
 # See also
 
-[gn](gn)
+[nu](nu)

@@ -10,9 +10,9 @@ The consonantal representation of the nominal ending of a word
 
 This morpheme feature is present on objects of type *word*.
 
-For more about features on morphemes, see [word grammar](wordgrammar).
+For more about features on morphemes, see [word grammar](0_wordgrammar).
 
 The nominal ending belongs to noun/adjective declination, it marks gender, number and state in a combined fashion.
 
-**NB:**
-One of the values is the empty value.
+# Note
+> One of the values is the empty value.

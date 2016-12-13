@@ -31,7 +31,18 @@
 
   .page-link {
     display: block;
-    font-size: smaller;
+    font-size: small;
+  }
+  .feat {
+      font-family: monospace;
+      color: $feat-color;
+      line-height: 1.1;
+  }
+  .nav-active {
+    display: block;
+    font-size: small;
+    font-weight: bold;
+    background-color: $active-color;
   }
 
   @include media-query($on-palm) {
@@ -69,8 +80,20 @@
 
     .page-link {
       display: block;
-      font-size: smaller;
+      font-size: small;
     }
+    .feat {
+        display: block;
+        font-family: monospace;
+        color: $feat-color;
+        line-height: 1.1;
+    }
+      .nav-active {
+        display: block;
+        font-size: small;
+        font-weight: bold;
+        background-color: $active-color;
+      }
   }
 }
 
