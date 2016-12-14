@@ -49,8 +49,8 @@ staff:
       institute: ETCBC
       url: http://www.godgeleerdheid.vu.nl/en/research/institutes-and-centres/eep-talstra-centre-for-bible-and-computer/index.aspx
     - name: Marianne Kaajan
-      email: mariannekaajan@hetnet.nl
-      hide: true
+      email: m.e.kaajan@vu.nl
+      hide: false
       institute: ETCBC
       url: http://www.godgeleerdheid.vu.nl/en/research/institutes-and-centres/eep-talstra-centre-for-bible-and-computer/index.aspx
     - name: Cody Kingham
