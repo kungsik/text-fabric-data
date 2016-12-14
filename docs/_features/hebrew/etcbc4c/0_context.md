@@ -18,7 +18,7 @@ Nevertheless, SHEBANQ falls short for those researchers that want to perform sta
 These researchers need to preprocess the data in ways that an application author cannot anticipate.
 
 The good news is that existence of the other tool,
-[Text-Fabric](https://github.com/ETCBC/text-fabric.wiki/Home).
+[Text-Fabric](https://github.com/ETCBC/text-fabric/wiki).
 This is an **offline** tool based on exactly the same data that powers SHEBANQ.
 The programming researcher can use Text-Fabric as a preprocessing tool for transforming the complex ETCBC data into the formats that are suitable to
 R, spreadsheets, or any format of choice.

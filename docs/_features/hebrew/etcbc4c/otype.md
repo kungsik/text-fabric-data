@@ -6,7 +6,7 @@ title: otype
 
 Types for text objects.
 As text objects are represented by nodes in
-[Text-Fabric](https://github.com/ETCBC/text-fabric.wiki/Home),
+[Text-Fabric](https://github.com/ETCBC/text-fabric/wiki),
 we shall use both *object* and *node* without much consistency.  
 
 ---|---|---

@@ -30,14 +30,59 @@ defaults:
         lang: greek
         feat: true
 
-email: shebanq@ancient-data.org
+email: 
 
-author: Dirk Roorda
+staff:
+    - name: Dirk Roorda
+      email: shebanq@ancient-data.org
+      hide: false
+      institute: DANS
+      url: https://dans.knaw.nl/nl
+    - name: Martijn Naaijer
+      email: m.naaijer@vu.nl
+      hide: true
+      institute: ETCBC
+      url: http://www.godgeleerdheid.vu.nl/en/research/institutes-and-centres/eep-talstra-centre-for-bible-and-computer/index.aspx
+    - name: Christiaan Erwich
+      email: christiaan.erwich@gmail.com
+      hide: true
+      institute: ETCBC
+      url: http://www.godgeleerdheid.vu.nl/en/research/institutes-and-centres/eep-talstra-centre-for-bible-and-computer/index.aspx
+    - name: Marianne Kaajan
+      email: mariannekaajan@hetnet.nl
+      hide: true
+      institute: ETCBC
+      url: http://www.godgeleerdheid.vu.nl/en/research/institutes-and-centres/eep-talstra-centre-for-bible-and-computer/index.aspx
+    - name: Cody Kingham
+      email: codyakingham@gmail.com
+      hide: true
+      institute: ETCBC
+      url: http://www.godgeleerdheid.vu.nl/en/research/institutes-and-centres/eep-talstra-centre-for-bible-and-computer/index.aspx
 
-repo:
-    title: text-fabric-data
-    url:   https://github.com/ETCBC/text-fabric-data
+repos:
+    - name: text-fabric
+      url: https://github.com/ETCBC/text-fabric
+      desc: Python module for processing text fabrics
+    - name: TF wiki
+      url: https://github.com/ETCBC/text-fabric/wiki
+      desc: Design, data model and API of Text-Fabric
+    - name: text-fabric-data
+      url: https://github.com/ETCBC/text-fabric-data
+      desc: text fabric resources, such as ETCBC Hebrew dataset
+    - name: TF data doc
+      url: https://etcbc.github.io/text-fabric-data/
+      desc: documentation of the TF data resources (feature documentation)
 
-related:
-    title: Text-Fabric
-    url:   https://github.com/ETCBC/text-fabric/wiki
+web:
+    - name: SHEBANQ website
+      url: https://shebanq.ancient-data.org
+      desc: View and query Hebrew dataset online
+    - name: SHEBANQ on Slack
+      url: https://shebanq.slack.com/signup
+      desc: Signup with our Slack team
+    - name: SHEBANQ admin
+      url: mailto:shebanq@ancient-data.org
+      desc: Mail us
+    - name: SHEBANQ twitter
+      url: https://twitter.com/shebanq_
+      desc: follow events
