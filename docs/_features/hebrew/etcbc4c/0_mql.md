@@ -1,5 +1,5 @@
 ---
-title: Context
+title: MQL
 feat: false
 ---
 
@@ -12,7 +12,7 @@ One is [SHEBANQ](https://shebanq.ancient-data.org) which provides a human readab
 can write queries. SHEBANQ is an **online** tool that offers to save such queries and show them next to the relevant chapters of the Bible.
 
 SHEBANQ is best used for drawing attention of fellow researchers to interesting patterns in the Hebrew Bible.
-It even provides visualizations of result sets, which can also be downloaded as csv files.
+It even provides visualizations of result sets, which can also be downloaded as `.csv` files.
 
 Nevertheless, SHEBANQ falls short for those researchers that want to perform statistical analysis on the data.
 These researchers need to preprocess the data in ways that an application author cannot anticipate.
@@ -35,24 +35,23 @@ Take for example the following notebook:
 
 * [tutorial](https://github.com/ETCBC/text-fabric/blob/master/docs/tutorial.ipynb)
 
-They illustrate an explorative way of researching syntactical patterns, without knowing in advance how exactly
+This points the way to an explorative way of researching syntactical patterns, without knowing in advance how exactly
 the data is organized.
 
-A more involved example, with MQL queries inside a Text-Fabric notebook, follows below.
-In order to work with it, you must have
-[Emdros](http://emdros.org)
-installed on your computer in such a way that the command `mql` is recognized on the command line.
-See [Text-Fabric, getting started](http://Text-fabric.readthedocs.io/en/latest/texts/getting-started.html).
+# Text-Fabric versus MQL
 
-As a concrete example going from SHEBANQ to Text-Fabric
-we take the task to provide a csv file with the occurrences of two Hebrew words for *there is* and *there is no(t)*.
+The queries in SHEBANQ are based on MQL, the query language of
+[Emdros](http://emdros.org).
+
+As a concrete example where MQL becomes tedious and we feel the need to move to Text-Fabric,
+we take the task to provide a `.csv` file with the occurrences of two Hebrew words for *there is* and *there is no(t)*.
 
 ## Approach 1
 
 Here is a [public query in SHEBANQ](http://shebanq.ancient-data.org/hebrew/query?id=556) that asks for all occurrences.
 
 As you can see, the query asks for these words in their context of enclosing objects such as phrase(atom) and clause(atom).
-It is even possible to generate a neat csv file from SHEBANQ with a lot of information, but as soon as you want to look up more information
+It is even possible to generate a neat `.csv` file from SHEBANQ with a lot of information, but as soon as you want to look up more information
 about other parts of the context, e.g. phrases/clauses *next to* the words in question, SHEBANQ will let you down.
 
 Then turn to Text-Fabric. If you have not yet installed it, you can look at this

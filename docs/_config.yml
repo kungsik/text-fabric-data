@@ -40,12 +40,12 @@ staff:
       url: https://dans.knaw.nl/nl
     - name: Martijn Naaijer
       email: m.naaijer@vu.nl
-      hide: true
+      hide: false
       institute: ETCBC
       url: http://www.godgeleerdheid.vu.nl/en/research/institutes-and-centres/eep-talstra-centre-for-bible-and-computer/index.aspx
     - name: Christiaan Erwich
-      email: christiaan.erwich@gmail.com
-      hide: true
+      email: c.m.erwich@vu.nl
+      hide: false
       institute: ETCBC
       url: http://www.godgeleerdheid.vu.nl/en/research/institutes-and-centres/eep-talstra-centre-for-bible-and-computer/index.aspx
     - name: Marianne Kaajan
@@ -54,8 +54,8 @@ staff:
       institute: ETCBC
       url: http://www.godgeleerdheid.vu.nl/en/research/institutes-and-centres/eep-talstra-centre-for-bible-and-computer/index.aspx
     - name: Cody Kingham
-      email: codyakingham@gmail.com
-      hide: true
+      email: c.a.kingham@student.vu.nl
+      hide: false
       institute: ETCBC
       url: http://www.godgeleerdheid.vu.nl/en/research/institutes-and-centres/eep-talstra-centre-for-bible-and-computer/index.aspx
 
