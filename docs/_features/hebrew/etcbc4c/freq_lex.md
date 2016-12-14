@@ -6,7 +6,7 @@ title: freq_lex
 
 The frequency of a lexeme, measured as the number of occurrences in the whole Hebrew Bible.
 
-This feature is present on objects of type *lex*.
+This feature is present on objects of type [*lex*](otype).
 
 ##### Note
 > The ETCBC lexicon makes distinctions between homonyms, i.e. distinct lexemes that are spelled identically.

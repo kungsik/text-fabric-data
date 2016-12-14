@@ -7,7 +7,7 @@ title: sp
 
 The part of speech a word (or rather lexeme) belongs to.
 
-This feature is present on objects of type *word*.
+This feature is present on objects of type [*word*](otype).
 
 The values consist of an abbreviation, here is the explanation:
 

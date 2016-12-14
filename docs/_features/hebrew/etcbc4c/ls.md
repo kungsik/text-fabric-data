@@ -7,7 +7,7 @@ title: ls
 
 Subclassification of part of speech.
 
-This feature is present on objects of type *lexeme* and on type *word*.
+This feature is present on objects of type [*lex* and on type *word*](otype).
 
 The values consist of an abbreviation, here is the explanation:
 

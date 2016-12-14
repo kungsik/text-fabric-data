@@ -7,7 +7,7 @@ title: voc
 The pointed representation of the lexeme of a word occurrence in 
 [ETCBC transliteration](https://shebanq.ancient-data.org/shebanq/static/docs/ETCBC4-transcription.pdf).
 
-This feature is present on objects of type *lex*.
+This feature is present on objects of type [*lex*](otype).
 
 Only the consonants and vowels of the word lexeme are present: no other diacritical marks.
 

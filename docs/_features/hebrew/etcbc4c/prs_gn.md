@@ -4,7 +4,7 @@ title: prs_gn
 
 **pronominal suffix gender**
 
-This feature is present on objects of type *word*.
+This feature is present on objects of type [*word*](otype).
 
 ---|---
 `m`      |masculine

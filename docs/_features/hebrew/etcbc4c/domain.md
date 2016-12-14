@@ -7,7 +7,7 @@ title: domain
 
 This feature contains property at the level of text.
 
-This feature is present on objects of type *clause*.
+This feature is present on objects of type [*clause*](otype).
 
 ---|---
 `?`|Unknown

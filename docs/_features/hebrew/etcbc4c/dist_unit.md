@@ -7,7 +7,7 @@ title: dist_unit
 
 The unit of measuring the distance between the present object (daughter) and its mother object.
 
-This feature is present on objects of types *subphrase*, *phrase_atom*, *phrase*, *clause_atom*, *clause*.
+This feature is present on objects of types [*subphrase*, *phrase_atom*, *phrase*, *clause_atom*, *clause*](otype).
 
 ---|---
 `words`       |distance measured in words

@@ -11,7 +11,7 @@ The consonantal representation of the pronominal suffix of a word
 > The grammatical function of the suffix is not indicated at the word level, but at the level of
 the phrase. See the [function](function) feature.
 
-This feature is present on objects of type *word*.
+This feature is present on objects of type [*word*](otype).
 
 For more about features on morphemes, see [word grammar](0_wordgrammar).
 

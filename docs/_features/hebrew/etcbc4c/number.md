@@ -7,7 +7,7 @@ title: number
 
 The sequence number of an object within its context.
 
-This feature is present on objects of type *sentence(_atom)*, *clause(_atom)*, *phrase(_atom)*, *word*.
+This feature is present on objects of type [*sentence(_atom)*, *clause(_atom)*, *phrase(_atom)*, *word*](otype).
 
 
 ##### Note

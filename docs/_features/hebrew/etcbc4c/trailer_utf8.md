@@ -7,7 +7,7 @@ title: trailer_utf8
 
 The material that follows the word in question, up till the next word.
 
-This feature is present on objects of type *word*.
+This feature is present on objects of type [*word*](otype).
 
 The value consists of spaces, newlines, punctuations and special marks that sometimes occur between verses, such as the
 *nun hafukha*, and the *samekh* and *pe* markers.

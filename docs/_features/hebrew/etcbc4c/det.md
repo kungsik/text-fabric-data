@@ -7,7 +7,7 @@ title: det
 
 Whether the phrase (atom) is determined or not, in the linguistic sense.
 
-This feature is present on objects of type *phrase*, *phrase_atom*.
+This feature is present on objects of type [*phrase*, *phrase_atom*](otype).
 
 ---|---
 `det` |   determined

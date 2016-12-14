@@ -4,10 +4,9 @@ title: dist
 
 **distance to mother**
 
-
 The distance between the present object (daughter) and its mother object.
 
-This feature is present on objects of types *subphrase*, *phrase_atom*, *phrase*, *clause_atom*, *clause*.
+This feature is present on objects of types [*subphrase*, *phrase_atom*, *phrase*, *clause_atom*, *clause*](otype).
 
 For explanation of what the *mother* of an object is, see [mother](mother).
 The interpretation of the value of *dist* is dependent on the type of the mother, which can be read off

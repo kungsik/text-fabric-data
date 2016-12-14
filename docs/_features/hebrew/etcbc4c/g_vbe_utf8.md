@@ -7,7 +7,7 @@ title: g_vbe_utf8
 
 The pointed representation of the verbal ending of a word in Hebrew.
 
-This feature is present on objects of type *word*.
+This feature is present on objects of type [*word*](otype).
 
 For the meaning, see [vbe](vbe).
 

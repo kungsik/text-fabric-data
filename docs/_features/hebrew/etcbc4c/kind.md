@@ -5,7 +5,7 @@ title: kind
 **clause kind**
 
 
-This feature is present on objects of type *clause*.
+This feature is present on objects of type [*clause*](otype).
 
 ##### Note
 > In version 4 this feature was called [clause_kind](clause_kind).

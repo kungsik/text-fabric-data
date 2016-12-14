@@ -10,7 +10,7 @@ title: is_root
 
 This feature is ??
 
-This feature is present on objects of type *clause_atom*.
+This feature is present on objects of type [*clause_atom*](otype).
 
 ---|---
 `false`|clause_atom is not a root

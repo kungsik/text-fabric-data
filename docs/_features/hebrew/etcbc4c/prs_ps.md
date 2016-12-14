@@ -4,7 +4,7 @@ title: prs_ps
 
 **pronominal suffix person**
 
-This feature is present on objects of type *word*.
+This feature is present on objects of type [*word*](otype).
 
 The pronominal suffix attaches to verbs as a verb-complement.
 It may carry person information, and that information is stored in this feature.

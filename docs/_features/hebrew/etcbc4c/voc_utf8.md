@@ -6,7 +6,7 @@ title: voc_utf8
 
 The pointed representation of the lexeme of a word occurrence in Hebrew script.
 
-This feature is present on objects of type *lex*.
+This feature is present on objects of type [*lex*](otype).
 
 Only the consonants and vowels of the word lexeme are present: no other diacritical marks.
 

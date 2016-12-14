@@ -8,7 +8,7 @@ title: g_word
 The pointed representation of a word occurrence in
 [ETCBC transliteration](https://shebanq.ancient-data.org/shebanq/static/docs/ETCBC4-transcription.pdf).
 
-This feature is present on objects of type *word*.
+This feature is present on objects of type [*word*](otype).
 
 All characters of the word occurrence are present: consonants, vowel pointing and other diacritical marks.
 

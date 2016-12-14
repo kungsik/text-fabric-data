@@ -7,7 +7,7 @@ title: qere_utf8
 
 The pointed representation of a qere word occurrence in Hebrew script when there is a divergent ketiv.
 
-This feature is present on objects of type *word*.
+This feature is present on objects of type [*word*](otype).
 
 When there is a ketiv-qere discrepancy, this feature contains the *vocalized* **qere**.
 In all other cases this feature is empty.

@@ -7,7 +7,7 @@ title: txt
 
 This feature contains property at the level of text.
 
-This feature is present on objects of type *clause*.
+This feature is present on objects of type [*clause*](otype).
 
 The values of this feature are strings consisting of
 

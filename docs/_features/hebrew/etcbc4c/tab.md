@@ -7,7 +7,7 @@ title: tab
 
 The level of this clause_atom in the enclosing hierarchy.
 
-This feature is present on objects of type *clause_atom*.
+This feature is present on objects of type [*clause_atom*](otype).
 
 ##### Note
 > The original definition says:

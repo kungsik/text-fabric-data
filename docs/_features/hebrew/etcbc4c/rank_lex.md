@@ -6,7 +6,7 @@ title: rank_lex
 
 The rank of a lexeme, a measure related to its frequency.
 
-This feature is present on objects of type *lex*.
+This feature is present on objects of type [*lex*](otype).
 
 The rank of an item is the number of items that have a higher frequency.
 So items with rank 0 have the highest frequency.

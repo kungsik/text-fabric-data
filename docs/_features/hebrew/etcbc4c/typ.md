@@ -7,7 +7,7 @@ title: typ
 
 The linguistic kind of objects.
 
-This feature is present on objects of type *clause(_atom)*, *phrase(_atom)*.
+This feature is present on objects of type [*clause(_atom)*, *phrase(_atom)*](otype).
 
 # Clause (atom)
 

@@ -5,7 +5,7 @@ title: code
 **clause atom relation**
 
 
-This feature is present on objects of type *clause_atom*.
+This feature is present on objects of type [*clause_atom*](otype).
 
 ##### Note
 > This is a complex definition.

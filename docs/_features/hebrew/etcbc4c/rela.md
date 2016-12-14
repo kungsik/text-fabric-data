@@ -7,7 +7,7 @@ title: rela
 
 The linguistic relation between the object and its context.
 
-This feature is present on objects of type *clause*, *phrase(_atom)*, and *subphrase*.
+This feature is present on objects of type [*clause*, *phrase(_atom)*, and *subphrase*](otype).
 
 # Subphrase
 

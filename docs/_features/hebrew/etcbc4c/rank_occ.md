@@ -6,7 +6,7 @@ title: rank_occ
 
 The rank of a word occurrence, a measure related to its frequency.
 
-This feature is present on objects of type *word*.
+This feature is present on objects of type [*word*](otype).
 
 What is counted is the consonantal representation of the words, without accents.
 

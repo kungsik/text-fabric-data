@@ -2,9 +2,11 @@
 title: qere
 ---
 
-The unpointed representation of a *qere* word occurrence in Hebrew script when the *ketiv* is a divergent from the qere.
+**qere (to be read, if different from ketiv, what is written)**
 
-This feature is present on objects of type *word*.
+This feature is present on objects of type [*word*](otype).
+
+The unpointed representation of a *qere* word occurrence in Hebrew script when the *ketiv* is a divergent from the qere.
 
 When there is a ketiv-qere discrepancy, this feature contains the *vocalized* qere, whereas the ketiv is generally unvocalized.
 

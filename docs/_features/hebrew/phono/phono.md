@@ -1,7 +1,10 @@
 ---
 title: phono
 ---
-Contains a phonetic representation of a word.
+**phonetic representation of a word**
+
+This feature is present on objects of type [*word*](otype).
+
 Although it gives the phonetics per word,
 its computation has been dependent on the immediate context and even on the wider context of the corpus as a whole.
 

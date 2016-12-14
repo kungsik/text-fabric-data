@@ -4,10 +4,9 @@ title: vs
 
 **verbal stem**
 
-
 Stem of the verb that indicates an aspect or constellation of the act expressed by the verb.
 
-This feature is present on objects of type *word*.
+This feature is present on objects of type [*word*](otype).
 
 The Hebrew verb has multiple stems, and each of these stems can be marked with tense/mood.
 For the tenses/moods, see [vt](vt).

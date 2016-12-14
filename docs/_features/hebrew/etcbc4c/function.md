@@ -4,10 +4,9 @@ title: function
 
 **phrase function**
 
-
 The phrase function denotes the syntactic function of the phrase.
 
-This feature is present on objects of type *phrase*.
+This feature is present on objects of type [*phrase*](otype).
 
 ---|---|---
 `Adju`|Adjunct

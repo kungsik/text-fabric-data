@@ -7,7 +7,7 @@ title: mother_object_type
 
 Whether the phrase (atom) is determined or not, in the linguistic sense.
 
-This feature is present on objects of type *clause*, *subphrase*.
+This feature is present on objects of type [*clause*, *subphrase*](otype).
 
 ---|---
 `clause`   |mother is a clause object

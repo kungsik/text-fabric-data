@@ -7,7 +7,7 @@ title: g_word_utf8
 
 The pointed representation of a word occurrence in Hebrew script.
 
-This feature is present on objects of type *word*.
+This feature is present on objects of type [*word*](otype).
 
 All characters of the word occurrence are present: consonants, vowel pointing and other diacritical marks.
 
