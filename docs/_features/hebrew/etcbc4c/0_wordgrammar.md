@@ -11,7 +11,7 @@ They can also be pronominal suffixes, which are almost separate lexemes.
 
 The ETCBC dataset distinguishes the following morphological elements in a word:
 
-* prefix lexeme suffix enclitic
+* prefix - lexeme - suffix - enclitic
 
 * vowel-pattern
 
@@ -42,7 +42,8 @@ These features are also represented by a single shortcut character, which shows 
 ---|---|---
 [prs](prs) | `+` | pronominal suffix
 
-The vowel pattern is not present as a separate feature in the dataset.
+# vowel pattern
+Not present as a separate feature in the dataset.
 
 All these features encode the information that is encountered in the text.
 So, although the values carry grammatical information, these features do not label the grammatical information. 
@@ -52,18 +53,13 @@ the morpheme occurrences as they occur in the text, also called the *graphical f
 are grouped around abstract, *paradigmatical* forms. 
 The *paradigmatical* forms come close to specifying grammatical information, but usually they do not do that on their own, but the information of several paradigmatical forms must be combined to arrive at a definite grammatical label, if this is possible at all.
 
-If you look in the frequency table of values of these features, you will also see a section
-with the grouping of *graphical* forms around *paradigmatical* forms.
-For each paradigmatic form corresponding grammatical labels are given, if possible, and with the understanding that the system of rules for deriving grammar from form
-is a bit more complicated than this.
-
 If you need to now the grammatical label assigned to a word, e.g. *gender* = `f`,
 or *state* = `a`, you need to use other features:
 
 ---|---|---
-[gn](gn) |  gender       | `m` `f`
-[nu](nu) |  number       | `sg` `pl` `du`
-[ps](ps) |  person       | `p1` `p2` `p3`
+[gn](gn) [prs_gn](prs_gn) |  gender       | `m` `f`
+[nu](nu) [prs_nu](prs_nu) |  number       | `sg` `pl` `du`
+[ps](ps) [prs_ps](prs_ps) |  person       | `p1` `p2` `p3`
 [st](st) |  state        | `a` `c` `e`
 [vs](vs) |  verbal stem  | `qal` `piel` `nif` `hif`
 [vt](vt) |  verbal tense | `perf` `impf` `wayq`
