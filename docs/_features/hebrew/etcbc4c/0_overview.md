@@ -7,19 +7,15 @@ feat: false
 This is the key to the meaning of the features of the
 [etcbc4c dataset](/text-fabric-data/features/hebrew/etcbc4c/0_home).
 
-There are several
-[types of objects](otype),
-which specify what features such objects have.
+We organize the features in several groups, roughly analagous to the
+[types of objects](otype)
+we have:
 
-We organize the object types as follows:
-
+* [grid](#grid-features)
 * [sectional](#sectional-features)
 * [word](#word-features)
 * [lexeme](#lexeme-features)
 * [linguistic](#linguistic-features)
-
-A few features are present on a bunch of object types:
-
 * [generic](#generic-features)
 
 # Grid features
@@ -39,9 +35,11 @@ A few features are present on a bunch of object types:
 [half_verse](half_verse) | key for part within verse | `A` `B` `C`
 
 # Lexeme features
+
+---|---|---
 [lex](lex) | lexeme consonantal transliterated | `>MR[`
 [voc](voc) | lexeme pointed transliterated | `R;>CIJT`
-[voc_utf8](voc_utf8) | lexeme pointed hebrew | `רֵאשִׁית`
+[voc_utf8](voc_utf8) | lexeme pointed hebrew | `רֵאשִׁית`
 [sp](sp) | part of speech | `verb` `subs`
 [ls](ls) | lexical set | `quot` `ques`
 [nametype](nametype) | type of named entity | `topo`
