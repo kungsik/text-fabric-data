@@ -81,6 +81,9 @@ we have:
 ## Morphology
 
 ---|---|---
+[gn](gn) [prs_gn](prs_gn) |  gender       | `m` `f`
+[nu](nu) [prs_nu](prs_nu) |  number       | `sg` `pl` `du`
+[ps](ps) [prs_ps](prs_ps) |  person       | `p1` `p2` `p3`
 [gn](gn) | gender | `m` `f`
 [nu](nu) | number | `sg` `pl` `du`
 [ps](ps) | person | `p1` `p2` `p3`
