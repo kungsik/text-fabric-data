@@ -1,7 +1,7 @@
 @node
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2016-12-12T17:10:31Z
+@dateWritten=2016-12-17T07:06:16Z
 
 1-426581	word
 426582-514581	clause
