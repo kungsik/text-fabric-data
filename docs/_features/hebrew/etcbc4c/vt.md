@@ -15,14 +15,14 @@ Not all words have verbal tense (e.g. nouns) and these are marked as `NA`.
 Here is the list of possible values:
 
 ---|---
-perf |perfect
-impf |imperfect
-wayq |wayyiqtol
-impv |imperative
-infa |infinitive (absolute)
-infc |infinitive (construct)
-ptca |participle
-ptcp |participle (passive)
+`perf` |perfect
+`impf` |imperfect
+`wayq` |wayyiqtol
+`impv` |imperative
+`infa` |infinitive (absolute)
+`infc` |infinitive (construct)
+`ptca` |participle
+`ptcp` |participle (passive)
 
 ##### Note
 > The meanings/functions of these tenses should be clarified.

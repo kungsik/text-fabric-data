@@ -51,7 +51,10 @@ So, although the values carry grammatical information, these features do not lab
 There is, however, one level of abstraction: 
 the morpheme occurrences as they occur in the text, also called the *graphical forms*,
 are grouped around abstract, *paradigmatical* forms. 
-The *paradigmatical* forms come close to specifying grammatical information, but usually they do not do that on their own, but the information of several paradigmatical forms must be combined to arrive at a definite grammatical label, if this is possible at all.
+The *paradigmatical* forms come close to specifying grammatical information,
+but usually they do not do that on their own,
+but the information of several paradigmatical forms must be combined
+to arrive at a definite grammatical label, if this is possible at all.
 
 If you need to now the grammatical label assigned to a word, e.g. *gender* = `f`,
 or *state* = `a`, you need to use other features:

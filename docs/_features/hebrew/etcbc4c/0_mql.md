@@ -171,28 +171,7 @@ basis of the second query, and use it when you process the results of the first 
 ## Approach 2
 
 As this is a fairly common use case, it is worthwhile to make this easy for you.
-That is why Text-Fabric has precomputed the embedding relation between objects,
-which is accessible through the [L-API](https://github.com/ETCBC/text-fabric/wiki/Api#layers).
 
-So, going back to the first query:
-
-```
-[phrase function = 'Pred' [word first lex = 'NTN[']]
-```
-
-the 
-[yesh notebook](https://github.com/ETCBC/text-fabric/blob/master/tfql/yesh.ipynb),
-shows how to obtain the results of that primitive query and how to fetch context material
-for each result.
-Once you got these tricks, the power is yours.
-Start by making small variations to this notebook, and then, as your programming skills get
-sharpened, see how far you can get.
-
-# tfQuery
-
-I'm in the process of streamlining this apporach, by developing a system, *tfQuery*,
-where you can do MQL like queries within a TF program, without the pitfalls.
-
-Read more in the 
-[tfQuery notebook](https://github.com/ETCBC/text-fabric/blob/master/tfql/tfQuery.ipynb).
+Use the new [`S`-api](https://github.com/ETCBC/text-fabric/wiki/Api#search)
+for template based search.
 

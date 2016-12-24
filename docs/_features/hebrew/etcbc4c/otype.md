@@ -59,8 +59,10 @@ string representations of the words, none of which is canonical. All word occurr
 with a slot number.
 
 There are many features that have related forms, e.g. `vbe`, `g_vbe` and `g_vbe_utf8`.
-The `g_` versions have *graphical* values, meaning that it contains the *pointing*, i.e. all diacritics that occur in the full text.
-For the purpose if this documentation, we shall use the contrast *consonantal* (without diacritics) and *pointed* (with diacritics).
+The `g_` versions have *graphical* values, meaning that it contains the *pointing*,
+i.e. all diacritics that occur in the full text.
+For the purpose if this documentation, we shall use the contrast *consonantal* (without diacritics)
+and *pointed* (with diacritics).
 The `_utf8` versions contain UNICODE representations of the values, using the Hebrew code block.
 The non `_utf8` versions contain ASCII representations of the values, according to the
 [ETCBC transliteration table](https://shebanq.ancient-data.org/shebanq/static/docs/ETCBC4-transcription.pdf). 

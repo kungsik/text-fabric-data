@@ -31,8 +31,8 @@ we have:
 [book](book) | name of Bible book | `Genesis` `Psalmi` `Amos`
 [chapter](chapter) | number if chapter within book | `3`
 [verse](verse) | number of verse within chapter | `4`
-[label](label) | passage indicator | `AMOS 03,04`
-[half_verse](half_verse) | key for part within verse | `A` `B` `C`
+[label](label#verse) | passage indicator | `AMOS 03,04`
+[label](label#half-verse) | key for part within verse | `A` `B` `C`
 
 # Lexeme features
 
@@ -60,8 +60,6 @@ we have:
 [trailer_utf8](trailer_utf8) | after-word | pointed | hebrew | `׃ ׆̇`
 [qere_trailer](qere_trailer) | after-word (qere) | pointed | hebrew | `׃ ׆̇`
 [qere_trailer_utf8](trailer_utf8) | after-word (qere) | pointed | hebrew | `׃ ׆̇`
-[phono](phono) | word | full | phonetic | `dāvˈār`
-[phono_sep](phono) | after-word | full | phonetic | `.`
 
 ## Lexical
 
@@ -76,7 +74,6 @@ we have:
 [sp](sp) | part of speech | `verb` `subs`
 [pdp](pdp) | phrase dependent part of speech | `verb` `subs`
 [ls](ls) | lexical set | `quot` `ques`
-[nametype](nametype) | type of named entity | `pers` `topo`
 
 ## Morphology
 
@@ -84,9 +81,6 @@ we have:
 [gn](gn) [prs_gn](prs_gn) |  gender       | `m` `f`
 [nu](nu) [prs_nu](prs_nu) |  number       | `sg` `pl` `du`
 [ps](ps) [prs_ps](prs_ps) |  person       | `p1` `p2` `p3`
-[gn](gn) | gender | `m` `f`
-[nu](nu) | number | `sg` `pl` `du`
-[ps](ps) | person | `p1` `p2` `p3`
 [st](st) | state | `a` `c` `e`
 [vs](vs) | verbal stem | `qal` `piel` `nif` `hif`
 [vt](vt) | verbal tense | `perf` `impf` `wayq`
@@ -113,7 +107,7 @@ we have:
 
 ## Sentence(-atom) features
 
-Nothing specific, just a generic `number` feature.
+Nothing specific, just a generic [number](number) feature.
 
 ## Clause(-atom) features
 
