@@ -4,5 +4,5 @@
 @sectionFeatures=book,chapter,verse
 @sectionTypes=book,chapter,verse
 @writtenBy=Text-Fabric
-@dateWritten=2017-01-04T10:28:20Z
+@dateWritten=2017-01-04T19:05:31Z
 
