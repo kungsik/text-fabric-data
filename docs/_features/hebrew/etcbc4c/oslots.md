@@ -22,4 +22,4 @@ where *n* is a number smaller than or equal to *m*. The range *n* `-` *n* may be
 All word occurrences are numbered from 1 to more than 400,000, in the order as they occur in the Hebrew Bible.
 
 ##### Note
-> There are no gaps in the slot numbering! The slot go straight from 1 to 400,00+.
+> There are no gaps in the slot numbering! The slots go straight from 1 to 400,000+.

@@ -1,0 +1,7 @@
+---
+title: Gneder
+---
+
+**grammatical gender**
+
+

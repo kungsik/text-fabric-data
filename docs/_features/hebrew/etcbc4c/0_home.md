@@ -5,7 +5,7 @@ feat: false
 
 # About
 
-Hebrew Text Dataset, text and linguistic annotations compiled by the
+Hebrew Bible Text Dataset, text and linguistic annotations compiled by the
 [Eep Talstra Centre for Bible and Computer](http://www.godgeleerdheid.vu.nl/en/research/institutes-and-centres/eep-talstra-centre-for-bible-and-computer/index.aspx)
 and prepared for use in 
 [Text-Fabric](https://github.com/ETCBC/text-fabric/wiki)
@@ -21,7 +21,7 @@ This dataset is a follow-up version of **etcbc4b**, which is documented on
 # License
 
 This work is licensed under a
-[Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+[Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
 That means:
 
 * You may download the data and use it: process, copy, modify;

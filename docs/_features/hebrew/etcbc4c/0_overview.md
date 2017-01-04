@@ -29,12 +29,12 @@ we have:
 
 ---|---|---
 [book](book) | name of Bible book | `Genesis` `Psalmi` `Amos`
-[chapter](chapter) | number if chapter within book | `3`
+[chapter](chapter) | number of chapter within book | `3`
 [verse](verse) | number of verse within chapter | `4`
 [label](label#verse) | passage indicator | `AMOS 03,04`
 [label](label#half-verse) | key for part within verse | `A` `B` `C`
 
-# Lexeme features
+# Lexeme features (on node type `lex`)
 
 ---|---|---
 [lex](lex) | lexeme consonantal transliterated | `>MR[`
@@ -61,7 +61,7 @@ we have:
 [qere_trailer](qere_trailer) | after-word (qere) | pointed | hebrew | `׃ ׆̇`
 [qere_trailer_utf8](trailer_utf8) | after-word (qere) | pointed | hebrew | `׃ ׆̇`
 
-## Lexical
+## Lexical (on node type `word`)
 
 ---|---|---|---|---
 [lex](lex) | word | consonantal | transliterated | `>MR[`

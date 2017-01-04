@@ -128,6 +128,6 @@ Rather you refer to the type when you write the building blocks such as `[word .
 The *otype* feature has the same values as the possible names of the MQL blocks.
 
 ##### Hint
-> In Text-Fabric we are developing a new way of querying.
-Read more in [tfQuery](https://github.com/ETCBC/text-fabric/blob/master/tfql/tfQuery.ipynb).
-
+> In Text-Fabric we have developed a new way of querying.
+Read more in
+[searchTutorial](/etcbc/text-fabric/blob/master/docs/searchTutorial.ipynb).

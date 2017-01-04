@@ -1,7 +1,7 @@
 @node
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2017-01-03T16:18:14Z
+@dateWritten=2017-01-04T10:28:08Z
 
 Nominative
 Genitive

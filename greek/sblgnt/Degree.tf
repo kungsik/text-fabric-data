@@ -1,7 +1,7 @@
 @node
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2017-01-03T16:18:15Z
+@dateWritten=2017-01-04T10:28:09Z
 
 524	Superlative
 1086	Comparative
