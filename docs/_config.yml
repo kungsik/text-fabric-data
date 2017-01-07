@@ -59,7 +59,7 @@ staff:
       institute: ETCBC
       url: http://www.godgeleerdheid.vu.nl/en/research/institutes-and-centres/eep-talstra-centre-for-bible-and-computer/index.aspx
 
-repos and docs:
+repos:
     - name: tutorial (Hebrew)
       url: https://github.com/etcbc/text-fabric/blob/master/docs/tutorial.ipynb
       desc: IPython notebook with Hebrew examples
