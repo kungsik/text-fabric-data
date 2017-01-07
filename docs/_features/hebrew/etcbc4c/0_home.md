@@ -43,4 +43,4 @@ This data can be processed by
 See also 
 [tutorial (Hebrew)](https://github.com/etcbc/text-fabric/blob/master/docs/tutorial.ipynb)
 and
-[tutorial (search)](url: https://github.com/etcbc/text-fabric/blob/master/docs/searchTutorial.ipynb).
+[tutorial (search)](https://github.com/etcbc/text-fabric/blob/master/docs/searchTutorial.ipynb).

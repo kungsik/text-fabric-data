@@ -56,6 +56,6 @@ This data can be processed by
 [Text-Fabric](https://github.com/ETCBC/text-fabric/wiki).
 
 See also 
-[tutorial (Greek)](url: https://github.com/etcbc/text-fabric/blob/master/docs/tutorialGNT.ipynb)
+[tutorial (Greek)](https://github.com/etcbc/text-fabric/blob/master/docs/tutorialGNT.ipynb)
 and
-[tutorial (search)](url: https://github.com/etcbc/text-fabric/blob/master/docs/searchTutorial.ipynb).
+[tutorial (search)](https://github.com/etcbc/text-fabric/blob/master/docs/searchTutorial.ipynb).
