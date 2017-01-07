@@ -1,5 +1,5 @@
 ---
-title: MQL
+title: MQL vs TF-search
 feat: false
 ---
 
@@ -34,6 +34,7 @@ Text-Fabric is ideal if you interested in a certain phenomenon and you want to g
 Take for example the following notebook:
 
 * [tutorial](https://github.com/ETCBC/text-fabric/blob/master/docs/tutorial.ipynb)
+* [search tutorial](https://github.com/ETCBC/text-fabric/blob/master/docs/searchTutorial.ipynb)
 
 This points the way to an explorative way of researching syntactical patterns, without knowing in advance how exactly
 the data is organized.
@@ -43,29 +44,42 @@ the data is organized.
 The queries in SHEBANQ are based on MQL, the query language of
 [Emdros](http://emdros.org).
 
-As a concrete example where MQL becomes tedious and we feel the need to move to Text-Fabric,
-we take the task to provide a `.csv` file with the occurrences of two Hebrew words for *there is* and *there is no(t)*.
+In Text-Fabric we have *search templates*, that can do similar things as MQL queries, but not exactly the same.
+TF-search and MQL-queries have different strengths and weaknesses.
+See the examples in 
 
-## Approach 1
+* [search vs MQL](https://github.com/ETCBC/text-fabric/blob/master/docs/searchFromMQL.ipynb)
 
-Here is a [public query in SHEBANQ](http://shebanq.ancient-data.org/hebrew/query?id=556) that asks for all occurrences.
+where we translate a number of MQL queries that are shared by SHEBANQ into Text-Fabric search templates.
 
-As you can see, the query asks for these words in their context of enclosing objects such as phrase(atom) and clause(atom).
-It is even possible to generate a neat `.csv` file from SHEBANQ with a lot of information, but as soon as you want to look up more information
-about other parts of the context, e.g. phrases/clauses *next to* the words in question, SHEBANQ will let you down.
+## Differences between TF-search and MQL-queries
 
-Then turn to Text-Fabric. If you have not yet installed it, you can look at the
-[yesh notebook](https://github.com/ETCBC/text-fabric/blob/master/tfql/yesh.ipynb),
-where you see the
-compilation of a `.csv` file in (frozen) action.
-After installing Text-Fabric,
-you have this notebook and can see it in real action on your own computer.
+* **MQL-queries** is definitely a richer formalism, in which you can specify more refined queries than in Text-Fabric search.
+  * you can specify more refined feature conditions on objects (feature `NOT IN` values; feature `~` regular expression)
+  * you can specify `NOT EXIST` blocks
+* **TF-search** is more flexible in dealing with spatial relationships between objects
+  * you can leave the order between objects free, or constrain it as you wish
+  * you can use a variety of relations like *adjacent before*, *same slots*, *overlapping*, *embedded* and more to express
+    spatial relationships;
+* **MQL-queries** requires separate software, Emdros, plus a database (MySQL or Sqlite), plus a dataset converted to MQL, in
+  order to work with it. It is not easy command Emdros from a Python3 program and process its results by the same program
+* **TF-search** works wherever Text-Fabric works, is totally integrated with it, and results are being delivered
+  as tuples that are extremely easy to process further;
+* **MQL-queries** is implemented in C + backend database, and has a really good performance;
+* **TF-search** is implemented in pure Python, and requires more memory and more CPU time, although performance is quite acceptable.
+* **MQL-queries** let you define your search criteria very well, but it is poor in letting you specify the context information
+  of results that you want to fetch as well;
+* **TF-search** lets you focus on search criteria; because you can process the results after the search, it is very easy to
+  draw in context information at will.
+   
+### Pitfalls of MQL
 
-### Pitfalls of approach 1
-
-There are pitfalls in approach 1.
-If you have a query that pinpoints the textual phenomenon that you are after, and then wrap context objects around it,
-there might be unexpected misses. For example, if you look for: 
+You can also use MQL to get a limited amount of context information.
+If you have a query that pinpoints the textual phenomenon that you are after,
+you can wrap context objects around it.
+But this turns out to be risky, because
+there might be unexpected misses.
+For example, if you look for: 
 
 ```
 [phrase function = 'Pred' [word first lex = 'NTN[']]
@@ -101,15 +115,15 @@ We need to distinguish cases:
 [book [chapter [verse [sentence
   [clause
     [phrase first and last function = 'Pred' [word first lex = 'NTN[']]
-    or
+    OR
     [phrase first function = 'Pred' [word first lex = 'NTN[']]
     [phrase]*
     [phrase last]
-    or
+    OR
     [phrase first]
     [phrase]*
     [phrase last function = 'Pred' [word first lex = 'NTN[']]
-    or
+    OR
     [phrase first]
     [phrase]*
     [phrase function = 'Pred' [word first lex = 'NTN[']]
@@ -127,15 +141,15 @@ We have to say this instead:
 [book [chapter [verse [sentence
   [clause
     [phrase first and last function = 'Pred' [word first lex = 'NTN[']]
-    or
+    OR
     [phrase first function = 'Pred' [word first lex = 'NTN[']]
     [[phrase][gap?]]*
     [phrase last]
-    or
+    OR
     [phrase first]
     [[phrase][gap?]]*
     [phrase last function = 'Pred' [word first lex = 'NTN[']]
-    or
+    OR
     [phrase first]
     [[phrase][gap?]]*
     [phrase function = 'Pred' [word first lex = 'NTN[']]
@@ -149,29 +163,20 @@ And still we will miss results, because the target phrase may occur in a phrase 
 These thing are not academic, they occur in the ETCBC data! In order to get them the size of this query will explode,
 completely obscuring the intention of it.
 
-A possible remedy is to simplify and just ask for:
+Using TF-search, you can avoid all this trouble by just issuing the search template
 
-```
-[clause
-  [phrase function = 'Pred' [word first lex = 'NTN[']]
-]
-```
-
-and then use another simple query to get the remaining material:
-
-```
-[book [chapter [verse [sentence 
-    [clause [phrase]]
-]]]]
+```python
+S.study('''
+phrase function= Pred
+  word lex=NTN[
+''')
 ```
 
-When you process the results of these queries you have to make an index of phrases in their clauses linked to the passages on the
-basis of the second query, and use it when you process the results of the first query.
+and then processing the results, with complete access to any part of the context:
 
-## Approach 2
-
-As this is a fairly common use case, it is worthwhile to make this easy for you.
-
-Use the new [`S`-api](https://github.com/ETCBC/text-fabric/wiki/Api#search)
-for template based search.
-
+```python
+for (phrase, word) in S.fetch():
+    (book, chapter, verse) = T.sectionFromNode(phrase)
+    clause = L.u(phrase, otype='clause')
+    # etc
+``` 
