@@ -6,7 +6,8 @@ feat: false
 # About
 
 Greek New Testament Dataset, treebanks with full text, compiled by
-Randall Tan and Jonothan Robie. The source materials, documentation and licence conditions can be found
+Randall Tan, Jonathan Robie, and 
+Andi Wu as part of the [biblicalhumanities group](https://github.com/biblicalhumanities). The source materials, documentation and licence conditions can be found
 at the
 [SBLGNT treebanks](https://github.com/biblicalhumanities/greek-new-testament/tree/master/syntax-trees/sblgnt)
 github repo.
