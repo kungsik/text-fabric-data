@@ -17,7 +17,7 @@ It even provides visualizations of result sets, which can also be downloaded as 
 Nevertheless, SHEBANQ falls short for those researchers that want to perform statistical analysis on the data.
 These researchers need to preprocess the data in ways that an application author cannot anticipate.
 
-The good news is that existence of the other tool,
+The good news is the existence of the other tool,
 [Text-Fabric](https://github.com/ETCBC/text-fabric/wiki).
 This is an **offline** tool based on exactly the same data that powers SHEBANQ.
 The programming researcher can use Text-Fabric as a preprocessing tool for transforming the complex ETCBC data into the formats that are suitable to
@@ -36,7 +36,7 @@ Take for example the following notebook:
 * [tutorial](https://github.com/ETCBC/text-fabric/blob/master/docs/tutorial.ipynb)
 * [search tutorial](https://github.com/ETCBC/text-fabric/blob/master/docs/searchTutorial.ipynb)
 
-This points the way to an explorative way of researching syntactical patterns, without knowing in advance how exactly
+This points to an explorative way of researching syntactical patterns, without knowing in advance how exactly
 the data is organized.
 
 # Text-Fabric versus MQL
