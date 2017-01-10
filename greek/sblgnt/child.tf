@@ -1,7 +1,7 @@
 @edge
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2017-01-08T19:56:19Z
+@dateWritten=2017-01-10T16:25:43Z
 
 138082	192882
 13,18,27,38,43,48,53,58,63,71,79,84,138084-138096

@@ -1,7 +1,7 @@
 @node
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2017-01-08T19:56:15Z
+@dateWritten=2017-01-10T16:25:39Z
 
 βίβλος
 γένεσις
