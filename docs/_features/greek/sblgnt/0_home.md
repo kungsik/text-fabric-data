@@ -12,6 +12,7 @@ at the
 [SBLGNT treebanks](https://github.com/biblicalhumanities/greek-new-testament/tree/master/syntax-trees/sblgnt)
 github repo.
 
+## Conversion
 The conversion of this dataset to
 [Text-Fabric](/ETCBC/text-fabric/wiki)
 has been carried out by Cody Kingham and Dirk Roorda.
@@ -25,15 +26,22 @@ to determine an object type, such as *sentence*, *clause*, *phrase*, *word*.
 
 The result has 137794 word nodes (*slots*), and 428430 nodes in total.
 
+## Extra information
 We have added the names of the input files as book names and destilled the book, chapter, verse information
 that is present in each `<node>` identifier into Text-Fabric node types `book`, `chapter`, `verse`, with
 features that give their sequence numbers. 
+Besides that, we have added book names in few dozen languages.
+This information is obtained mainly from wikipedia.
+A special thanks to Nathan Gibson, who has put, very conveniently, a list of bible books in Syriac on
+the
+[wikipedia entry for the peshitta](https://en.wikipedia.org/wiki/Peshitta).
 
+## Computed information
 We have added some statistical features: frequencies and ranks of word occurrences and lexemes.
 
 The input xml representation consists of 27 files with a collective size of 64 MB.
 
-The converted Text-Fabric resource consists of 34 files with a collective size of 31 MB.
+The converted Text-Fabric resource consists of 60 files with a collective size of 31 MB.
 
 # License
 
