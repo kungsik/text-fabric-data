@@ -18,6 +18,9 @@ This dataset is a follow-up version of **etcbc4b**, which is documented on
 **etcbc4c** has been compiled by means of
 [tfFromLAF](https://github.com/ETCBC/text-fabric/blob/master/tfFromLaf/tfFromLAF.ipynb).
 
+The older versions **etcbc4b** and **etcbc4** have been converted from LAF to TF and are available in the separate
+[text-fabric-data-legacy]((https://github.com/ETCBC/text-fabric-data-legacy) github repo.
+
 # License
 
 This work is licensed under a
