@@ -3,6 +3,10 @@ title: News
 type: pages
 ---
 
+### 2017-01-12
+
+Added Strong numbers to Hebrew Data
+
 ### 2016-12-17
 
 Added the *paragraph* features `pargr` and `instruction` to the etcbc4c dataset.
