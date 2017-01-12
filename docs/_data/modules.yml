@@ -7,6 +7,7 @@
   lang: hebrew
   modules:
   - etcbc4c
+  - strong
   - phono
 
 - title: Greek
