@@ -3,7 +3,9 @@ title: Phono features
 feat: false
 ---
 
-The **phono** module provides two features, `phono` and `phono_trailer`.
+The **phono** module provides two features, 
+[phono](phono) and 
+[phono_trailer](phono_trailer).
 
 They are defined for all word occurrences.
 
@@ -20,6 +22,4 @@ as follows
 ```python
 T.text(nodes, fmt='text-phono-full')
 ```
-
-# Features
 
