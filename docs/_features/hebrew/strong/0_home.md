@@ -12,9 +12,9 @@ dataset.
 The transcription is algorithmically produced by the
 [strong notebook](https://github.com/ETCBC/text-fabric/blob/master/Versions/strong.ipynb),
 on the basis of the
-[OpenScriptures Hebrew Lexicon](https://github.com/openscriptures/HebrewLexicon).
-
-Stephen Ku has mapped this resource to the ETCBC4.
+[OpenScriptures Hebrew Lexicon](https://github.com/openscriptures/HebrewLexicon), which
+Stephen Ku has mapped to the
+[ETCBC4 dataset](https://github.com/ETCBC/text-fabric-data-legacy/tree/master/hebrew/etcbc4).
 
 By means of
 [slot mappings](https://github.com/ETCBC/text-fabric/blob/master/Versions/etcbc-versions.ipynb)

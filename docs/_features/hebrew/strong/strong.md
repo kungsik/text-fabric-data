@@ -14,5 +14,9 @@ do not correspond 1-1 to ETCBC lexemes.
 ##### Caution
 > This feature is still experimental, and need to be checked.
 
+##### Caution
+> This feature may yield `None` for some words, due to discrepancies between 
+ETCBC text versions.
+
 The construction of this feature, and basic usage are shown in the
 [strong notebook](https://github.com/ETCBC/text-fabric/blob/master/Versions/strong.ipynb).

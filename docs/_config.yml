@@ -60,15 +60,6 @@ staff:
       url: http://www.godgeleerdheid.vu.nl/en/research/institutes-and-centres/eep-talstra-centre-for-bible-and-computer/index.aspx
 
 repos:
-    - name: tutorial (Hebrew)
-      url: https://github.com/etcbc/text-fabric/blob/master/docs/tutorial.ipynb
-      desc: IPython notebook with Hebrew examples
-    - name: tutorial (Greek)
-      url: https://github.com/etcbc/text-fabric/blob/master/docs/tutorialGNT.ipynb
-      desc: IPython notebook with Greek examples
-    - name: tutorial (search)
-      url: https://github.com/etcbc/text-fabric/blob/master/docs/searchTutorial.ipynb
-      desc: IPython notebook with Greek examples
     - name: text-fabric wiki
       url: https://github.com/ETCBC/text-fabric/wiki
       desc: Design, data model and API of Text-Fabric
@@ -81,8 +72,20 @@ repos:
     - name: text-fabric-data
       url: https://github.com/ETCBC/text-fabric-data
       desc: text fabric resources, such as ETCBC Hebrew and SBL Greek datasets
+    - name: text-fabric-data-legacy
+      url: https://github.com/ETCBC/text-fabric-data-legacy
+      desc: text fabric legacy resources, such as ETCBC Hebrew versions 4 and 4b
 
 web:
+    - name: tutorial (Hebrew)
+      url: https://github.com/etcbc/text-fabric/blob/master/docs/tutorial.ipynb
+      desc: IPython notebook with Hebrew examples
+    - name: tutorial (Greek)
+      url: https://github.com/etcbc/text-fabric/blob/master/docs/tutorialGNT.ipynb
+      desc: IPython notebook with Greek examples
+    - name: tutorial (search)
+      url: https://github.com/etcbc/text-fabric/blob/master/docs/searchTutorial.ipynb
+      desc: IPython notebook with Greek examples
     - name: SHEBANQ website
       url: https://shebanq.ancient-data.org
       desc: View and query Hebrew dataset online
