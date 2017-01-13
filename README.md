@@ -15,3 +15,5 @@ In order to work with them, you need software such as
 [Text-Fabric](https://github.com/ETCBC/text-fabric/wiki)
 which is a Python package that you can easily install.
 
+[![DOI](https://zenodo.org/badge/74902112.svg)](https://zenodo.org/badge/latestdoi/74902112)
+
