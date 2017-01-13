@@ -1,5 +1,5 @@
 # text-fabric-data
-
+[![DOI](https://zenodo.org/badge/74902112.svg)](https://zenodo.org/badge/latestdoi/74902112)
 ![text-fabric](https://raw.github.com/ETCBC/text-fabric/master/docs/tf.png)
 
 Text-Fabric data is a collection of richly annotated data sources.
@@ -15,5 +15,4 @@ In order to work with them, you need software such as
 [Text-Fabric](https://github.com/ETCBC/text-fabric/wiki)
 which is a Python package that you can easily install.
 
-[![DOI](https://zenodo.org/badge/74902112.svg)](https://zenodo.org/badge/latestdoi/74902112)
 
