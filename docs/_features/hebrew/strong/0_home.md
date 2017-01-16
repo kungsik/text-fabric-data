@@ -6,7 +6,7 @@ feat: false
 # About
 
 Strong numbers for the
-[etcbc4c](../etcbc4c/home)
+[etcbc4c](../etcbc4c/0_home)
 dataset.
 
 The transcription is algorithmically produced by the

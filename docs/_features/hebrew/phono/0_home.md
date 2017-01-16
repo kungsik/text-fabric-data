@@ -6,7 +6,7 @@ feat: false
 # About
 
 Phonetic transcription of the text in the
-[etcbc4c](/hebrew/etcbc4c/home)
+[etcbc4c](../etcbc4c/0_home)
 dataset.
 
 The transcription is algorithmically produced by the
