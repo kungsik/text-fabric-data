@@ -16,7 +16,7 @@ on the basis of the
 Stephen Ku has mapped to the
 [ETCBC4 dataset](https://github.com/ETCBC/text-fabric-data-legacy/tree/master/hebrew/etcbc4).
 
-See [Overview](/hebrew/strong/0_overview) for a discussion of Strong nunmbers.
+See [Overview](0_overview) for a discussion of Strong nunmbers.
 
 By means of
 [slot mappings](https://github.com/ETCBC/text-fabric/blob/master/Versions/etcbc-versions.ipynb)
