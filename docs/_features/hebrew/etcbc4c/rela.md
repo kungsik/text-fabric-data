@@ -94,6 +94,14 @@ Explain why is this a useful feature? Examples needed.
 For *clause*-like objects this feature is also called *clause constituent relation*;
 it indicates the syntactic function of the clause.
 
+## Example
+I will use Gen 20:1 and Gen 20:7 as an example since it is an easy text. Basically, there are two different levels of clause relations:
+### 1. Syntactical relation
+1.a. Syntactical relations have to be specified at the moment where a dependent clause (daughter) is encountered. If there is a dependent clause found two questions have to be answered. These dependent clauses are usually detectable on the basis of the clause initiative conjunction (like KJ, >CR, etc.).
+![alt text] (https://ydmp2g-dm2305.files.1drv.com/y3mgujV7W56q51jnJ8NaW-lhtajQjXpHM_alnoZCUYuRNlUC06RcjrK7I7e0Yut9PigaSvQ3WnN3MbSWH0i3rMYfY67DwPSjC-Y4aqhezpDQqvxbqGGPXw765EfTHALX0OM2Nbm9v0Dfci6WpqcEjTywT2lJJdGCShnJHqZVcFWrEg/Gen20_07_ctt.png?psid=1 "Gen 20:7 ctt snapshot")
+What type of relational nature the dependent clause has (e.g. attributive, adjunct, object, etc.) can be found under the feature `rela` or column 2.55 in the QDF files.
+### 2. Text-grammatical relations
+
 ##### Note
 > I prefer a more informative definition.
 
