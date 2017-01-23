@@ -56,12 +56,11 @@ book | #chapters
 
 
 ####SHEBANQ/MQL Query Example
-In the following query we use the ObjecType "book" and the corresponding feature "book" ("[book book") in order to count all words ("[word FOCUS]") that appear in the Pentateuch ("IN (Genesis, Exodus, Leviticus, Numeri, Deuteronomium)")
+In the following query we use the otype "book" and the corresponding feature "book" ("[book book") in order to count all words ("[word FOCUS]") that appear in the Pentateuch ("IN (Genesis, Exodus, Leviticus, Numeri, Deuteronomium)")
 
 **select all objects where**
 **[book book IN (Genesis, Exodus, Leviticus, Numeri, Deuteronomium)**
   **[word FOCUS]**
 **]**
 
-See query  [here](https://shebanq.ancient-data.org/hebrew/query?version=4b&id=1502)
-https://shebanq.ancient-data.org/hebrew/query?version=4b&id=1502
+See the above SHEBABNQ query [here](https://shebanq.ancient-data.org/hebrew/query?version=4b&id=1502)
