@@ -52,7 +52,7 @@ book | #chapters
 `Esra`         | 10
 `Nehemia`      | 13
 `Chronica_I`   | 29
-`Chronica_II`  | 35
+`Chronica_II`  | 35  
   
   
   
