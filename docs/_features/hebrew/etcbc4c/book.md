@@ -52,5 +52,19 @@ book | #chapters
 `Esra`         | 10
 `Nehemia`      | 13
 `Chronica_I`   | 29
-`Chronica_II`  | 35
+`Chronica_II`  | 35  
+  
+  
+  
+###SHEBANQ/MQL Query Example
+In the following query we use the otype `book` and the corresponding feature `book` (`[book book`) in order to count all words (`[word FOCUS]`) that appear in the Pentateuch (`IN (Genesis, Exodus, Leviticus, Numeri, Deuteronomium)`).
 
+```
+select all objects where  
+[book book IN (Genesis, Exodus, Leviticus, Numeri, Deuteronomium)  
+  [word FOCUS]  
+]
+```
+
+See this query (with results) on [SHEBANQ](https://shebanq.ancient-data.org/hebrew/query?version=4b&id=1502).
+Note that the data version used on SHEBANQ is **4b**, while this documentation is for version **4c**.
