@@ -54,13 +54,14 @@ book | #chapters
 `Chronica_I`   | 29
 `Chronica_II`  | 35
 
+
 ####SHEBANQ/MQL Query Example
 In the following query we use the ObjecType "book" and the corresponding feature "book" ("[book book") in order to count all words ("[word FOCUS]") that appear in the Pentateuch ("IN (Genesis, Exodus, Leviticus, Numeri, Deuteronomium)")
 
 **select all objects where
-[book book IN (Genesis, Exodus, Leviticus, Numeri, Deuteronomium)
-  [word FOCUS]
-]**
+**[book book IN (Genesis, Exodus, Leviticus, Numeri, Deuteronomium)
+  **[word FOCUS]
+**]
 
 See query  [here](https://shebanq.ancient-data.org/hebrew/query?version=4b&id=1502)
 https://shebanq.ancient-data.org/hebrew/query?version=4b&id=1502
