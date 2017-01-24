@@ -19,9 +19,12 @@ Hebrew stems:
 ---|---
 `hif`  |hif‘il
 `hit`  |hitpa“el
+`htpo` |hitpo“el
 `hof`  |hof‘al
 `nif`  |nif‘al
 `piel` |pi“el
+`poal` |po“al
+`poel` |po“el
 `pual` |pu“al
 `qal`  |qal
 
