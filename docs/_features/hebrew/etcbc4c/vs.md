@@ -32,7 +32,7 @@ Aramaic stems:
 `etpa` |etpa“al
 `etpe` |etpe‘el
 `haf`  |haf‘el
-`hop`  |hotpa“al
+`hotp`  |hotpa“al
 `hsht` |hishtaf‘al
 `htpa` |hitpa“al
 `htpe` |hitpe‘el
