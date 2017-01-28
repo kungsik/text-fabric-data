@@ -12,7 +12,7 @@ This feature is present on objects of type [*word*](otype).
 Only the consonants of the lexeme are present: no vowel pointing and no other diacritical marks.
 
 ##### Note
-> There is disambiguation material at the end of the value in the same way as in [lex](lex).
+> There is **no** disambiguation material at the end of the value, like [lex0](lex0) but in contrast with [lex](lex).
 
 ##### Hint
 > It is difficult to enter Hebrew text. One of the handiest ways to get Hebrew text into a query is to copy and paste it
