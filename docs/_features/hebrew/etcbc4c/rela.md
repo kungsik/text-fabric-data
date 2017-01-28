@@ -94,6 +94,9 @@ Explain why is this a useful feature? Examples needed.
 For *clause*-like objects this feature is also called *clause constituent relation*;
 it indicates the syntactic function of the clause.
 
+
+
+
 ##### Note
 > I prefer a more informative definition.
 
