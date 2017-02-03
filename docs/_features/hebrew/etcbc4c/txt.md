@@ -20,6 +20,7 @@ The values of this feature are strings consisting of
 ##### See also
 
 * [domain](domain)
+* [instruction](instruction)
 * A presentation about [text type](https://etcbc.github.io/text-fabric-data/assets/img/txt.pdf)
 
 Text type is a feature of a *clause*, and not of an object type higher 
