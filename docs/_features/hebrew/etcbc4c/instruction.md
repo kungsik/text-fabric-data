@@ -10,6 +10,10 @@ This feature is present on objects of type [*clause_atom*](otype).
 
 The value is something like ``.q``, ``..``, ``.d``, ``ve``.
 
+##### See also
+
+* [txt](https://etcbc.github.io/text-fabric-data/features/hebrew/etcbc4c/txt)
+
 ##### Caution
 > I prefer a more informative definition.
 Explain why is this a useful feature? Examples needed.
