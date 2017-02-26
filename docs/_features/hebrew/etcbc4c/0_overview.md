@@ -137,7 +137,7 @@ Nothing specific, just a generic [number](number) feature.
 ---|---
 [mother](mother) | relation of linguistic dependency
 [distributional_parent](distributional_parent) | the parent in the distributional hierarchy (`-atoms`)
-[functional_parent](function_parent) | the parent in the distributional hierarchy (`sentence clause phrase`)
+[functional_parent](functional_parent) | the parent in the distributional hierarchy (`sentence clause phrase`)
 
 # Generic features
 
