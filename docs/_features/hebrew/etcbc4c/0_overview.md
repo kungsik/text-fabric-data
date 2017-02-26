@@ -133,6 +133,7 @@ Nothing specific, just a generic [number](number) feature.
 [det](det) | determination | `det` `und`
 
 # Relationships
+
 ---|---
 [mother](mother) | relation of linguistic dependency
 [distributional_parent](distributional_parent) | the parent in the distributional hierarchy (`-atoms`)
