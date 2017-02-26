@@ -16,6 +16,7 @@ we have:
 * [word](#word-features)
 * [lexeme](#lexeme-features)
 * [linguistic](#linguistic-features)
+* [relationships](#relationships)
 * [generic](#generic-features)
 
 # Grid features
@@ -130,6 +131,12 @@ Nothing specific, just a generic [number](number) feature.
 [rela](rela) | phrase atom relation | `Appo` `Para` `Resu`
 [function](function) | phrase function | `Pred` `Subj`
 [det](det) | determination | `det` `und`
+
+# Relationships
+---|---
+[mother](mother) | relation of linguistic dependency
+[distributional_parent](distributional_parent) | the parent in the distributional hierarchy (`-atoms`)
+[functional_parent](function_parent) | the parent in the distributional hierarchy (`sentence clause phrase`)
 
 # Generic features
 
