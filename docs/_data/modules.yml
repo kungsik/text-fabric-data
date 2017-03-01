@@ -8,8 +8,9 @@
   lang: hebrew
   modules:
   - etcbc4c
-  - strong
+  - extrabiblical
   - phono
+  - strong
 
 - title: Greek
   lang: greek
