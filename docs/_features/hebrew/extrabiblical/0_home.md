@@ -10,7 +10,7 @@ Extra biblical text material, coded by Janet Dyk, Marianne Kaajan, Dirk Bakker, 
 for the 
 [SYNVAR project](http://www.nwo.nl/en/research-and-results/research-projects/i/30/9930.html),
 exported to MQL by Constantijn Sikkel and then to
-[Text-Fabric](https://github.com/ETCBC/text-fabric/wiki).
+[Text-Fabric](https://github.com/ETCBC/text-fabric/wiki)
 by Dirk Roorda
 [Data Archiving and Networked Services](https://dans.knaw.nl/en/front-page?set_language=en).
 
@@ -28,8 +28,7 @@ That means:
 * You may use the data for research and publish any amount of results;
 * When you publish this data or results you obtained from them, you have to comply with the following:
   * give proper attribution to the data when you use it in new applications,
-    by citing this persistent identifier:
-    [10.17026/dans-z6y-skyh](http://dx.doi.org/10.17026%2Fdans-z6y-skyh).
+    by citing this repository
   * when you have modified the data, indicate the changes without 
     claiming that the ETCBC has endorsed the modifications.
 
