@@ -66,6 +66,7 @@ This data contains some but not all of the linguistic features documented for th
 [etcbc4c dataset of the Hebrew Bible](https://etcbc.github.io/text-fabric-data/features/hebrew/etcbc4c/0_overview.html).
 There are little deviations in the contents though.
 Using Text-Fabric, it is easy to explore the details, e.g. with `F.`*feature*.`freqList()`.
+Note that in this dataset pronominal suffixes are separate words.
 
 See also 
 [tutorial (Hebrew)](https://github.com/etcbc/text-fabric/blob/master/docs/tutorial.ipynb)
