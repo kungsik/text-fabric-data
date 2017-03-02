@@ -120,6 +120,9 @@ the functional object fall neatly between their distributional atoms.
 Is `subphrase` functional or distributional?
 Are atoms always *maximal* continous stretches, or can you have two adjacent atoms of the same type?
 
+See the [AtomsAndMothers notebook]()
+which makes some basic explorations into these matters.
+
 ##### Note
 > If you are writing an MQL query, there is not a feature as such in which the type is stored.
 Rather you refer to the type when you write the building blocks such as `[word ...]` or
