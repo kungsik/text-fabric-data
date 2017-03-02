@@ -8,6 +8,9 @@ necessarily have an embbedding relationship.**
 The mother relation exists between objects of many different kinds.
 The feature [code](code) refers to it a lot.
 
+See the [AtomsAndMothers notebook](https://github.com/ETCBC/text-fabric-data/blob/master/docs/notebooks/AtomsAndMothers.ipynb)
+which makes some basic explorations into these matters.
+
 ##### Caution
 > This description needs more body: what objects can be mothers, what daughters?
 What is the linguistic meaning of mother in all those cases?
