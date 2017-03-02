@@ -39,7 +39,7 @@ This dataset contains the following writings:
 
 * 1QM
 * 1QS
-* Arjud
+* Ajrud
 * Arad
 * Balaam
 * Ketef Hinnom
