@@ -4,15 +4,15 @@
 @languageEnglish=english
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2017-02-28T21:19:29Z
+@dateWritten=2017-03-02T08:19:10Z
 
 13875	1QM
 1QS
-Arjud
+Kuntillet_Ajrud
 Arad
 Balaam
 Ketef_Hinnom
 Lachish
-Mesha
+Mesha_Stela
 Mesad_Hashavyahu
 Siloam
