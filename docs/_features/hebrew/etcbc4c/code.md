@@ -78,6 +78,7 @@ has [typ](typ) `CP` (conjunctive phrase) and
 [function](function) `Rela` (relative).
 The second digit denotes the tense of the verbal predicate of the daughter clause:
 
+##### Tenses
 ---|---|---
 `0`| none
 `1`| imperfect
@@ -136,7 +137,7 @@ I do not know why these values have been marked.
 
 Construction without a conjunction.
 The second and third digit denote the tense of the verbal predicate of the daughter and
-mother clause, respectively. See the [tense table](tenses).
+mother clause, respectively. See the [tense table](#tenses).
 
 ##### See also
 
@@ -184,7 +185,7 @@ the predicate (or the main part) of the clause.
 
 Asyndetic construction, but with a conjunctive adverb.
 The second and third digit denote the tense of the verbal predicate of the daughter and
-mother clause, respectively. See the [tense table](tenses).
+mother clause, respectively. See the [tense table](#tenses).
 
 ##### See also
 
@@ -196,7 +197,7 @@ mother clause, respectively. See the [tense table](tenses).
 
 Construction with a conjunction from class 400, the *coordinating* conjunctions:
 The second and third digit denote the tense of the verbal predicate of the daughter and
-mother clause, respectively. See the [tense table](tenses).
+mother clause, respectively. See the [tense table](#tenses).
 
 ##### See also
 
@@ -224,7 +225,7 @@ code 800 also occurs in the table of
 
 Construction with a conjunction from class 500, the *postulational* conjunctions:
 The second and third digit denote the tense of the verbal predicate of the daughter and
-mother clause, respectively. See the [tense table](tenses).
+mother clause, respectively. See the [tense table](#tenses).
 
 ##### See also
 
@@ -236,7 +237,7 @@ mother clause, respectively. See the [tense table](tenses).
 
 Construction with a conjunction from class 600, the *conditional* conjunctions:
 The second and third digit denote the tense of the verbal predicate of the daughter and
-mother clause, respectively. See the [tense table](tenses).
+mother clause, respectively. See the [tense table](#tenses).
 
 ##### See also
 
@@ -248,7 +249,7 @@ mother clause, respectively. See the [tense table](tenses).
 
 Construction with a conjunction from class 700, the *conditional* conjunctions:
 The second and third digit denote the tense of the verbal predicate of the daughter and
-mother clause, respectively. See the [tense table](tenses).
+mother clause, respectively. See the [tense table](#tenses).
 
 ##### See also
 
@@ -275,7 +276,7 @@ code `800` also occurs in the table of
 
 Construction with a conjunction from class 800, the *final* conjunctions:
 The second and third digit denote the tense of the verbal predicate of the daughter and
-mother clause, respectively. See the [tense table](tenses).
+mother clause, respectively. See the [tense table](#tenses).
 
 ##### See also
 
@@ -287,7 +288,7 @@ mother clause, respectively. See the [tense table](tenses).
 
 Construction with a conjunction from class 900, the *causal* conjunctions:
 The second and third digit denote the tense of the verbal predicate of the daughter and
-mother clause, respectively. See the [tense table](tenses).
+mother clause, respectively. See the [tense table](#tenses).
 
 ##### See also
 
