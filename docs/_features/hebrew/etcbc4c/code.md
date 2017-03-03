@@ -79,6 +79,7 @@ has [typ](typ) `CP` (conjunctive phrase) and
 The second digit denotes the tense of the verbal predicate of the daughter clause:
 
 ##### Tenses
+
 ---|---|---
 `0`| none
 `1`| imperfect
