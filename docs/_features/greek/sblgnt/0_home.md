@@ -26,6 +26,10 @@ to determine an object type, such as *sentence*, *clause*, *phrase*, *word*.
 
 The result has 137794 word nodes (*slots*), and 428430 nodes in total.
 
+### 2017-03-21 
+Added features [g_word](g_word), [g_plain](g_plain), [trailer](trailer). 
+These have been computed from [Unicode](unicode).
+
 ## Extra information
 We have added the names of the input files as book names and destilled the book, chapter, verse information
 that is present in each `<node>` identifier into Text-Fabric node types `book`, `chapter`, `verse`, with

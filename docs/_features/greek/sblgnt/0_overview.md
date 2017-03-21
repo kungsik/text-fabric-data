@@ -42,7 +42,10 @@ we have:
 ## Orthography
 
 ---|---|---|---|---
-[Unicode](Unicode) | word | full | greek | `γενέσεως`
+[Unicode](Unicode) | word | full (with trailer) | greek | `γενέσεως. `
+[g_word](g_word) | word | full (without trailer) | greek | `γενέσεως`
+[g_plain](g_plain) | word | plain (uppercases without accents) | greek | `ΓΕΝΕΣΕΩΣ`
+[trailer](trailer) | word | trailer | greek | `. ` 
 
 ## Lexical
 
