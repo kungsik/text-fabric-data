@@ -35,7 +35,8 @@ we have:
 [label](label#verse) | passage indicator | `AMOS 03,04`
 [label](label#half-verse) | key for part within verse | `A` `B` `C`
 
-# Lexeme features (on node type `lex`)
+# Lexeme features
+(on node type `lex`)
 
 ---|---|---
 [lex](lex) | lexeme consonantal transliterated | `>MR[`
