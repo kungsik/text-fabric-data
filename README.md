@@ -11,7 +11,7 @@ annotated with morphology and grammar.
 Multiple people and organizations have contributed to these datasets.
 There is extensive documentation about the conditions of use, provenance and structure of these datasets.
 
-[*Go to the complete documentation of the available datasets*](https://etcbc.github.io/text-fabric-data/)
+## [Go to the complete documentation of the available datasets](https://etcbc.github.io/text-fabric-data/)
 
 ---
 
