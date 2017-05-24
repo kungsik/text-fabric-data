@@ -6,7 +6,12 @@ Text-Fabric data is a collection of richly annotated data sources.
 They are stored here in a compact, plain text format
 [.tf](https://github.com/ETCBC/text-fabric/wiki/File-formats).
 
-[Available Texts](https://etcbc.github.io/text-fabric-data/)
+The available texts include the Hebrew Bible and the Greek New Testament, both 
+annotated with morphology and grammar.
+Multiple people and organizations have contributed to these datasets.
+There is extensive documentation about the conditions of use, provenance and structure of these datasets.
+
+[*Go to the complete documentation of the available datasets*](https://etcbc.github.io/text-fabric-data/)
 
 ---
 
