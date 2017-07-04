@@ -1,5 +1,5 @@
 ---
-title: Gneder
+title: Gender
 ---
 
 **grammatical gender**
