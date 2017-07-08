@@ -29,6 +29,11 @@ defaults:
       values:
         lang: greek
         feat: true
+    - scope:
+        path: "_features/sanskrit"
+      values:
+        lang: sanskrit
+        feat: true
 
 email: 
 
