@@ -20,14 +20,14 @@ we have:
 # Grid features
 
 ---|---|---
-[otype](otype) | node type | `book` `verse` `clause` `phrase` `word`
+[otype](otype) | node type | `book` `verse` `clause` `phrase` `word` `letter`
 [oslots](oslots) | slot containment | `1` `1-11` `2010-2015,2020-2030`
 [otext](otext) | textapi | *no data, only specifications*  
 
 # Sectional features
 
 ---|---|---
-[book](book) | name of source file| `Abhidharmakośa` `Bhāgavatapurāṇa`
+[book](book) | name of source file| `Abhidharmakośa` `Bhāgavatapurāṇa`
 [chapter](chapter) | number of chapter within book | `65`
 [verse](verse) | number of verse within chapter | `1`
 
