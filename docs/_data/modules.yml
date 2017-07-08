@@ -17,3 +17,8 @@
   modules:
   - sblgnt
 
+- title: Sanskrit
+  lang: sanskrit
+  modules:
+  - dcs
+
