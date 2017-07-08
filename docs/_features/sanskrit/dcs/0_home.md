@@ -12,7 +12,7 @@ Sanskrit corpus obtained from [github](https://github.com/cltk/sanskrit_text_dcs
 The conversion of this dataset to
 [Text-Fabric](/ETCBC/text-fabric/wiki)
 has been carried out by Dirk Roorda on a suggestion by
-[Tylor Neill](http://www.gko.uni-leipzig.de/indologie-zaw/institut/mitarbeiter-in-forschungsprojekten/tyler-graham-neill.html).
+[Tyler Neill](http://www.gko.uni-leipzig.de/indologie-zaw/institut/mitarbeiter-in-forschungsprojekten/tyler-graham-neill.html).
 The source has been taken on 2017-07-08
 (commit [1e5e094daa69521bf6b9916aa5e390b99727b7d9](https://github.com/cltk/sanskrit_text_dcs/commit/1e5e094daa69521bf6b9916aa5e390b99727b7d9))
 
@@ -22,12 +22,9 @@ and subjective at best, and in any case, they are subject to study and analysis.
 
 We do not impose any segmentation and the default text rendering is without any spacing.
 
-All attributes have been faithfully translated to individual Text-Fabric features.
-The attribute `Cat` has been used, together with the fact whether a `<Node>` appears as root or as leaf,
-
 The result has 1161379 letter nodes (*slots*), and 1336710 nodes in total.
 
-There is segmentation, but no syntax and morphology markup.
+There is no syntax and morphology markup.
 
 # Status
 
